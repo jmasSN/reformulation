@@ -1,0 +1,596 @@
+﻿<body>
+5.921|6.418|oui
+6.418|7.887|euh où ça exactement ?
+7.887|9.147|alors je suis domicilié à Chécy
+9.147|10.653|et
+9.89|11.789|ouais depuis mille neuf cent quatre-vingt-quatorze
+11.789|14.114|depuis mille neuf cent quatre-vingt quatorze donc
+13.176|16.233| et avant j'étais à Saint-Denis-en-Val depuis ma naissance
+14.987|18.574|et c'est ah et donc vous êtes né à Saint-Denis-en-Val ?
+17.785|19.292|je suis né à je suis né à Orléans
+19.292|20.05|d'accord
+20.05|21.125|j'ai toujours habité Saint-Denis-en-Val
+21.125|23.98|hm hm et vos parents euh eux-mêmes i- ils
+23.078|25.467|non alors toute ma famille est originaire de Dordogne
+25.467|29.492|d'accord comment ça se fait du coup que euh
+29.492|35.147|dans les années soixante-cinq c'est mon père <reformulation><P1>qui est revenu sur Or-</P1><MR/> <P2 modif_morph="deriv(revenu/venu)" rel_pragm="prec">qui est venu sur Orléans</P2></reformulation>
+35.147|35.601|hm hm
+35.601|41.528|il veut la Dordogne était en pénurie d'em- d'emplois  donc il est re- il a fait l'effort de venir et puis du coup ben
+37.011|39.097|d'accord hm hm
+41.528|45.097|d'accord et il était déjà marié donc i- il est venu avec euh votre euh maman
+44.602|48.699|il était m- marié mais il est venu euh seul au départ et après ma
+48.699|51.997|d'accord ah oui d'accord
+49.402|52.722|<reformulation><P1>ma mère qui l'a suivi</P1> <MR/><P2 modif_morph="flex(avait/a)" rel_pragm="explic" rel_lex="anto(suivi/laisser)">elle avait du mal à laisser</P2></reformulation>
+52.722|61.535|hm hm d'accord oui oui tout à fait oui y a quelques différences euh
+53.74|58.086|la Dordogne donc on on la comprend
+61.535|62.95|oui oui oui
+61.989|75.655|au niveau des régions euh qu'est-ce que j'allais dire et donc vous vous êtes euh né à <reformulation><NP1>Orléans</NP1> <DH>euh</DH> <DMD>enfin</DMD> <DH>euh</DH> <NP2 rel_lex="mero(Orléans/l'agglomération)" rel_pragm="prec">l'agglomération</NP2> <MRCOR>pardon</MRCOR> <DH>euh</DH> <NP3 rel_pragm="prec" rel_lex="mero(l’agglomération/Saint-Denis-en-Val)">Saint-Denis-en-Val</NP3></reformulation>
+70.023|70.501|hm
+74.085|84.662|ma scolarité alors il faut que je remémore j'ai fait <reformulation><N1>la primaire collège</N1> <DH>euh</DH> <DMD>alors</DMD> <DH>euh</DH> <N2 rel_pragm="denom">primaire à Saint-Denis-en-Val collège à Saint-Jean-le-Blanc</N2></reformulation>
+84.662|85.448|hm hm
+85.448|92.893|après je suis parti en lycée et après je suis revenu euh à   supérieur à Orléans
+88.318|89.977|d'accord
+92.893|101.604|d'accord et donc euh c'est là où vous avez eu votre premier emploi ici ouais d'accord tout de suite après les études ?
+98.984|99.943|oui Orléans 
+101.604|103.249|non tout de suite après je suis parti à l'armée
+103.249|108.827|d'accord hm hm hm hm et alors c'est quoi votre euh métier ?
+104.014|106.013|et puis après j'ai premier emploi sur Orléans
+108.827|114.94| <reformulation><NP1>un métier</NP1> <MR/><NP2 rel_pragm="prec" rel_lex="hypo">mon métier</NP2> <MR type="pres">c'est</MR> <P3 rel_lex="syno(mon métier/je travaille)" rel_pragm="denom">je travaille à la police ferroviaire</P3> <NP4>c'est-à-dire que c'est la police interne de la SNCF</NP4></reformulation>
+108.827|114.94| un métier mon métier c'est je travaille à <reformulation><NP1>la police ferroviaire</NP1> <MR>c'est-à-dire</MR> que <MR type="pres">c'est</MR> <P2 rel_pragm="def" rel_lex="syno(la police ferroviaire/la police interne de la SNCF)">la police interne de la SNCF</P2></reformulation>
+114.94|126.546|d'accord euh OK donc euh  j'aimerai avoir quelques renseignements sur euh c'est c'est c'est c'est pas donc c'est propre à la SNCF
+124.696|130.61|c'est propre à la SNCF c'est euh <reformulation><NP1>les grandes lignes</NP1> <MR type="pres">c'est</MR> <NP2 rel_pragm="denom" rel_lex="mero(les grandes lignes/la SNCF)">la SNCF</NP2></reformulation>
+130.61|134.244|d'accord et donc euh les missions c'est euh
+133.286|141.869|<reformulation><NP1>les missions</NP1> <MR type="pres">c'est</MR> <NP2 rel_pragm="def">missions de sécurisation des trains des gares euh de tout de tout ce qui appartient à la SNCF de tout ce qui est infrastructures bureaux</NP2></reformulation>
+139.805|140.353|d'accord
+141.869|154.585|d'accord et euh vous avez des des relations particulières avec la police nationale ou avec  la la la police euh municipale d'accord vous n'êtes vous n'avez pas les mêmes équipements je suppose ou c-
+146.763|150.74|oui oh oui complètement oui complètement complètement ouais
+153.259|161.923|oh n- <reformulation><P1>on a pratiquement les mêmes équipements</P1><MR/><P2 rel_pragm="denom" rel_lex="hypo(équipements/arme)">on a une arme de quatrième q- degré de sixième catégorie</P2></reformulation>
+161.923|175.17|d'accord hm hm OK euh très bien alors je vais vous demander justement euh  de bien vouloir nous décrire une journée euh type euh de travail euh c- c- comment vous
+175.17|190.015|une journée type  de travail c'est bah euh  donc c'est dés le début donc prise de service  on s'habille on prend ses <reformulation><NP1>ses agrès</NP1> <MRCONC>donc</MRCONC> <MRP>ça veut dire</MRP> <NP2 rel_pragm="para" rel_lex="hypo(agrès/arme)">son arme</NP2></reformulation>
+175.732|181.238|dés d- dés le début hein de hm
+184.325|186.999|c'est à à hm d'accord
+188.997|190.552|hm hm hm hm
+190.552|193.622|donc euh ben suivant on va faire du euh hm
+193.146|198.65|ah qui qui peut changer d'un jour à l'autre en fait donc vous vous la découvrez le jour même ? d'accord hm hm
+194.638|200.144|qui change <reformulation><Adv1>d'un jour à l'autre</Adv1> suivant les évènements suivant les évènements <DMD>donc </DMD><DA>on les re- on l'a</DA> <DH>euh</DH> <Adv2 rel_lex="syno" rel_pragm="para">quotidiennement</Adv2></reformulation>
+200.144|200.681|hm hm
+200.681|211.515|et puis euh bah après soit on va en séc- sécurisation d'une gare ou on va accompagner des trains ou euh faire euh de la surveillance de lignes SNCF et après on on fait à l'évènement
+204.423|206.291|hm hm
+208.762|210.605|hm hm hm hm
+211.515|213.39|d'accord hm
+212.47|219.559|c'est-à-dire que si par exemple si vous avez euh hm la finale de de rugby où vous avez des trains de supporters qui passent à Orléans on est là pour sécuriser les trains
+218.359|224.312|hm hm d'accord vous êtes euh vous êtes combien de personnes ? dans l'équipe ?
+224.312|226.055|euh ici sur Orléans neuf
+226.055|231.439|vous êtes neuf d'accord et donc c'est euh hm vous connaissez
+227.092|227.769|neuf oui
+228.928|235.152|y a à peu p- y a y a des agents dans toutes les grandes villes
+235.152|235.813|hm hm
+235.813|241.345|et puis après y a des <reformulation><NP1>des petits bureaux</NP1> <MRE>style</MRE> <NP2 rel_lex="mero(bureau/Vierzon Nevers)" rel_pragm="exempl">Vierzon Nevers</NP2></reformulation>
+239.224|239.741|hm hm
+240.571|247.705|d'accord hm hm et euh le recrutement de  la police ferroviaire se fait euh localement ou c'est national ?
+247.705|249.011|c'est national et c'est Paris
+249.011|253.52|d'accord hm hm je suppose que c'est un c'est un concours euh  non ?
+253.52|262.719|c'est un c- c'est pas un concours c'est un comment expliquer c'est p- c'est pas <reformulation><PRES1>c'est pas un concours</PRES1> <MR/><PRES2 rel_lex="hypo(concours/examen)" rel_pragm="oppos">c'est un examen</PRES2></reformulation>
+261.249|264.355|hm hm d'accord hm hm
+264.355|268.495|hein ils mettent pas en place euh un concours avec deux milles personnes et puis on en prend que dix quoi
+266.253|268.889|d'accord hm hm d'accord hm hm
+268.889|270.091|ils prennent vraiment ceux qu'ils ont besoin
+270.091|271.276|d'accord hm hm
+271.276|273.858|bon après évidemment y a des y a des gens qui échouent et puis euh
+273.858|282.28|hm hm d'accord et donc vous euh on on revient un peu euh  donc v- vous travaillez tous les jours de la semaine ?
+282.28|286.154|c- on peut euh travailler euh six jours d'affilée
+286.154|286.675|hm hm
+286.675|294.881|et <reformulation><PP1>après voilà donc euh suiv- euh avoir des compensations</PP1> <MR/><PP2 modif_morph="flex(avoir/a)" rel_pragm="prec">après y a des compensations suivant la règlementation du travail</PP2></reformulation>
+287.784|289.094|avoir des compensations et
+290.748|291.329|hm hm
+292.343|292.888|hm hm
+294.881|295.525|d'accord
+295.525|297.495|la nuit le matin
+297.495|305.04|ah ça peut changer parce que vous vous n'êtes vous n'avez pas votre planning <reformulation><Adv1>à l'avance</Adv1> <DH>euh</DH> <Adv2 rel_lex="syno(à l'avance/en avance)" rel_pragm="prec">longtemps en en avance</Adv2></reformulation>
+302.465|308.324|on a notre planning à l'avance  longtemps juste pour avoir nos nos périodes de repos
+308.324|308.861|hm hm
+308.861|312.471|après entre les repos euh on fait un peu ce qu'on veut quoi enfin ce qu'on veut ce qu'on
+311.331|311.872|d'accord
+312.471|325.514|d'accord d'accord euh hm qu'est-ce que j'allais dire à propos et donc vous vous rendez euh sur votre euh lieu de travail vous vous rendez en voiture je suppose euh de Chécy ?
+322.362|323.939|alors ou en voiture ou en vélo
+325.514|325.87|oui
+325.87|330.522|d'accord c'est courageux un éch-
+329.284|335.822|ouais c'est c'est c- c'est aussi un un moment de décontraction avant de rentrer chez soi le soir des fois on en a besoin
+334.352|336.338|hm hm hm hm hm
+336.338|339.135|comme ça on arrive <reformulation><P1>on est bien détendu</P1> <MR/><P2 rel_pragm="prec" rel_lex="anto(détendu/énervé)">on n'est pas énervé de la de sa journée</P2></reformulation>
+339.135|345.41|d'accord et donc c'est un métier je su- je suppose euh bah à la fois mental mais aussi physique euh
+345.41|348.938|ouais enfin i-  vaut mieux avoir une mi- un minimum de condition physique ouais
+348.938|352.746|ouais et donc euh vous vous entretenez et c'est ouais
+350.32|355.001|ouais <reformulation><VP1>je cours aussi</VP1> <DMD>ouais</DMD> <VP2 rel_pragm="prec">je cours pas mal</VP2></reformulation> puis à Chécy on a <reformulation><NP1>les bords de Loire</NP1> <MR/><NP2 rel_lex="mero(Loire/canal)" rel_pragm="prec">les bords du canal</NP2></reformulation>
+355.001|362.521|d'accord et c'est c'est plus des entraînements que vous vous  vous vous vous imposez ou vous avez une
+360.554|372.253|al- on a une on a on disons que la p- la partie euh entraînement physique que la société met en place c'est pour moi c'est pas assez donc euh moi après j'ai un besoin donc euh vu que j'ai f- toujours fait  du sport depuis que je suis petit
+367.191|367.67|hm hm
+370.449|371.239|hm hm
+372.253|372.875|d'accord
+372.875|375.15|donc après je c'est mon complément
+373.639|381.578|hm hm d'accord et donc vous con- considérez euh agent SNCF oui d'accord hm hm
+379.293|380.308|oui ah complètement
+380.787|387.019|complètement hm l'avantage c'est que demain si on en a marre de  de ce service-là on peut très bien aller conduire les trains ou faire contrôleur ou euh
+385.54|387.538|ah oui d'accord ah oui d'accord hm hm
+388.619|403.978|OK d'accord OK très bien euh donc euh on a parlé un petit peu des des parents qui viennent euh donc euh  d'une région un peu plus vallonnée on va dire  et euh et donc vous avez des enfants ?
+400.294|402.174|ah oui oui
+403.978|405.249|oui deux filles
+405.249|407.264|deux filles qui qui ont quel âge ?
+407.264|408.277|treize ans et neuf ans
+408.277|412.222|d'accord qui ont qui sont scolarisées à sur Chécy ?
+411.392|414.957|la petite est sur Chécy la grande est sur Orléans
+414.957|425.554|hm hm d'accord et donc vous êtes euh sur Chécy depuis euh depuis quatre-vingt-quatorze vous m'avez dit euh vous habitez un  appartement euh un pavillon
+419.951|421.696|oui
+423.369|424.804|un pavillon
+425.554|425.95|ouais
+425.95|434.758|avec un petit euh jardin euh tout ça et donc euh c'est quel quartier ? enfin q- hm je connais pas très très bien mais juste pour euh  euh
+426.902|428.248|oui
+433.535|436.524|c'est entre l- la nationale et la Bionne
+436.524|443.21|d'accord donc à on va dire à au nord de la nationale c'est ça ?
+443.21|443.608|oui
+443.608|444.311|d'accord
+444.311|445.055|au nord de la nationale
+445.055|452.266|d'accord  et donc le quartier enfin euh pavillonnaire euh vous avez quand même des commerces euh sur place ou
+446.88|449.663|un quartier r- euh hm hm OK
+452.266|455.888|ah non faut faire euh  <reformulation><NP1>un kilomètre</NP1> <DI>hein</DI> <DMD>ouais</DMD> <NP2 rel_pragm="prec">un peu plus d'un kilomètre</NP2></reformulation>
+455.888|467.967|d'accord pour trouver le centre euh de euh de de d'accord hm hm hm d'accord hm hm c'est là où vous allez avoir euh <reformulation><NP1>le petit commerçant</NP1> <MRE>genre</MRE> <DH>euh</DH>  <N2 rel_lex="hypo(le petit commerçant/boulangerie)" rel_pragm="exempl">boulangerie</N2></reformulation>
+458.704|459.283|de Boigny
+460.105|463.009|de Boigny ouais je suis plus près de Boigny que de Chécy
+466.937|470.269|ouais la boulangerie ou pharmacie euh petite supérette euh
+470.269|471.891|hm hm d'accord
+471.891|473.527|boucher enfin
+472.78|497.533|hm hm d'accord sinon <reformulation><NP1>le supermarché le plus proche</NP1> <MR type="pres">c'est</MR> <DH>euh</DH> <MR type="pres">c'est</MR> <NP2 rel_lex="inst(supermarché/intermarché)" modif_morph="deriv(supermarché/intermarché)" rel_pragm="denom">intermarché à Chécy</NP2></reformulation>
+473.961|474.362|ouais
+475.77|478.342|intermarché ouais
+479.533|480.546|de temps en temps
+497.533|498.131|oui
+498.131|505.084|quand vous ne travaillez pas  c- c'est vous donnez quel type de d'activités de loisirs ?
+505.084|524.542|alors quand je suis en repos les jours de semaine je fais du sport et puis   je bricole je fais mon <reformulation><N1>jardinerie</N1> <MR/><N2 modif_morph="deriv(jardinerie/jardinage)" rel_lex="mero(jardinerie/jardinage)" rel_pragm="prec">jardinage</N2></reformulation>
+511.77|512.29|hm hm
+515.381|517.549|hm hm hm hm
+520.011|521.234|hm 
+524.542|527.754|d'accord plutôt en France ou
+525.455|529.148|euh ça
+530.186|555.025|d'accord hm hm d'accord euh v- vous m'avez parlé du du de cinéma vous d- vos vos filles vous les amenez euh sur Orléans ? je suppose oui y a pas d'autres euh salles de de  euh d'accord est-ce qu'il vous arrive de euh hm de sortir sur Orléans pour euh euh des spectacles ou euh 
+538.931|542.6|oui oui oui
+553.611|562.941|alors sur Orléans oui quelques fois au Zénith mais on va surtout à Chécy y a une y a une belle salle culturelle où y a <reformulation><NP1>des pièces de théâtre qui passent</NP1> <DA>des euh</DA> <NP2 rel_lex="syno(pièces de théâtre/spectacles)" rel_pragm="prec">des spectacles</NP2></reformulation>
+557.225|558.013|hm hm
+559.825|561.096|d'accord
+562.941|578.105|d'accord d'accord d'accord OK oui j'ai vu que effectivement y avait une euh <reformulation><NP1>une activité qui était assez intéressante</NP1> <MRCOO>et et</MRCOO> <DH>euh</DH> <MRCONC>et donc</MRCONC></reformulation>
+<NP2 rel_lex="(une activité/les restaurants les bars)" rel_pragm="exempl">les restaurants les bars</NP2> ? d'Orléans c'est oui
+564.062|566.398|aux portes de la maison quoi 
+568.02|571.202|euh oui oui té- ouais
+575.554|577.524|alors les bars quand j'étais plus jeune
+578.105|582.708| mais <reformulation><PP1>dans les restaurants</PP1> <DMD>oui</DMD> <DMD>mais</DMD> <P2 modif_morph="flex(restaurants/restaurant)" rel_pragm="prec">on va aussi au restaurant</P2></reformulation>
+582.708|603.597|d'accord donc y a pas un d'accord hm hm OK et donc euh  vos vos activités euh sportives hein je vais <reformulation><P1>vos activités sportives c'est enfin c'est quel type</P1> <MR/> <MR type="pres">c'est</MR> <DA>plutôt</DA> <DH>euh euh</DH> <DMD>enfin</DMD> <N2  rel_lex="inst(type/marche course etc)" rel_lex2="inst(vos activités sportives/marche course)" rel_pragm="exempl">marche ou course et cetera</N2></reformulation>
+583.188|585.458|c'est vrai non y a pas de non non
+601.857|605.751|ouais plutôt que footing vélo avec les f- les bah les filles
+605.751|606.165|hm hm
+606.165|609.796|et puis piscine mais euh je je regarde mes filles nager parce que je suis pas très euh
+609.796|613.73|hm hm le sport collectif vous faites pas partie
+610.756|619.539|sport t- collectif j'en ai fait jusqu'à l'âge de seize ans et après par rapport à mes horaires euh c'était in- c'est impensable
+617.4|620.809|oui <reformulation><VP1>c'était pas</VP1> <MR/><VP2 modif_morph="flex(était/est)" rel_pragm="prec">c'est pas</VP2></reformulation>
+620.809|621.597|c'est pas facile
+621.597|624.711|hm hm d'accord la télévision ? 
+624.711|625.747|oui
+625.747|629.716|oui vous regardez quel type de euh d'émissions
+629.716|632.826|ah quel type d'émi- faut que j- faut que je donne des euh 
+631.521|636.273|si vous voulez
+633.473|639.861|euh alors donc euh le Grand Journal quand je peux de Canal Plus
+637.064|640.213|le Grand Journal de Canal Plus d'accord hm hm
+640.213|642.875|sinon après on regarde beaucoup euh Arte
+642.875|643.496|hm hm
+643.496|651.342|et puis euh tout ce qui est <reformulation><N1>émissions</N1> <DH>euh hm</DH> <MRE>style</MRE> <N2 rel_lex="inst(émissions/ Envoyé Spécial Zone Interdite" rel_pragm="exempl">Envoyé Spécial euh Zone Interdite</N2></reformulation>
+648.555|653.176|d'accord hm hm d'accord d'accord ah bon pourquoi
+652.49|656.871|non parce que ce sont des émissions un peu euh  &amp; télé- réalité donc c'est  on n'accroche pas du tout
+655.981|657.287|d'accord  hm hm
+657.287|661.589|et puis sinon bah le s- sou- souvent quand <reformulation><VP1>j'ar-</VP1><MR/> <VP2 rel_lex="syno(ar-/rentre)" rel_pragm="para">je rentre</VP2></reformulation>
+661.589|669.499|d'accord pour les info- euh d'accord hm hm euh j'ai j'ai oublié de vous poser la question  votre épouse elle fait quel euh quel métier ?
+662.412|664.331|pour les info-
+669.499|671.325|elle travaille dans un la grande distribution
+671.325|680.018|d'accord hm hm d'accord et la radio ? vous dans la voiture d'accord 
+676.117|677.127|la radio dans la voiture
+680.018|685.288|la radio dans la voiture parce que sinon non sinon à la maison on écoute euh on met des CD quoi sinon
+685.288|689.774|hm hm hm d'accord euh ordinateur ?
+689.774|690.146|oui
+690.146|691.453|oui internet ?
+691.453|691.837|oui
+691.837|694.582|oui beaucoup vous surfez euh beaucoup ?
+694.582|701.652|beaucoup euh beaucoup bah surtout pour les filles pour les maintenant à l'école on demande toujours des euh des la documentation sur internet
+699.952|702.005|hm hm hm hm
+702.005|709.861|et puis euh bah on communique aussi par euh par mail forcément et puis si ça m'arrive souvent de  euh de  de surfer pour chercher des euh des choses à acheter ou euh
+704.266|706.301|hm hm d'accord
+709.861|725.892|d'accord hm hm ah oui pour euh les achats euh d'accord hm hm OK alors euh quand vous avez les vacances euh je pense que ça vous arrive euh  alors vous  vous partez quelques fois à l'étranger ?
+712.719|713.772|les af- oui
+718.943|719.713| oui
+720.723|722.382|oui bien sûr
+725.892|731.797|oui et puis souvent <reformulation><PP1>dans la famille</PP1> <DMD>ouais</DMD> <NP2 rel_lex="mero(dans la famille/Dordogne)" rel_pragm="para">Dordogne</NP2></reformulation>
+726.989|731.404|et c'est souvent dans la famille donc euh
+731.797|736.169|en Dordogne oui d'accord d'accord hm
+732.712|734.367|cor- Dordogne une à une à deux fois par an
+735.092|745.963|et puis sinon on va souvent à l'île d'Oléron on Toulouse euh Cambrai euh enfin on a plein de plein d'amis partout puis sinon ben on on est parti à Amsterdam on est parti à Rome euh
+740.873|743.366|d'accord hm hm
+745.963|746.417|hm hm hm
+746.417|749.585|Martinique Guadeloupe euh on fait toujours avec 
+747.419|748.335|hm hm
+749.585|761.937|d'accord et donc en Dor- en Dordogne je parie que c'est <reformulation><NP1>vacances un peu euh sportives</NP1> <DMD>enfin</DMD> <NP2 modif_morph="deriv(sportives/sport)" rel_lex="mero(vacances sportives/nature et les sports)" rel_pragm="denom">nature et les sports</NP2></reformulation>
+758.438|772.535|oui euh oui oui non je me force à  courir le seul problème c'est que quand on a l'habitude de courir sur Chécy et  qu'on court donc en Dordogne c'est la distance euh <reformulation><PRES1>c'est pas pareil</PRES1> <DI>hein</DI> <NP2 modif_morph="deriv(sportives/sport)" rel_lex="mero(vacances sportives/nature et les sports)" rel_pragm="denom">nature et les sports</NP2></reformulation>
+765.068|771.515|ouais ouais ouais ouais ouais d'accord hm
+772.535|786.664|hm hm d'accord donc  donc vous reprenez le poids que que vous avez perdu à Chécy d'accord OK d'accord euh hm alors quelques euh oui lecture ?
+776.744|778.233|tout à fait
+785.567|790.316|lecture oui alors <reformulation><P1>quand j'ai le temps je  je lis beaucoup</P1> <DMD>mais</DMD> <P2 rel_pragm="justif">quand j'ai le temps pourquoi pas</P2></reformulation>
+789.389|791.877|quel quel genre de de lecture euh
+791.877|792.505|romans
+792.505|797.618|romans d'accord d'accord pas les romans policiers ? si
+793.251|794.349|et euh biographies
+796.207|798.301|si alors romans policiers c'est souvent quand on va à la plage
+798.301|801.186|d'accord hm hm hm hm hm
+799.048|802.227|donc comme ça c'est c'est du ra- <reformulation><PRES1>c'est du rapide</PRES1> <MR/><PRES2 rel_lex="syno(rapide/vite)" rel_pragm="para">c'est du vite lu</PRES2></reformulation>
+802.227|802.768|hm hm
+802.768|803.807|de se triturer la tête
+803.807|804.4|d'accord
+804.4|807.534|mais sinon moi <reformulation><P1>j'aime bien tout tout ce qui est euh biographies</P1> <MR/><P2 rel_pragm="res">j'aime bien</P2></reformulation>
+807.534|808.252|d'accord
+809.028|811.596|hm hm OK
+811.596|814.979|<reformulation><NP1>les gros best sellers</NP1> <DI>hein</DI> <NP2 rel_lex="inst(les gros best sellers/ Da Vinci Code et compagnie)" rel_pragm="exempl">Da Vinci Code et compagnie</NP2></reformulation>
+814.315|840.308|hm hm hm hm d'accord OK euh hm donc euh sur la enfin sur Orléans y a un certain nombre de manifestations euh on va dire culturelles entre guillemets parce que c'est et et donc <reformulation><P1>j'aimerais avoir votre avis euh sur ces manifestations</P1> <MRCOO>et en même temps</MRCOO> <DH>euh hm</DH> <P2 rel_lex="syno(j'aimerais avoir votre avis/ si vous voulez bien me dire)" rel_lex2="mero(votre avis/dire)" rel-lex="syno(avoir votre avis/me dire)" rel_pragm="para">si vous voulez bien me dire</P2></reformulation>
+827.29|828.762|ouais
+838.095|839.355|hm
+840.308|845.677|euh j'y suis allé tellement quand j'étais petit que j'ai emmené mes filles deux fois je crois
+845.677|846.156|hm hm
+846.156|847.254|et puis non c'est euh
+847.254|855.31|d'accord donc c'est euh c- c'est d'accord hm hm et sinon vous les trouvez comment ? euh ces fêtes ?
+848.04|851.702|non c'est euh c'est je pense y a une overdose
+855.31|861.119|c'est euh c'est toujours la même chose
+861.119|861.811|hm hm
+861.811|873.314|c'est un petit peu ce qu'on ce qu'on regrette la même chose je sais que l- y a c- combien de temps ah t- quatre ans j- on avait été au pro- au défilé des provinces le matin je trouvais qu'y avait de moins en moins de de participants
+863.77|864.892|hm hm
+870.171|871.778|hm hm
+873.314|873.749|hm hm
+873.749|878.136|que c'était plus comme euh comme m- moi quand j'avais <reformulation><NP1>dix dix ans</NP1><MR/> <NP2 rel_pragm="prec">dix douze ans</NP2></reformulation>
+876.251|878.809|d'accord hm hm hm hm
+878.809|886.324|non s- j'ai y a <reformulation><Adv1>moins de</Adv1> <DH>euh</DH> <Adv2 rel_lex="mero(moins/pas)" rel_pragm="para">pas d'</Adv2></reformulation>
+880.068|882.689|d'accord
+885.077|891.385|hm hm hm hm hm hm d'accord euh le Festival de Jazz ?
+891.385|892.114|non
+892.114|902.197|non pas du tout ? d'accord euh le Festival de Loire ? non plus trop de monde eh oui d'accord
+892.719|893.733|ah le jazz non
+897.285|899.201|euh trop de monde
+899.953|901.389|c'est
+902.197|916.632|c'est c'est beaucoup trop de personnes sur un une surface beaucoup trop trop petite ah  bah là c'est ouais ouais surtout s- surtout nous dans la Chécy euh on n'a pas de tramway hein
+905.752|912.085|et avec toutes les difficultés euh euh à trou- se trouver une place à se frayer un chemin quelque pa- et ceatera
+916.632|918.196|hm hm pas encore
+918.196|927.433|on n'en aura pas ah bah il s'arrête à Saint-Jean-de-Braye donc c'est vrai que c'est toujours euh et puis toujours <reformulation><VP1>se garer</VP1> <DH>euh</DH>  <P2 modif_morph="flex(se garer/se gare)" rel_pragm="para">on se gare</P2></reformulation>
+919.066|927.911|ah bon parce que vous êtes loin de  ah oui il s'arrête à Saint-Jean-de-Braye oui ah  ah ouais hm ah ouais ouais ouais
+927.911|928.698|c'est
+928.698|940.719|d'accord moi c'est pas c'est pas OK alors sinon euh  les petites fêtes euh de quartier c'est vous en avez ? euh est-ce que vous d'accord et là vous y êtes euh
+929.091|929.669|c'est toujours contraignant
+936.39|938.307|oui on a une fête de quartier tous les ans au mois de juin
+939.325|948.158|oui et sinon on a <reformulation><PRES1>on a bah toujours la fête à Chécy</PRES1><MR/> <PRES2 rel_lex="syno(on a/y a)" rel_pragm="para">y a une euh y a toujours quelque- une fête à Chécy</PRES2></reformulation>
+946.764|948.531|d'accord hm hm
+949.753|966.445|hm hm des parents et des copains de d'accord d'accord d'accord euh euh <reformulation><P1>de médias locaux est-ce que vous  vous suivez un petit peu</P1> <DMD>enfin</DMD> <DH>hm</DH> <P2 rel_lex="syno(vous suivez/vous lisez)" rel_pragm="exempl">vous lisez par exemple euh la République du Centre</P2></reformulation>
+950.326|953.256|les anciens copains de collège et puis euh ouais
+964.272|965.519|oui
+966.445|968.392|oui euh le Loiret le la revue
+968.392|970.053|hm hm
+970.053|976.165|euh qu'est-ce qui y a une autre ch- euh hm Orléans TV
+976.165|976.785|hm hm
+976.785|979.227|de temps en temps je zappe  et y a t- s- y a souvent des euh
+977.773|979.81|hm hm hm hm
+979.81|982.14|des euh des petits documentaires qui sont sympas
+982.14|986.463|hm hm d'accord euh FR trois ?
+986.463|992.154|ou- oui mais euh c'est pareil c'est plus comme c'était avant c'est ouais c'est euh
+987.763|995.211|ou ouais ouais ah ouais d'accord donc pas
+993.007|998.464|hm avant oui je m'en rappelle oui avant euh n- on regardait souvent FR trois maintenant euh non c'est pas
+998.464|1032.569|hm hm d'accord euh alors euh je re-  reviens quand même euh sur votre travail parce que  je je t- j'ai j'ai trouvé que on a été très très vite  euh je enfin j'aimerai que enfin si c'est possible euh <reformulation><P1>que vous me racontiez un petit peu</P1> <DMD>enfin</DMD> <DH>hm</DH> <DMD>comment dire</DMD> ? <P2 rel_lex="syno(racontiez/parliez)" rel_pragm="para">que vous me parliez un petit peu plus</P2></reformulation>
+1032.569|1045.069|euh <reformulation><P1>des difficultés bah oui bah ça on en a tous les jours</P1><MR/> <P2 rel_lex="hypero(des difficultés/la misère)" rel_lex2="syno(on en a /on est confronté)" rel_pragm="para">on est en on est confronté à la m- à la misère pour voter</P2> <MR/><P3 rel_lex="mero(la misère/SDF)" rel_lex2="syno(la misère/en détresse)" rel_lex3="syno(confronté/géré)" rel_pragm="denom">on a géré des euh des gens qui sont SDF euh qui ont aucun revenu qui sont euh qui sont en détresse quoi</P3></reformulation>
+1037.217|1038.788|hm hm hm
+1045.069|1051.88|hm hm et qui donc euh enfin d'accord d'accord hm hm
+1046.361|1051.424|bah qui prennent le train sans billet ou <reformulation><P1>qui sont dans les gares</P1> <MR/><P2 rel_lex="syno(sont/errent)" rel_pragm="para">qui errent dans les gares</P2></reformulation>
+1051.88|1062.161|une solution pour eux euh donc c'est vrai que c'est pas évident surtout que euh sur Paris y a beaucoup d'a- d'associations qui s'occupent de ces euh des ces gens-là alors  que sur Orléans euh <reformulation><NP1>le cent quinze</NP1> <MR/><NP2 rel_pragm="denom" rel_lex="syno(le cent quinze/le Samu social)">le Samu social</NP2></reformulation>
+1059.565|1060.295|hm
+1060.775|1061.331|d'accord
+1062.161|1066.157|hm hm et c'est les mêmes euh les mêmes personnes  que vous retrouvez euh tout le temps
+1064.443|1066.938|oui oui on est on a on on a les habitués hein
+1066.938|1069.223|hm hm d'accord
+1067.564|1081.099|les habitués et puis euh  on les voit on les on les voit mourir aussi hein ben oui depuis que je suis sur Orléans y a je crois qu'y en a eu hein deux deux ou trois qui sont décédés donc c'est euh bah c'est surtout ça qui est le plus embêtant
+1072.314|1074.646|oui
+1081.099|1081.783|hm hm
+1081.783|1090.76|et puis après euh on a bon on est confronté évidemment <reformulation><PP1>aux jeunes</PP1> <DH>euh</DH> <PP2 rel_lex="hypo(jeunes/ jeunes délinquants)" rel_pragm="prec">aux jeunes délinquants</PP2></reformulation>
+1087.969|1088.792|hm hm
+1090.76|1091.381|hm hm
+1091.381|1095.082|et puis
+1093.091|1100.697|donc <reformulation><NP1>les jeunes délinquants</NP1> <MR type="pres">c'est</MR> <MRE>par exemple</MRE> <DH>euh</DH> <P2 rel_pragm="explic">ils payent pas leurs euh leurs euh billets</P2></reformulation>
+1098.547|1108.003|c'est pas c'est pas c'est pas le fait de p- de pas payer le billet y a des euh y a des gens euh très très bien qui ne payent pas leurs billets c'est pas le et après c'est dans la hm  comment dire ? de la façon d'être
+1101.645|1102.731|hm hm
+1103.831|1106.468|hm hm d'accord
+1108.003|1108.571|hm hm
+1108.571|1119.739|quand vous avez pas quand vous avez pas un un titre de transport eh bah voilà vous euh vous êtes pris vous êtes pris quoi alors après c'est toujours alors que ces jeunes-là y  c'est toujours faut toujours envenimer la situation euh
+1112.233|1122.524|hm hm  voilà hm hm d'accord vous vous faites pas de le contrôle du billet en fait
+1122.524|1129.929|on peut on peut hm voilà soit le contrôleur ou euh par des gens de la des gens de la gare
+1123.044|1152.71|vous pou- vous pouvez mais <reformulation><P1>vous pouvez aussi être appelé par</P1> <DH>euh</DH> <DA>vos</DA> <DMD>d'accord</DMD> <DH>hm hm</DH> <DMD>et donc</DMD> <MR type="pres">c'est</MR> il peut y avoir des des trains où y a des des des problèmes de ce type-là <MRCONC>et</MRCONC> <VP2 modif_morph="flex(être/êtes)" rel_lex="syno(appelé/averti)" rel_pragm="para">vous êtes avertis</VP2></reformulation>
+1136.408|1137.333|oui
+1138.606|1141.206|on attend l'arrivée du train pour ah gé- pour gérer la situation
+1151.294|1156.071|bah <reformulation><Pr1>nous</Pr1> <MR/><Pr2 rel_lex="syno(nous/on)" rel-pragm="prec">on</Pr2></reformulation> gère la situation si vraiment <reformulation><P1>on peut pas g-</P1><MR/> <P2 rel_lex="syno(on peut pas/on arrive pas)" rel_pragm="para">on arrive pas à gérer</P2></reformulation>
+1156.071|1165.542|d'accord et ça p- ça c'est déjà arrivé ? ah oui souvent d'accord qu'ils qu'ils viennent et donc ça se traduit  euh
+1158.149|1160.378|ah oui oui souvent souvent souvent souvent souvent
+1163.991|1168.856|bah après c'est eux qui font un contrôle d'identité et puis euh voilà après euh ceux qui voient euh
+1167.483|1171.679|d'accord hm hm des choses comme ça
+1170.481|1174.859|bah après si c'est un  si les si les gens commettent un délit ouais après ça va forcément ça va
+1173.902|1176.303|hm hm hm hm d'accord
+1176.303|1179.772|une interpellation remise à n- un officier de police judiciaire et puis après ça
+1179.772|1200.351|hm hm d'accord et alors on revient juste un instant sur les les SDF euh qui ont vous m'avez parlé et donc euh c'est les mêmes je suppose que i- enfin y a peut-être des hm comment dire ? des consignes hm pour les  sortir de la gare ou des choses comme ça  non pas pas vraiment
+1184.77|1185.425|ouais
+1197.752|1198.204|non pl-
+1198.636|1219.753|non alors y a des souvent des euh des des dirigeants SNCF qui bah qui veulent pas de  le seul problème c'est que  <reformulation><NP1>la gare</NP1> <MR type="pres">c'est</MR> <NP2 rel_lex="mero(la gare/un service)" rel_pragm="def">un service euh c'est un service</NP2> <MR type="pres"> c'est</MR> <NP3 rel_lex="mero(un service/un endroit ouvert au public)" rel_pragm="def">un  un endroit ouvert au public</NP3></reformulation> donc <reformulation><VP1>on n'a pas</VP1> <MR/><VP2 rel_pragm="oppos">on a</VP2></reformulation>
+1206.005|1206.48|hm hm
+1212.807|1213.554|hm hm
+1217.502|1219.05|hm hm hm hm
+1219.753|1220.869|d'accord
+1220.869|1236.504|on a au- on a aucune possibilité de les euh de les mettre dehors sauf si évidemment s'ils ont y a un problème d'insalubrité ou euh mais le souci c'est que Orléans ils se font ils sont jetés d'Orléans parce que ils ont ils alors sur Orléans y a certainement des consignes pour évider d'avoir des euh des SDF
+1221.404|1223.608|hm hm hm hm
+1225.864|1226.422|hm hm
+1234.393|1235.717|hm hm
+1236.504|1236.923|hm hm
+1236.923|1246.655|donc après bah c- le  le fait de les euh  de les pousser autre part si tout le monde les pousse euh on au bout d'un moment on va les pousser où dans la Loire enfin j- donc nous on essaye de s- n- bah on essaye de trouver des solutions quoi
+1239.982|1243.851|hm hm hm hm hm hm hm hm
+1246.655|1250.182|hm hm d'accord et et la gare elle ferme euh
+1249.206|1254.029|oui alors donc elle ferme le s- soir euh fermée vers une heure du matin et  jusqu'à quatre heures et demi
+1254.029|1257.819|bah une heure du matin euh on n'est  plus censé être euh à la gare
+1257.819|1260.306|non <reformulation><P1>la gare ferme</P1> <MRCONC>de toute façon</MRCONC> <DA>y aura plus</DA> <PRES2 rel_pragm="res"> y a plus personne dans la gare</PRES2></reformulation>
+1257.819|1260.306|non la gare ferme de toute façon <reformulation><PRES1>y aura plus</PRES1> <MR/><PRES2 modif_morph="flex(aura/a)" rel_pragm="prec"> y a plus</PRES2></reformulation>
+1260.306|1263.96|d'accord et y compris donc euh ces SDF-là sont priés de euh
+1261.785|1266.166|y compris les S- des SDF m- on n'a m- on n'a jamais de souci là parce qu'ils ils le savent
+1266.166|1266.643|hm hm
+1266.643|1271.441|le problème c'est que mainten- maintenant avec le hm avec le climat y a plus le SAMU social n'a plus euh
+1271.441|1272.46|hm hm
+1272.46|1284.061|<reformulation><PRES1>c'est l'av- enfin l'avantage</PRES1> <MR/><PRES2 rel_pragm="oppos"> c'est pas enfin c'est pas un avantage</PRES2></reformulation>
+1279.657|1280.481|hm hm
+1284.061|1285.012|d'accord
+1285.012|1287.485|de les mettre dans des structures adaptées qu'ils passent la nuit au chaud
+1287.485|1287.798|hm hm
+1287.798|1295.596|dés qu'il fait euh dés qu'il fait beau c'est fini donc après ben il   euh  dans un hall d'immeuble ou enfin je sais pas après c'est euh
+1289.845|1308.657|hm hm d'accord  hm hm hm hm d'accord hm hm euh d'autres euh faits euh hm marquants sinon ? dans cet univers  enfin qui qui est assez p- enfin hm qui pour quelqu'un comme moi assez particulier c'est-à-dire que
+1308.657|1319.654|l'hiver non bah <reformulation><PRES1>y a beaucoup</PRES1> <MR/><PRES2 rel_lex="syno(beaucoup/de plus en plus)" rel_pragm="para">y a de plus en plus</PRES2></reformulation>
+1308.657|1319.654|l'hiver non bah y a beaucoup <reformulation><PRES1>y a de plus en plus de fraudes</PRES1><MR/> <P2 modif_morph="deriv(fraudes/fraudent)" rel_pragm="para">les gens fraudent de plus en plus</P2></reformulation> ce qui ce qui peut être compréhensible hein vu euh vu <reformulation><NP1>le prix</NP1> <DA>des</DA> <DH>euh</DH> <NP2 rel_lex="syno(prix/tarif)" rel_pragm="para">le tarif</NP2></reformulation>
+1319.654|1325.43|ah oui en costume cravate euh d'accord et ça c'est c'est assez
+1321.245|1321.988|ouais
+1325.43|1330.547|f- alors je sais on on sait p-
+1330.547|1336.926|d'accord et donc euh ça se passe comment enfin euh
+1335.668|1341.527|ah bah généralement y a y a pas de s- y a pas de souci quoi s'ils sont pris euh pris voilà ils règlent et puis euh
+1339.004|1357.016|hm hm ils sont pris euh hm hm hm hm ils connaissent un peu le le système quoi hm hm hm hm d'accord euh OK alors euh j'aurais quelques petites questions un peu plus générales sur Orléans donc je sais pas si vous vous définissez vous-même comme euh  Orléanais
+1344.122|1345.056|ils connaissent le système
+1357.016|1360.066|euh si si  si d'accord
+1358.602|1371.039|bah oui je suis né ici oui oui euh est-ce qu'il y a des histoires  qui se racontent euh hm  dans Orléans <reformulation><NP1>des histoires un peu bizarres</NP1> <DA>des</DA> <NP2 rel_lex="hypo(des histoires/des choses)" rel_pragm="para">des choses comme ça</NP2></reformulation>
+1371.039|1371.555|non
+1371.555|1376.011|non c-  y a jamais eu des des choses comme ça ou
+1374.913|1380.748|ah bah je connais les histoires parce que j'ai acheté le livre sur les faits divers  sur Orléans mais sinon non j'en n'ai pas entendu hein
+1378.163|1383.572|OK hm hm d'accord v- vous avez déjà entendu parler de la rumeur d'Orléans ?
+1383.572|1389.087|la r- oui ah suite au livre donc euh le problème des des des femmes qui se faisaient enlever
+1385.483|1386.792|d'accord
+1389.087|1439.719|voilà c'est ça ah oui d'accord vous avez oui parce que vous êtes euh relativement jeune euh je pense  que enfin quand c'est arrivé voilà quand c'est arrivé euh vous   oui oui tout à fait tout à fait donc là vous vous avez pris connaissance de cette  rumeur-là <reformulation><PRES1>y a pas d'histoire euh comparables actuellement</PRES1> ? <MR/><P2 rel_pragm="para">vous n'en avez pas eu connaissance </P2></reformulation>
+1389.441|1390.758|ouais mais c'est le livre qui m'a
+1391.608|1392.539|voilà c-
+1395.491|1396.958|ouais une quarantaine d'années ouais
+1398.41|1400.876|oui j'étais très jeune hein donc non non c'était euh
+1405.206|1407.186|oui hm
+1412.671|1418.358|je sais pas vous allez m'en apprendre une non
+1419.099|1419.948|ah non oh non
+1432.366|1433.372|ouais
+1439.719|1449.218|alors c'est u- c'est une bonne chose pour les pour euh pour les spectacles  même nous ça nous arrive d'aller voir des pos- des pièces de théâtre sur Paris donc c'est vrai que la proximité de Paris c'est euh c'est très très bien
+1446.827|1447.53|hm hm
+1449.218|1449.651|hm hm
+1449.651|1456.092| le souci c'est que bah <reformulation><NP1>beaucoup de Parisiens viennent habiter sur Orléans</NP1> <MRCOO> et</MRCOO> <P2 rel_pragm="res">ça devient une ci- une cité-dortoir</P2></reformulation>
+1456.092|1461.547|hm hm sans parler des des prix de l'immobilier
+1459.867|1469.393|ah les prix immobiliers quand nous on est propriétaire donc nous pour nous c'est c'est bien tant mieux mais c'est vrai que pour même pour les pour les jeunes euh aujourd'hui qui veulent s'installer c'est euh
+1463.492|1466.006|hm hm 
+1467.758|1507.04|hm hm ah ouais c'est et surtout notamment euh dans Orléans centre ah ouais ah ouais et j'en sais quelque chose si je peux me permettre  oui oui oui oui ouais bah enfin Orléans c'est un petit peu plus euh hm enfin je enfin je trouvais mais euh un peu plus euh enfin <reformulation><PRES1>c'est pas tout à fait le même profil</PRES1> <MRP>c'est-à-dire que</MRP> <DH>hm</DH> <PRES2 rel_pragm="explic">y a une certaine clientèle ici qui qui a un peu plus de moyen et qui veulent garder le côté urbain</PRES2></reformulation>
+1471.155|1474.938|ah bah ah bah Orléans centre c'est oui
+1475.83|1480.089|comme F- comme Fleury-les-Aubrais comme Fleury-les-Aubrais c'est pareil
+1507.04|1512.546|bah <reformulation><NP1>les chiens d'Orléans</NP1> <MR/><NP2 rel_lex="syno(les chiens d'Orléans/ des gens froids)" rel_pragm="def">des gens froids</NP2></reformulation>
+1507.04|1512.546|bah les chiens d'Orléans des gens <reformulation><A1>froids</A1> <MR/><A2 rel_lex="syno(froids/pas accueillants)" rel_pragm="para">pas accueillants</A2></reformulation>
+1508.348|1510.893|c'est-à-dire ? 
+1512.546|1514.434|hm hm d'accord
+1514.434|1519.91|après euh moi je c- con- des vrais Orléanais de souche j'en connais pas beaucoup hein
+1519.91|1526.582|hm hm hm hm de toute façon ça doit être de la minorité aujourd'hui puisque la ville a beaucoup changé
+1524.991|1526.892|oui je pense oui oui  oui
+1526.892|1531.144|vous avez connu euh Orléans euh bah depuis
+1529.72|1539.906|oui dans les années soixante-dix oui c'était euh c'était moins de monde mais euh puis surtout que <reformulation><Pr1>nous</Pr1> <MR/><N2 rel_lex="mero(nous/Saint-Denis-en-Val)" rel_pragm="denom">Saint-Denis-en-Val</N2> <MR type="pres">c'ét- c'était un c'était</MR> <NP3 rel_lex="inst(Saint-Denis-en-Val/un village)" rel_pragm="def">un vill- un village euh que de maraîchers de pépiniéristes</NP3></reformulation>
+1538.873|1540.302|hm hm hm hm
+1540.302|1545.71|mais bon euh moi j'ai jamais eu euh bon c'est pas accueillant comme la Dordogne ça c'est euh
+1544.857|1546.154|hm hm hm hm
+1546.154|1547.729|mais non moi j'ai jamais eu trop de
+1547.729|1548.764|d'accord
+1548.764|1551.246|par contre ça oui depuis que je suis petit j'ai toujours entendu parler des chiens d'Orléans
+1551.246|1558.956|hm hm donc c'est que euh v- vous n'étiez  pas enfin va- vous vous considériez pas vraiment comme Orléanais ou
+1558.956|1562.51|ben si enfin je me suis  euh
+1561.992|1598.058|est-ce qu'on racontait des choses enfin à Saint-Denis-en-Val sur le &amp; zer- l- les Orléanais en s- se considérant un petit peu euh euh moi j'étais  on parle des chiens d'Orléans et puis ouais ouais c'est ça ah ouais ouais d'accord d'accord hm hm c'est toujours les autres d'accord hm hm hm hm d'accord hm hm euh alors quand vous étiez donc euh petit à Saint-Denis-en-Val et caetera
+1571.568|1575.637|ah oui mais là de t- ah oui complètement mais de toute façon vous allez à Saint-Denis-en-Val on
+1576.818|1581.001|vous allez à saint-Pryvé ils vont t- vous parler des chiens d'Orléans et à Orléans ils vont vous parler des chiens d'Orléans mais c'est pas eux
+1581.643|1588.675|donc après ce que j- p- je pense que c'est c'est c'est quelque chose qui est resté
+1598.058|1600.604|euh oui euh vers euh quatorze quinze ans oui
+1600.604|1609.714|quatorze quinze ans par vos propres moyens ? y avait des bus  je suppose  d'accord hm hm et alors on s'adonnait à quel type de d'activités ?
+1601.624|1602.119|ouais
+1603.084|1603.647|ouais
+1604.028|1606.627|bus ou mobylette ou vélo euh
+1609.714|1613.996|euh quand je venais c'est sut- c'était surtout   pour  s- souvent pour faire des achats
+1613.996|1614.831|d'accord
+1614.831|1621.164|cinéma pas trop et  puis après hein quand j'étais un petit plus vieux on allait ben en boite et puis dans les bars
+1621.164|1633.06|hm hm d'accord et euh est-ce qu'il vous arrivait de venir avec des copains ? euh de Saint-Denis-en-Val sur euh sur Orléans petites promenades euh dans les rues
+1625.196|1626.754|ouais
+1627.522|1629.381|ouais c'est ouais ouais
+1631.983|1647.42|oui non  non promenade ciblée c'est des promenades euh des promenades ciblées hein non on n'est pas z- non on n'est pas euh euh le samedi après-midi euh se promener euh toute l'après-midi dans Orléans
+1633.435|1637.932| non
+1640.739|1642.975|d'accord
+1647.42|1672.699|d'accord non hm hm d'accord OK euh hm alors euh hm on aborde euh on va dire euh le dernier euh volet de de  de de cet euh en- entretien euh qui concerne alors euh enfin un thème langues euh est- est-ce que vous trouvez qu'il y a une façon euh de parler  propre 
+1647.872|1648.599|non non
+1672.699|1676.586|euh ben non enfin
+1675.943|1684.745|non enfin ils parlent normalement  comme euh d'accord hm hm non non mais c'est  <reformulation><PRES1>c'est la question elle s'adresse à vous</PRES1><MR/> <PRES2 rel_lex="mero(vous/votre perception)" modif_morph="deriv(vous/votre)" rel_pragm="prec">c’est à votre perception</PRES2></reformulation>
+1677.685|1680.612|moi je pense ouais
+1683.584|1692.747|<reformulation><VP1>je pense</VP1> <DMD>alors</DMD> <DMD>après</DMD> <MR type="pres">y a</MR> <DH>euh</DH> <DA>y et</DA> <VP2 rel_lex="syno(pense/trouve)" rel_pragm="para">je trouve</VP2></reformulation>
+1692.025|1703.547|hm hm bah j'ai une question justement euh euh à propos des jeunes euh on y revient et donc euh  on va dire que hm  dans la moyenne globalement est-ce que  vous trouvez qu'on parle bien ?
+1703.547|1711.427|euh dans l'ensemble euh ou- <reformulation><NP1>les trente</NP1> <DH>euh</DH> <NP2 rel_pragm="prec">les trente et plus</NP2></reformulation>
+1711.427|1713.776|hm hm mais pas les jeunes
+1713.776|1714.356|pas les jeunes
+1714.356|1716.835|alors bah parlez-moi de la langue des jeunes 
+1716.835|1728.257|<reformulation><NP1>langue des jeunes</NP1> <MR/><VP2 rel_lex="mero(langue/parlent)" rel_pragm="para">ils i-  parlent</VP2></reformulation> euh i- les <reformulation><P1>les phrases sont souvent incomplètes</P1> <DH>euh</DH> <P2 rel_pragm="exempl">la négation ça existe plus</P2></reformulation>
+1722.898|1725.432|hm hm hm hm
+1728.257|1728.863|d'accord
+1728.863|1734.942|ils ont des euh hm comment dire des euh des réflexions euh MSN pour ne pas le citer
+1733.659|1735.652|hm hm hm hm
+1735.652|1737.037|donc non c'est un
+1737.037|1745.105|d'accord et en terme de <reformulation><PP1>de lexique</PP1> ? <MR/><PP2 rel_lex="syno(lexique/vocabulaire)" rel_pragm="para">de vocabulaire</PP2> <MR type="pres">y a</MR> <NP3 rel_lex="mero(vocabulaire/mots nouveaux)" rel_pragm="prec">des mots euh nouveaux</NP3></reformulation>
+1745.105|1751.619|ah des mots nouv- euh que les jeunes euh ah oui oui ah oui bah y a des des fois <reformulation><VP1>je leur fait répéter</VP1> <MR/><VP2 rel_pragm="justif">je comprends pas</VP2></reformulation>
+1746.104|1747.728|oui que euh
+1749.329|1765.549|c'est censé être  du français mais  non ouais euh comprise approximativement d'accord parce que alors  vous <reformulation><P1>vous avez quelques quelques exemples à donner de ces mots</P1>  <MRCONC>enfin</MRCONC> <P2 rel_pragm="res">vous arrivez à en retenir quelques uns</P2></reformulation>
+1752.323|1758.346|c'est cens- français du français oui enfin je sais pas oui oui
+1765.549|1768.16| lol
+1768.16|1774.219|lol d'accord hm hm
+1769.097|1773.578|lol alors là lol alors quand le film est sorti mes filles ah faut aller voir Lol lol qu'est-ce que ça veut dire
+1774.219|1777.597|alors c'est vrai qu'on est en on est qu'on qu'on  qu'on n'est pas sur ce genre de
+1777.597|1779.287|hm hm hm hm hm
+1779.287|1782.088|de enfin d- sur l'ordinateur on d- &amp; enfin moi je
+1780.827|1783.412|ouais ouais hm hm d'accord
+1783.412|1795.924|MDR euh  enfin maintenant j'a- j'a- je commence avec euh ma grande fille à alors le souci de le  le le mettre sur euh <reformulation><VP1>le taper</VP1> <DA>mais</DA> <DA>le</DA> <VP2 rel_lex="syno(taper/parler)" rel_pragm="prec">le parler euh le parler MSN</VP2></reformulation>
+1784.903|1788.531|hm hm ouais ouais hm hm 
+1793.111|1806.228|hm hm hm hm hm hm ah vous vous pensez qu'il y a que l'influence euh enfin on va dire de oui MSN tout ça le texto y y a pas d'autres influences  euh possibles sur la langue des jeunes ?
+1801.107|1804.749|ou texto ou ouais je pense
+1806.228|1807.3|ah bah si les films
+1807.3|1813.709|les films aussi hm  hm hm d'accord mais donc euh ou-
+1808.502|1810.198|les films pour les jeunes c'est euh
+1813.709|1816.235|nous nous on avait des des répliques euh cultes euh de vieux films
+1816.235|1819.731|hm hm hm hm d'accord
+1816.672|1818.11|mais c'était du français
+1818.73|1822.834|maintenant dans un film vous avez des réflé- des des répliques quelques fois c'est un peu hein tiré par les cheveux ouais
+1822.834|1831.868|d'accord hm hm et qu'on va retrouver donc euh dans dans leur langue euh enfin orale euh quelque chose comme ça
+1830.564|1836.389|ouais et je pense que ça pour leur activité professionnelle plus tard
+1836.389|1845.078|hm hm ah oui vous pensez que c'est au  vous vous vous vous pensez que c'est  quelque chose qui risque euh de d- de rester hm hm
+1837.024|1839.089|je je pense ouais
+1843.396|1844.038|oui
+1845.078|1855.064|moi <reformulation><Pr1>je</Pr1> <DMD>en plus</DMD> <Pr2 rel_lex="syno(je/nous)" rel_pragm="prec">nous</Pr2> <MR/><Pr3 rel_lex="syno(nous/on)" rel_pragm="prec">on</Pr3> <MR/><Pr4 rel_lex="syno(on/je)" rel_pragm="prec">je</Pr4></reformulation> sais que quand quand on travaille dans les trains qu'on entend les <reformulation><NP1>les jeunes</NP1> <DH>euh</DH> <DMD>enfin</DMD> <NP2 rel_lex="hypo(jeunes/jeunes de une vintaine d’années)" rel_pragm="prec">les jeunes oui de une vingtaine d'années</NP2></reformulation>
+1855.064|1855.608|hm hm
+1855.608|1858.893|si un jour ils ont une activité en relation avec de la clientèle euh
+1858.893|1870.499|hm hm vous pensez pas que ce soit euh on va dire un langage euh jeune justement et que qui sera abandonné quand on sera moins jeune euh
+1868.772|1875.967|non je sais que nous quand enfin quand j'étais plus jeune <reformulation><PRES1>c'était l'argot</PRES1> <MR/><P2 rel_pragm="para">on parlait toujours de l'argot</P2></reformulation>
+1873.036|1874.029|hm hm
+1875.967|1908.594|hm hm vous vous parliez euh l'argot  vous  quand vous étiez jeune ? non hm hm hm hm d'accord tout tout ça vous quand vous étiez jeune euh non d'accord euh  alors  ben euh vous avez un petit peu répondu mais j'ai quand même une question  plus explicite là-dessus est-ce qu' y a des choses qui vous agacent euh ou qui vous amusent  euh dans la façon de parler de  certaines personnes quel qu'elles soient de votre entourage ou euh ou d'ailleurs ?
+1880.539|1886.301|non mais on entendait non moi non non personnellement non mais on dit le v- le le l- verlan euh
+1887.712|1889.876|non   non 
+1908.594|1918.066|certaines personnes oui euh euh j'ai horreur des gens qui euh qui parlent à la troisième personne
+1918.066|1919.577|ah oui
+1919.577|1924.879|qui savent pas dire tu ou vous il ou elle
+1921.337|1927.134|hm hm hm hm d- donc
+1927.134|1937.849|ben euh  euh là je vous regarde bah il il est bien habillé vous pourriez dire vous êtes bien habillé il est bien habillé je trouve que c'est un peu un 
+1933.294|1936.917|hm hm hm hm hm hm
+1937.849|1938.388|ah ouais d'accord
+1938.388|1943.849|et y a une génération euh des et puis ils sont des anciens quoi qui parlent comme ça et moi ça me
+1942.199|1947.673|hm hm hm d'accord qu'est-ce qui vous gêne là-dedans ?
+1945.845|1949.145|bah c'est c- c- ce qui me gêne c'est que  c'est pas tu c'est pas vous
+1949.145|1949.611|hm hm
+1949.611|1953.053|donc vous ça a une euh  pour moi c'est  quelque ch- c'est vraiment du euh c'est respectueux
+1953.053|1953.436|hm hm
+1953.436|1961.802|on et puis euh tu c'est euh  c'est c'est aussi respectueux mais c'est plus euh on se connaît bien euh et il c'est entre les deux alors on se dit on on se place où ?
+1957.969|1959.478|hm hm
+1961.802|1969.517|hm hm d'accord hm hm hm hm vous avez bien vu que c'est une stratégie pour ne pas dire euh tu ou vous justement hm hm
+1963.033|1964.684|on on a le cul entre deux chaises quoi
+1965.243|1970.22|donc ça c'est quelque chose qui me et bien sûr t- pour pas se placer
+1970.22|1970.798|hm hm
+1970.798|1972.232|mais moi j'aime bien quand les gens euh
+1972.232|1981.746|d'accord se placent  d'accord hm hm et et ça c'est quelque chose donc que vous avez observé  plutôt chez les chez personnes âgées on dirait
+1972.665|1974.489|se placent
+1975.154|1975.857|c'est euh
+1978.178|1989.295|oui oui oui ah parce que non mais là les moins de vingt ans ils s- ils vous connaissent pas aussi hein c'est tu ah tu c'est ah quelque soit la je sais pas ouais ouais ça s- complètement
+1983.533|1990.886|hm hm hm hm c'est c'est tu quelque soit l'âge quelque soit le degré de d'accord hm hm quelque soit les jeunes ?
+1990.886|1993.672|euh beaucoup de jeunes
+1993.672|1994.386|hm hm
+1994.386|1995.854|alors pas le pas au premier abord
+1995.854|1996.457|hm hm
+1996.457|1997.586| au premier abord c'est vous
+1997.586|1998.084|hm hm
+1998.084|2005.721|dés qu'on a trois quatre minutes de de dialogue hop ça y est c'est parti c'est le je pense c'est c- c'est le tu  parce que c'est c'est une habitude chez eux et puis euh 
+2001.748|2013.787|le tu  hm hm et vous quand vous ça vous arrive euh vous  faites comment dans ce cas-là enfin quand vous êtes en contact euh on va dire euh de par votre profession
+2013.787|2034.046|bah ça dép- ça dé- ça dépend de la situation euh souv- s- quelques fois on leur dit non attendez on se vouvoie on et puis bon si on voit que si le fait de le dire euh de dire on se vouvoie ça va envenimer la situation on laisse on laisse tomber quoi  ah oui oui ouais voilà ouais
+2025.799|2045.534|d'accord vous vous continuez à et donc en acceptant le les tu est-ce qu'il vous arrive <reformulation><PP1>d'aller euh euh enfin de de faire plus que ça</PP1> <MRP>c'est-à-dire</MRP> <DH>euh</DH> <PP2 rel_lex="hypero(faire plus que ça/tutoyer quelqu’un)" rel_pragm="exempl">d'aller jusqu'à tutoyer quelqu'un pour créer on va dire une euh une complicité ou</PP2></reformulation>
+2043.737|2051.144|dans le dans l'exercice de non au travail non non faut éviter au travail ouais ouais
+2047.189|2053.066|non hm hm c'est toujours au boulot euh d'accord hm hm hm hm
+2051.839|2055.061|par contre les quand on a des nouveaux amis on peut
+2055.061|2055.683|hm hm
+2055.683|2061.043|passer le cap rapidement pour euh pour euh pour qu'y ai un peu des a- proximités quoi ouais
+2058.196|2060.638|d'accord donc c'est d'abord vous
+2061.043|2071.559|pour vous c'est ça et et et donc euh effectivement dans une euh enfin euh hm nouvelle relation on va dire  j'ai
+2061.984|2062.664|ouais 
+2065.647|2066.994|hm
+2070.669|2074.586|alors moi c'est assez rapide si si le courant passe si le courant passe pas
+2073.568|2082.689|hm hm d'accord ah oui d'accord et donc euh en <reformulation><Ger1>en vouvoyant</Ger1> <MRCOO>ou</MRCOO> <Ger2 modif_morph="flex(vouvoyant/vouvoyer)" rel_pragm="para">en continuant à vouvoyer</Ger2></reformulation>
+2078.627|2080.501|en
+2082.689|2083.622|on garde une distance
+2083.622|2089.416|d'accord hm hm hm hm et entre collègues ? on on se tutoie ? automatiquement ?
+2086.622|2100.387|on se tutoie oui automatiquement très rapidement de c- c'est le c'est le l'avantage ou l'inconvénient je sais pas de la SNCF la SNCF on tutoie tout de suite
+2090.164|2093.419|<reformulation><Adv1>très rapidement</Adv1> <DMD>enfin</DMD> <AdvP2 rel_pragm="prec">dés que on fait partie de et caetera</AdvP2></reformulation>
+2098.83|2113.285|hm hm hm hm quelque soit <reformulation><NP1>le la hiérarchie</NP1> <MR/><NP2 rel_lex="inst(hiérarchie/PDG)" rel_pragm="denom">le PDG</NP2> <DMD>non mais  mais</DMD> <DH>euh</DH> <DMD>même</DMD> <DA>le</DA> <DMD>enfin</DMD> <NP3 rel_lex="inst(hiérarchie/ chef de gare)" rel_pragm="denom">le chef de gare</NP3></reformulation>
+2102.325|2108.665|arrivé à un certain niveau non on à un certain niveau on vouvoie mais euh  ouais
+2111.563|2116.303|ouais ouais ouais c'est euh ça c'est euh c'est ancestral
+2115.619|2119.964|hm  hm hm d'accord qu'est-ce que ça ferait de vouvoyer ?
+2119.964|2121.061|pour moi rien
+2121.061|2136.738|d'acco- non mais je veux dire <reformulation><PP1>à l'intérieur de  cette euh entreprise</PP1> <DH>euh</DH> <DA>de d- d- est-ce que vous f-</DA> si vous imaginez <NP1 rel_lex="inst(cette entreprise/la SNCF)" rel_pragm="prec">quelqu'un enfin travaillant à la SNCF</NP1></reformulation>
+2136.738|2142.129|oui il passerait pour euh quelqu'un qui qui se euh co- comment dire qui adhère pas au groupe
+2142.129|2143.185|hm hm d'accord
+2143.185|2144.787|alors que c'est complètement ridicule
+2144.787|2145.345|hm hm
+2145.345|2151.265|parce que <reformulation><NP1>le fait de tutoyer</NP1> <MRCOO>mais</MRCOO> <VP2 modif_morph="flex(tutoyer/tutoie)" rel_pragm="para">moi je tutoie</VP2></reformulation>
+2148.925|2151.774|hm hm hm hm
+2151.774|2153.681|mais c'est <reformulation><NP1>le fait de faut tutoyer</NP1> <MR/><VP2 modif_morph="flex(tutoyer/tutoie)" rel_pragm="res">on tutoie</VP2></reformulation>
+2152.999|2162.193|hm hm d'accord c'est compliqué hein c'est c'est tu vous les ils euh parce que en fait euh oui
+2159.806|2165.257|vaudrait mieux oui  tout mettre à la troisième personne hein
+2163.311|2171.081|hm hm  oui oui tout à fait  c'est euh la stratégie des des anciens donc hm hm hm hm
+2167.949|2169.995|ouais la strat- oui
+2171.081|2175.686|bah le problème des anciens c'est qu'ils ont connu le vouvoiement même au p- ah même avec leurs parents souvent
+2175.686|2180.795| hm hm ah oui ah v- vous avez connu des des des personnes
+2179.053|2188.507|ouais j- moi j'ai connu j'ai connu quelqu'un qui qui en a des enfants qui sont plus jeunes que moi les enfants vouvoient leur père et leur mère
+2188.507|2190.104|d'accord
+2190.104|2191.119|c'est c'est
+2191.119|2246.845|c'est plutôt quel milieu  social ? ah ouais d'accord euh normal quoi enfin pas pas forcément marqué d'accord hm hm  et vous avez euh remarqué une euh une différence particulière dans enfin  vouvoiement tutoiement et caetera entre euh  la région ici et la Dordogne par exemple ou est-ce que c'est les mêmes euh paramètres euh les mêmes euh   hm hm d'accord euh d- donc euh d'accord donc ce ce il que vous voyez comme euh une stratégie d- on va dire  d'évitement euh vous vous agace euh et donc là c'est plutôt les personnes âgées qui sont responsables de ça et alors le euh chez les jeunes alors  qu'est-ce qui qu'est-ce qui vous agace de part-  ces formes d'abréviation qu'on trouve plutôt à l'écrit  est-ce qu'y a d'autres choses qui l'accent
+2192.959|2199.179|ah euh milieu euh hm  normal euh ouais non non
+2212.32|2214.939|non c'est non non non bah c'est pareil à peu près
+2226.566|2228.666|oui
+2244.701|2265.007|l'accent ils ont maintenant ils ils i- enfin d'accent je sais pas si c'est un accent euh  je sais même pas comment le hm comment le matérialiser c'est un accent euh c'est un accent euh on dit euh jeune de banlieue mais c'est pas spécialement jeune de banlieue vu que c'est c'est tout le monde tou- toute la jeunesse euh parle comme ça c'est un accent qui où où je vois aucun intérêt
+2253.909|2254.712|hm hm
+2258.397|2261.129|hm hm hm hm
+2265.007|2268.275|hm hm comment vous pouvez le qualifier ? enfin c-
+2268.275|2278.114|le qualifier je pense que <reformulation><NP1>l'accent</NP1> <MR type="pres">c'est c'est</MR>  <P2 rel_lex="mero(l’accent/l’argot)" rel_pragm="def">l'argot dans notre euh génération</P2></reformulation>
+2274.922|2297.341|hm hm hm hm hm hm d'accord hm hm et là c'est pour différencier de qui finalement ? chez les jeunes  chercheurs hein se différencier des adultes euh euh du centre euh de  ville euh  de euh hm hm d'accord hm
+2278.827|2279.943|je pense plus ça
+2287.817|2290.267|des adultes je pense de oui de
+2292.863|2295.242|non je pense non des adultes en général
+2296.389|2301.98|ils parlent pas comme euh bah comme euh comme quatre-vingt-dix pour cent de la population de ce qu'ils entendent à la télé- euh
+2300.49|2300.945|hm
+2301.98|2316.971|hm hm d'accord euh alors et et euh j'ai une question maintenant sur les pratiques euh plurilingues est-ce que il vous arrive de  d'entendre d'autres langues que le français sur euh  Orléans ?
+2316.971|2327.311|oui alors c'est quelles euh c'est quelles langues et et et où ? bah en nous on on en gare ou dans les trains on entend euh  bah toutes les populations hein  de France quoi
+2327.311|2327.892|hm hm
+2327.892|2341.058|donc on entend on entend de l'anglais on entend de l'allemand on entend  du nord africain de l'africain on entend de l'américain de l'allemand euh euh ce matin on a entendu euh quelqu'un qui qui parlait indien euh  c'est voilà
+2334.211|2335.122|d'accord
+2339.586|2356.442|hm hm d'accord hm hm hm a- vous parce que c'est la gare en fait hm hm et donc si on projetait ça sur euh sur Orléans vous quand vous vous promenez c'est plutôt quelles langues qu'on p- qu'on entend ?
+2341.723|2344.016|c'est
+2344.785|2345.896|parce que c'est la gare
+2356.442|2361.374|la langue euh des jeunes
+2361.374|2368.651|hm hm d'accord d'accord vous enfin non je vous demande euh euh
+2362.12|2364.718|je non je hm
+2367.807|2377.967|non bah alors en plus surtout que moi Orléans on y vit  on y vient mais euh puis après Chécy c'est vraiment y a pas de langues hein  la langue officielle mais sinon non y a pas de
+2369.58|2405.479|ouais hm hm hm hm c'est la la langue officielle non  hm hm d'accord euh hm euh OK bien moi je hm il me reste une dernière question  un petit peu bizarre  mais euh hm  je comme l- euh expliquer pourquoi on on l'a c'est l'une des rares questions que nous avons maintenue euh de la première enquête euh c'est  la fameuse question de l'omelette et en fait vous je vous demandais  de me dire comment vous vous faites une omelette 
+2405.479|2409.486|<reformulation><P1>comment on fait une omelette ?</P1> <MR/><P2 modif_morph="flex(fait/fais)" rel_pragm="prec">comment je fais une omelette ?</P2></reformulation>
+2407.067|2408.178|hm voilà
+2409.486|2411.02|voilà
+2411.02|2411.934|qu'on bat
+2411.934|2412.81|hm hm
+2412.81|2416.458|et puis euh sel poivre dans la poêle chaude
+2416.458|2417.184|hm hm
+2417.184|2418.477|puis après on coupe quelques cèpes
+2418.477|2421.31|quelques cèpes  d'accord
+2421.31|2422.395|et puis voilà et puis on laisse cuire
+2422.395|2425.088|hm hm vous mettez le tout en même temps ?
+2425.088|2433.166|ah non on fait d'abord un petit peu revenir les euh hm les cèpes dans une autre poêle et puis après on les met sur la sur la sur l'omelette et puis on laisse euh finir de cuire tout tout ensemble
+2433.166|2435.605|d'accord plutôt bien cuite  votre omelette ?
+2435.605|2435.965|oui
+2435.965|2450.914|hm hm parce que y a deux écoles d'accord hm hm tout à fait vous c'est OK bah écoutez euh euh très bien merci beaucoup nous avons terminé
+2436.577|2444.232|j'aime pas baveuse oui y a aiment bien qui est baveux ouais y en a qui les plient euh voilà ouais
+</body>

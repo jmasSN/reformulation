@@ -1,0 +1,461 @@
+﻿<body>
+6.447|17.907|alors nous sommes arrivés à Orléans en août quatre-vingt-treize et à Olivet en mai quatre-vingt-quatorze voilà donc ça fait euh pratiquement <reformulation><NP1>seize ans</NP1> <NP2 rel_pragm="prec">dix sept ans</NP2></reformulation>
+13.219|13.948|d'accord
+17.282|19.626|d'accord et alors pour quelles raisons vous êtes arrivés euh ?
+19.626|38.397|professionnelles <reformulation><P1>mon mari a été muté dans la région</P1> on est de Paris <DMD>et voilà</DMD> <P2 rel_lex="mero(la région/Orléans)" rel_pragm="prec">il a été muté euh à Orléans</P2></reformulation> c'est un choix <reformulation><VP1>on avait demandé</VP1><MR/> <VP2 rel_lex="mero(demandé/voulait)" rel_pragm="explic">on voulait</VP2></reformulation>
+26.047|26.937|c'est un choix
+38.397|46.032|d'accord d'accord et vous vous vous étiez à Paris vous êtes euh d'o- d'origine parisienne d'accord
+44.196|45.628|oui oui oui oui oui
+46.032|49.997|on est euh né là-bas  oui voilà
+47.693|53.822|nés à Paris ? d'accord et c'était un un premier choix qui était de de partir un peu euh dans
+53.355|65.605|oui alors le premier on n'a pas véritablement choisi Orléans on avait choisi de partir en région on nous a proposé Orléans qu'on a accepté sans  <reformulation><PP1>sans à priori</PP1> <MR/><PP2  rel_lex="syno(à priori/préjugé)" rel_pragm="para">sans sans préjugé</PP2></reformulation>
+54.788|55.069|province
+65.605|68.882|et donc quand vous êtes arrivés à Orléans vous êtes euh vous avez habité où au début ?
+68.882|84.59|on a habité l- en euh <reformulation><PP1>à Orléans</PP1><MR/> <NP2 rel_lex="mero(Orléans/sud limite Olivet)" rel_pragm="prec">sud limite Olivet</NP2></reformulation>
+84.59|90.353|et donc ça c'était vraiment un choix ? euh euh euh c'est après avoir connu un petit peu la ville l'agglomération pour trouver
+86.233|87.53|oui oui oui oui oui
+90.024|110.856|oui voilà on a on a un petit peu cherché à regarder à droite à gauche euh  donc c'est vrai que c'était quand même euh bah on se trouvait que c'était plus simple surtout en venant de Paris on on se fait très vite au fait de ne plus avoir d'embouteillages voilà donc euh  donc du coup <reformulation><P1>on avait choisi Olivet</P1> nos enfants étaient scolarisés là <MRCONC>donc</MRCONC> <DH>euh</DH> <DMD>voilà</DMD> <P2 modif_morph="flex(avait/a)" rel_pragm="para">on a choisi de vivre à Olivet</P2></reformulation>
+102.202|104.454|ah oui c'est vrai
+110.856|114.954| non   et c'était déjà peut-être par connaissance aussi non vous aviez des non non non du tout 
+113.498|126.774|non non non on est arrivé ici en ne connaissant personne donc euh  et bien euh pendant les neuf mois où nous avons habité Orléans euh moi j'ai cherché un peu à droite à gauche avec les agences et puis vr- très vite notre choix s'est fixé sur Olivet
+126.774|136.333| d'accord  et sinon je reviens juste sur sur avant là euh  Pa- Paris c'est c'était donc vous êtes née à Paris euh  vous êtes de parents nés à Paris aussi c'était vous êtes parisienne de de
+135.482|149.672|ah oui alors de père et mère nés à Paris mais avec un grand-père italien  donc comme tout parisien qui se respecte euh parisiens depuis quelques générations mais pas tant que ça 
+146.074|156.075|d'accord  euh s- s- sans vous je peux je peux vous demander ce que ce que faisaient vos parents ? comme
+155.347|167.853|mon père était euh chef d'entreprise d'une entreprise de travaux publiques ma maman euh au foyer  voilà et euh et moi euh bah c'est pareil j'ai suivi les traces de maman j'ai élevé mes enfants
+166.716|170.319|voilà c'est ça donc euh vous vous avez fait le choix de de d'élever vos enfants
+168.835|185.769|oui alors en fait j'ai fait des études de droit pendant assez longues et puis euh j'ai travaillé pendant une dizaine d'années et quand on est parti ici j'ai pas euh recherché de travail nous avions donc euh quatre enfants et puis cinq et on a choisi de   euh que je reste à la maison pour élever les enfants
+185.769|193.329|hm à ce moment-là vous avez quand même commencé déjà par euh par travailler par faire des études relativement longues et travailler ah oui oui
+186.87|189.607|oui par travailler hm
+190.577|227.843| oui  oui oui oui oui oui oui mais j'ai préféré élever mes enfants je trouvais que oui oui même si je me trouve un peu surdiplômée pour le poste  et très mal payée d'ailleurs ah bah euh quand même  ouais c'est vrai il en faut  oui ah bah oui c'est c'est prenant c'est surtout euh hm un éventail assez riche de compétences voilà en fait je je m- me présente comme soit organisateur d'ambiance <reformulation><NP1>soit chef de PM-</NP1><MR/> <NP2 modif_lex="ajout(d’entreprise)" rel_pragm="prec">soit chef d'entreprise PME</NP2></reformulation>
+194.994|195.73|euh
+199.272|211.946| oh je sais pas très mal payée peut-être très mal payée c'est sûr sur- surdiplômée je suis pas sûr ouais ils payent pas des diplômes euh importants c'est   c'est une occupation des des des plus dures quand même
+214.889|220.543|oui  c'est ça quand même ah oui une gestion des ressources humaines euh
+226.338|231.247| ah oui oui et que comme pendant ces dix années là comme métier vous faisiez quoi vous ?
+231.247|237.812|ah bah j'ai fait des études de droit donc euh j'ai travaillé euh comme juriste voilà dans une entreprise
+234.802|235.46|ah
+237.812|245.602| d'accord donc euh vos vos enfants eux ils ont quel âge ?
+245.602|287.96|alors notre aînée a vingt-trois ans euh elle est étudiante en pharmacie euh <reformulation><PP1>à Paris</PP1> <DMD>enfin</DMD> <PP2 rel_lex="mero(Paris/Châtelet-Malabry)" rel_pragm="prec">sur à Châtelet-Malabry</PP2></reformulation>
+257.853|261.799|non à Paris aussi
+286.398|290.987| d'accord oui
+290.987|296.057| bah oui ça occupe bien d'où la raison du choix de rester
+294.15|299.995|oui  oui c'est peut-être même presque plus un choix   euh à ce moment-là
+299.995|332.994|ah bah euh si c'est quand même vraiment un choix parce que euh si on choisit pas d'élever ses enfants je pense qu'on en fait un peu moins on reste dans des choses qui sont gérables euh pour euh allier à la fois une activité professionnelle et le fait d'être euh d'avoir des enfants donc comme on avait décidé euh moi j'étais ravie hein de de rester chez moi et d'élever mes enfants pas du tout était euh un choix d- cornélien du tout donc du coup euh c'était pas du tout un souci d'avoir un petit cinquième  <reformulation><P1>qui a douze ans bientôt le dix avril</P1> <MRCONC>donc</MRCONC> <P2 rel_pragm="oppos">il a pas encore douze ans</P2></reformulation>
+330.538|347.49|ah bon ? et et euh hm le le <reformulation><NP1>le choix de d'Olivet</NP1> <DH>euh</DH> <DA>nombreuse comme ça</DA> <MR type="pres">c'est c'est</MR> <MRP>je veux dire</MRP> <MR type="pres">c'est</MR> <MRE>par exemple</MRE> <PRES2 rel_lex="inst(Olivet/ville)" rel_pragm="explic">c'est un c'est une ville ou un quartier intéressant pour euh pour la vie de tous les jours</PRES2></reformulation>
+340.382|340.733|oui
+345.308|402.347|ab- oui alors euh je je trouve enfin on a très vite euh senti qu'à Olivet il y avait plusieurs familles qui étaient comme nous avec trois quatre cinq enfants six enfants même plus   euh hm ce qui faisait que euh bah n- nos enfants trouvaient euh d'autres enfants qui vivaient les mêmes choses qu'eux donc ça c'est quand même pas mal euh on avait fait le choix de les mettre euh dans une petite école privée à Olivet qui s'appelle La Providence où ils se sont vraiment très vite é- fait des amis ils ont été très vite accueillis nous aussi on a été très vite accueillis euh et puis cette petite ville elle nous semblait euh une taille euh pour y trouver des hm des installations et des des transports des choses qui rendent la vie facile et à la fois pas trop grande euh donc voilà tout ça euh a fait que notre choix c'est quand même vraiment vite porté ici et on a on y a trouvé un accueil qui était quand même très chaleureux très vite voilà quand on vient d'ailleurs et qu'on connaît personne c'est quand même très appréciable oui
+397.433|398.447|hm hm
+401.394|405.481|oui oui oui oui oui oui vous avez trouvé des des familles qui euh sympathisaient
+403.873|429.633|ah oui oui vraiment et on s'est fait ah oui on s'est fait très vite <reformulation><NP1>un très très bon réseau d'amis</NP1> <MR/><P2 rel_lex="syno(réseau d'amis/on a des amis)" rel_pragm="explic">on a des amis depuis qui que qu'on connait depuis qu'on est arrivé ici euh avec lesquels on est parrain marraine de nos enfants respectifs maintenant</P2></reformulation> et c'est vrai que <reformulation><VP1>ça a été</VP1> <DI>bah</DI> <VP2 rel_pragm="para">ça a fait partie</VP2></reformulation>
+418.038|418.663|hm hm 
+421.569|422.179|hm hm
+428.459|434.35|hm et et c'est l'école qui a beaucoup euh servi de contacts en fait euh dans un premier temps ?
+432.928|449.8|oui l'école l'école et la paroisse puisque euh oui oui oui voilà c'est quand même l'école où bah finalement on se retrouve tous les soirs quand on est maman et qu'on va chercher ses enfants donc <reformulation><VP1>on finit par</VP1> <DH>euh</DH> <P2 rel_lex="syno(on/quelqu’un)" rel_pragm="prec">quelqu'un finit par venir</P2></reformulation>
+435.044|437.122|entre les parents d'élèves et la paroisse voilà
+440.116|441.988|oui c'est ça
+449.8|450.061|hm hm
+450.061|460.894|et les enfants euh c'est un bon facteur d'intégration  quand ils sont jeunes parce que très vite ils vous invitent des copains très vite ils se font inviter donc euh ça a été assez rapide voilà
+459.81|469.105|d'accord et et euh hm par rapport à Olivet justement <reformulation><P1>vous faites vos courses euh sur Olivet</P1> <DH>euh</DH> <P2 rel_lex="syno(faites vos courses/allez dans les commerces) syno(sur Olivet/du coin)" rel_pragm="para">vous allez dans les commerces du coin plutôt</P2></reformulation>
+468.244|498.716|oui oui oui alors moi je vais euh je c'est vrai que euh pff j'aime j'aime assez privilégier les p- le petit commerce un peu de proximité parce que je me dis qu'un jour ou l'autre on se plaindra de plus les avoir  donc euh on parlait du boucher tout à l'heure <reformulation><P1>je vais chez le boucher à Olivet   euh le boulanger</P1> <DA>je oui je</DA> <P2 rel_lex="hypo(le boucher...le boulanger/le commerce)" rel_pragm="res">je fais fonctionner un petit peu le commerce local</P2></reformulation>
+489.732|491.051|oui oui
+498.716|506.155|oui faut dire qu'à Olivet y a un boucher un poissonnier hm  oui oui
+500.047|523.653|oui oui et <reformulation><PRES1>y a même plusieurs bouchers, un très bon poissonnier plusieurs boulangeries alors  tout ce qui est coiffeurs agences de voyages et agences immobilières</PRES1> <MR/><P2 rel_pragm="res">nous sommes très très bien servis</P2> <MR/> <P3 rel_pragm="explic">on peut être très bien coiffé très bien logé et bien voyagé à Olivet  et beaucoup avoir aussi une très bonne banque on en a beaucoup mais il nous reste aussi quelques commerces alimentaires très appréciables</P3></reformulation>
+523.653|531.761| et euh pour pour une maison comme ça quand vous avez des des euh des aménagements à faire ou des problèmes de plomberie et cetera c'est des artisans ? euh locaux aussi
+529.595|529.923|hm
+530.475|552.29|oui oui oui oui oui alors on a recontré euh euh très vite en arrivant un artisan euh qui nous a euh fait beaucoup de travaux chez nous  et euh d'ailleurs <reformulation><NP1>un très bon artisan</NP1> <MRCONC>voilà</MRCONC> <P2 rel_pragm="res">j'ai bien de la chance</P2></reformulation>
+540.369|543.481|<reformulation><NP1>un un bon artisan</NP1><MR/> <P2 rel_pragm="res">vous avez bien de la chance</P2></reformulation>
+550.318|556.302|ah en région parisienne vraiment <reformulation><P1>on y tient beaucoup</P1> <MRCOO>et</MRCOO> <P2 rel_pragm="para"> qu'on le lâche pas comme ça</P2></reformulation>
+556.302|557.504| oui cet été
+557.504|560.15|voilà pour les raisons professionnelles aussi ? c'est v-
+560.15|586.34|alors professionnelles et familiales parce que donc euh nous avons deux enfants à Paris un numéro trois à Reims ce qui est quand même pas très simple au niveau des transports euh avec mon mari nous sommes enfant unique tous les deux nous avons moi je n'ai plus mon papa mais une maman qui commence à être un peu âgée mon mari a des parents aussi âgés donc on pense qu'il est temps d'aller un peu f- faire un petit regroupement familial et s'occuper des nos familles respectives et mon mari a effectivement la possibilité de de retravailler sur Paris
+586.34|588.294|je peux vous demander ce qu'il  fait comme travail ?
+587.078|593.589|oui il est DRH euh d'un du groupe Thales voilà là là un site de groupe Thales et en ce moment il travaille à Vendôme
+590.559|591.808|d'accord
+593.589|594.28|ah oui
+594.28|594.649|voilà
+594.649|602.78|donc oui il a eu la possibilité de travailler sur Paris proche hm et donc vous avez déjà décidé où vous allez en région parisienne ?
+596.404|600.095|oui de de de voir un site sur Paris ou en région parisienne voilà
+602.378|610.067|oui nous ren- nous avons déjà décidé nous partons dans <reformulation><NP1>les Hauts-de-Seine</NP1> <MR type="pres"> c'est</MR> <NP2 rel_lex="inst(Haut-de-Seine/commune)" rel_pragm="def">une petite commune</NP2> <MRDENOM>qui s'appelle</MRDENOM> <NP3 rel_pragm="denom">Bourg-La-Reine</NP3></reformulation>
+608.471|614.498| d'accord vous avez déjà même trouvé la maison  tout ça ah oui t- tout est déjà olala
+611.042|620.41|et voilà c'est un retour aux sources vous savez donc c'était pas très compliqué de savoir où on voulait aller se poser  c'était moins compliqué dans ce sens-là
+619.701|623.595|d'accord maintenant vous allez quitter euh vos amis d'Olivet ?
+623.595|644.424|oui alors on en même temps on on part à cent vingt kilomètres d'Olivet donc euh il y a quelques moyens de communication faciles  euh on n'a pas perdu nos amis parisiens quand on est venu dans la région donc je pense qu'on perdra pas nos amis euh d'Olivet et d'Orléans quand on partira sur Paris on s'est engagé sûr sûr à venir et à les accueillir
+627.557|627.865|Oui
+644.424|648.101|et puis vous donc vous comme vous amener votre famille vous a- amenez votre o- occupation
+648.101|654.599|bah voilà principale donc voilà je je pars avec mon travail 
+648.539|651.754|moi j'amène mon occupation principale
+652.876|665.149|et vous pouvez me détailler un peu vo- <reformulation><NP1>votre travail</NP1> <DMD>justement</DMD> <DMD>en fait</DMD> <NP2 rel_lex="syno(travail/occupation principale)" rel_pragm="para">cette occupation principale</NP2> <MR type="pres">c'est c'est</MR> <NP3 rel_lex="hypo(occupation principale/occupation)" rel_pragm="para">cette occupation</NP3></reformulation> non mais euh ou comme parce que je sais que <reformulation><P1>vous êtes très occupée une journée</P1> <MR/><PRES2 rel_lex="syno(occupée/rythmé)" rel_pragm="para">c’est très rythmé</PRES2></reformulation>
+657.845|661.658|mon travail oui ah si si je peux vous dire
+663.567|664.204|oui oui
+665.149|694.814|ah bah c'est très rythmé d'abord d'abord par tout ce qui est conduite parce que même si Olivet est quand même bien desservi en transports euh <reformulation><P1>ça reste un peu long</P1> <MRP>c'est-à-dire que</MRP> <P2 rel_pragm="explic">pour rentrer   du lycée Sainte Croix notre fille Caroline peut mettre environ quarante-cinq minutes euh même pas loin d'une heure</P2></reformulation> alors qu'en voiture on met <reformulation><NP1>un bon quart d'heure</NP1> <MR/><NP2 rel_lex="mero(quart d'heure/vingt minutes)" rel_pragm="prec">vingt minutes</NP2></reformulation>
+678.822|679.939|oui
+694.814|695.737|vous faites tous les transports ?
+695.737|703.637|je circule beaucoup on s'arrange aussi avec quelques mamans pour euh faire un peu de co-voiturage  mais évidemment ils arrivent à des âges où ils n'ont pas forcément tous les mêmes heures
+703.637|703.909|hm
+703.909|756.093|donc euh quand on peut on s'arrange  et puis bah <reformulation><P1>je fais tout ce qu'on font les mamans à la maison</P1> <MRCONC>donc</MRCONC> <DH>euh</DH> <NP2 rel_pragm="exempl">le rangement le linge le ménage les courses la cuisine</NP2></reformulation>  qu'est-ce que je vous fait encore ? euh alors <reformulation><P1>j'ai quand même d'autres activités euh avec mon mari</P1> <MR/><P2 rel_lex="inst(activités/chef de groupe scouts Scouts Unitaires de France)" rel_pragm="denom">on est chef de groupe scouts Scouts Unitaires de France</P2></reformulation> donc on on a en charge un des trois groupes scouts d'Orléans donc ça nous prend quand même pas mal de temps aussi  mais c'est que du bonheur  euh pendant euh toutes ces années où on a été à Olivet <reformulation><VP1>on a fait</VP1> <MR/><VP2 rel_lex="mero(on/je)" rel_pragm="prec">j'ai fait</VP2></reformulation>
+749.315|750.325|ah oui
+753.981|755.531|non mais c'est beaucoup d'occupations
+756.093|759.082|euh scout <reformulation><P1>ça vous prend beaucoup de temps</P1> ? <MR/><P2 rel_lex="syno(prend beaucoup de temps/êtes très investis)" rel_pragm="para">vous vous êtes très investis</P2></reformulation>
+759.082|816.516|euh ça c'est assez prenant ? il y a des moments plus calmes <reformulation><P1>notre rôle est d'accompagner les chefs les jeunes qui encadrent même les plus jeunes</P1> <MRCONC>donc</MRCONC> <P2 rel_pragm="res">notre rôle est vraiment de les accompagner</P2></reformulation> les aider de les   euh de de les encadrer à notre tour on n'a pas du tout de compétences en ce qui concerne les plus petits les enfants qui sont dans le mouvement nous on est vraiment euh voilà nous les les encadrants si on peut dire voilà  donc euh ce qui veut dire euh p- pas mal de tâches administratives dont on les  décharge parce qu' <reformulation><P1>ils sont quand même tous étudiants</P1> <MR/><P2 rel_pragm="justif">ils ont pas toujours le temps de faire des choses</P2></reformulation>
+759.082|816.516|euh ça c'est assez prenant ? il y a des moments plus calmes notre rôle est d'accompagner les chefs les jeunes qui encadrent même les plus jeunes donc notre rôle est vraiment de <reformulation><VP1>les accompagner</VP1><MR/> <VP2 rel_lex="syno(accompagner/aider)" rel_pragm="para">les aider</VP2> <DA>de les</DA> <DH>euh</DH> <DA>de de</DA> <VP3 rel_lex="syno(aider/encadrer)" rel_pragm="para">les encadrer</VP3></reformulation> à notre tour on n'a pas du tout de compétences en ce qui concerne les plus petits les enfants qui sont dans le mouvement nous on est vraiment euh voilà nous les <reformulation><NP1>les encadrants </NP1> <MRP>si on peut dire</MRP> <DMD>voilà donc</DMD> <DH>euh</DH> <MRP>ce qui veut dire</MRP> <DH>euh</DH> <DA>p-</DA> <NP2 rel_pragm="explic">pas mal de tâches administratives</NP2></reformulation> dont on les  décharge parce qu' ils sont quand même tous étudiants ils ont pas toujours le temps de faire des choses dont on les décharge  et puis euh un accompagnement euh aussi bien euh spirituel <reformulation><VP1>on les aide</VP1><MR/> <P2 rel_lex="syno(aide/accompagner)" rel_pragm="prec">on on les on accompagner nos aumôniers</P2> <MR/><P3 rel_lex="syno(accompagner/aide)" rel_lex2="mero(aumôniers/dans cette voie-là)" rel_pragm="prec">on les aide dans cette voie-là</P3></reformulation>
+
+779.333|782.145|d'accord vous encadrez les les encadrants
+784.863|786.441|les ressources humaines
+790.835|791.36|ah oui
+816.516|819.194|mais euh hm ça c'est ce sont les jeunes de de quel âge euh ?
+819.194|832.215|alors les jeunes qui encadrent les plus alors les les petits ont entre euh huit et hm seize dix-sept et dix-sept ans à peu près <reformulation><NP1>les plus jeunes</NP1> <DH>euh</DH> <MRCONC>enfin</MRCONC> <P2 rel_pragm="prec">ceux qui sont scouts dans nos unités</P2></reformulation>
+832.215|834.028|c'est ça entre seize et vingt-trois ans
+834.028|844.532|voilà alors non seize c'est trop jeune ils ont plutôt euh dix-huit ans dix-sept dix-huit ans jusqu'à vingt-trois ans et j-  voilà
+835.385|838.185|d dix-huit dix-huit ans
+843.762|849.431|et donc eux eux eux donc eux-mêmes ont en responsabilité l'animation d'un groupe de euh c'est ça
+847.901|856.68|voilà voilà donc en fait euh les groupes sont répartis en diverses unités les petits garçons sont des louveteaux quand ils grandissent ils deviennent des éclaireurs et donc ils sont dans les troupes
+856.68|858.045|c'est ça il y a un âge euh si
+857.661|912.699|oui de huit ans à à douze ans ils sont dans des meutes ils sont louveteaux de douze ans à seize dix-sept dix-sept ans ils sont éclaireurs dans des troupes pour les petites filles c'est jeannettes avec les mêmes tranches do- euh d'âge et ensuite guides et puis ensuite euh c'est quand ils sont quand ils ont dix-sept ans ils peuvent continuer en étant <reformulation><NP1>les aînés du mouvement</NP1> <MRP>c'est-à-dire</MRP> <NP2 rel_pragm="def">routiers pour les garçons et guides aînés pour les filles</NP2></reformulation>
+906.951|910.333|ah oui oui non mais non mais j'imagine sachant que ces
+911.168|918.449|oui ça j'i- j'imagine bien ce fut bien vous-même vous allez euh vous <reformulation><P1>vous avez suivi ce parcours-là</P1> ? <MR/><P2 rel_lex="inst(ce parcours-là/scout enfant)" rel_pragm="denom">vous avez été scout enfant</P2></reformulation>
+916.308|920.168|alors moi j'ai j'ai pas j'ai été guide et cheftaine de louveteaux
+920.168|921.735|guide et cheftaine de louveteaux d'accord  
+921.297|941.947|voilà et euh et puis mon mari qui a pas fait de scoutisme m'a b- m'a beaucoup étonné lorsqu'un jour <reformulation><NP1>des chefs de troupes</NP1> <MRP>on dit</MRP> <NP2  rel_lex="hypo" rel_pragm="denom">des chefs de groupes</NP2></reformulation>
+940.993|942.49|d'accord ah oui
+942.49|947.799|et nos enfants sont tous scouts hein donc euh ça les ça les il a vécu euh tout le parcours des enfants
+943.923|944.81|tous oui donc euh
+947.799|948.034|d'accord
+948.034|950.107|et je pense qu'il a été très très attiré
+950.107|951.982|eux ils suivent le parcours
+951.064|959.039|ah oui oui oui oui ils ont été euh scouts euh les filles ont été jeannettes dès le départ les garçons notre dernier il a fait sa dernière année aux louveteaux voilà
+958.568|963.407|d'accord  et donc ils font des activités euh quand ça c'est sûr
+962.951|987.366|alors c'est euh en général un week-end sur deux f- ou un quand je dis <reformulation><NP1>un week-end</NP1> <MR type="pres">c'est</MR> <NP2 rel_lex="instance" rel_pragm="def">soit un samedi soit un dimanche</NP2></reformulation>
+987.366|988.546|ah oui
+988.546|1023.118|voilà et <reformulation><P1>les aînés partent eux aussi de manière moins systématique</P1> <MRP>c'est-à-dire que</MRP> <P2 rel_lex="syno(moins systématique/pas forcément tous les ans)" rel_pragm="prec">les aînés partent pas forcément tous les ans mais souvent</P2></reformulation>
+1022.077|1028.793|d'accord  et et et vous m'avez dit tout à l'heure que c'était un des trois groupe c'es parce qu'il y plus y a plusieurs
+1026.849|1027.41|oui
+1028.228|1031.37|y a trois groupes Scouts Unitaires de France euh sur Olivet
+1030.208|1033.491|ah d'accord
+1033.491|1076.483|c'est euh <reformulation><PRES1>c'est un groupe</PRES1> <MR/><PRES2 rel_lex="mero(groupe/mouvement)" rel_pragm="para">c'est un mouvement</PRES2></reformulation> y a les y a les scouts de France les scouts d'Europe les scouts Unitaires de France qui sont les trois grands mouvements <reformulation><A1>chrétiens</A1> <DH>euh</DH> <A2 rel_lex="hypero(chrétiens/catholiques)" rel_pragm="prec">catholiques</A2></reformulation> de euh des scouts ensuite y a euh s- le scoutisme se décline en en plusieurs euh voilà <reformulation><N1>mouvances</N1> <DH>euh</DH> <N2 rel_lex="hypero(mouvances/religions)" rel_pragm="prec">religions</N2></reformulation> et cetera on peut avoir des scouts de con- de confession juive de confession musulmane voire des scouts euh sans aucune connotation religieuse donc euh parmi ces tous ces mouvements <reformulation><NP1>les trois principaux mouvements catholiques</NP1> <MR type="pres">sont</MR> <MRCONC>donc</MRCONC> <NP2 rel_lex="inst(mouvement catholique/les scouts de France, les scouts d'Europe,les scouts Unitaires de France)" rel_pragm="denom">les scouts de France, les scouts d'Europe et les scouts Unitaires de France</NP2></reformulation>
+1035.774|1037.041|un mouvement parmi
+1046.314|1049.955|en beaucoup de euh mouvements mais là les se sont les trois plus importants
+1072.5|1073.14|ah bon
+1076.483|1083.365|voilà ça c'est une répartition de de je veux dire de de gestion pour pas pour vous trop d'im- trop important mais y a pas de différence entre ces ces euh
+1079.21|1080.715|voilà alors en fait euh
+1081.552|1101.869|non non ces trois groupes-là fonctionnent alors nous av- a beaucoup de chance parce que les trois familles de chefs de groupe puisque nous sommes trois couples de chefs de groupe s'entendent très très bien et travaillent én- tout à fait ensemble donc on fait notre notre week-end de groupes on met un S à groupe et on le fait tous ensemble ce qui nous paraît intéressant c'est de donner à nos jeunes la dimension euh de cette communauté
+1101.869|1102.426|hm hm
+1102.426|1121.629|c'est vrai que quand ils sont en unité ils sont une vingt- vingt-quatre chez les petits une trentaine chez les plus grands quand ils se retrouvent à quasiment quatre cents scouts sur le même lieu ils ont plus la notion de ce que peut être euh euh <reformulation><NP1>cette notion</NP1> <MR/><NP2 rel_lex="syno" rel_pragm="para">cette communauté</NP2></reformulation>
+1121.629|1122.049|ah oui oui
+1122.049|1124.857|ah oui ça ça a la pêche les scouts 
+1124.857|1129.972|et là qu'est ce qui différencie les les scouts Unitaires de euh des scouts d'Europe ou des scouts de de France ?
+1129.972|1240.278|alors au départ euh si on fait un peu l'historique euh tout le monde était scouts de France et puis euh y a eu après euh la fameuse année mille neuf cent soixante-huit une séparation euh les scouts euh d'Europe euh ont quitté les Scouts de France en les trouvant un petit peu trop tièdes et probablement un peu euh pas assez euh engagés dans au niveau chrétien puis bref y a eu <reformulation><NP1>tout un tas</NP1> <MR/><NP2 rel_pragm="para" rel_lex="syno(tout un tas/toute une histoire)">toute une histoire</NP2></reformulation> donc euh les scouts du- Unitaires n'existaient pas encore à l'époque et mais étaient plutôt euh si <reformulation><P1>on pouvait plus les rapprocher des scouts d'Europe et au niveau des scouts d'Europe</P1> <MRCOR>non pardon</MRCOR> <P2 rel_lex="syno(on/vous) " rel_pragm="corr_ref">vous pouvez plus les rapprocher des scouts de France et au niveau des scouts de France</P2></reformulation> il y a eu un moment où euh hm <reformulation><P1>le mouvement scout de France a décidé de euh diviser les tranches d'âges</P1> <MRP>c'est-à-dire</MRP> que moi je vous ai dit tout à l'heure nos nos enfants ont entre huit et douze ans et douze à dix-sept ans <P2 modif_morph="flex(diviser/divisée)" rel_synt="passif(diviser/a été divisée)" rel_pragm="prec">cette tranche douze dix-sept a été divisée en deux par les scouts U- les scouts de France en douze quinze et quinze dix-sept</P2></reformulation> et ça n'a pas convenu à certaines certains scouts qui ont dit <reformulation><P1>on veut rester</P1> <MR/><P2 rel_lex="mero(on/cette tranche) syno(veut/doit)" rel_pragm="para">cette tranche là doit rester</P2></reformulation> unie d'où notre nom d'Unitaire parce qu'on s'est rendu compte que dans la pédagogie telle qu'on la souhaitait pour nos enfants et leur développement cette coupure à quinze ans euh était une vraie rupture qui nous permettait pas de mettre en place la pédagogie qui nous intéresse qui est de dire que les grands prennent en charge les plus jeunes entre quinze ans et douze ans et dix-sept et quinze ans euh <reformulation><NP1>cette coup-</NP1> <MR/><NP2 rel_lex="syno(coup-/rupture)" rel_pragm="para">cette rupture-là</NP2></reformulation> ne nous convenait pas c'est important pour nous que quand un un jeune arrive à la troupe il a douze ans il sait rien il était le plus grand chez les louveteaux et il devient le plus petit dans la troupe donc ce passage-là déjà est troublant il est important qu'il est avec lui des des vraiment plus grands qui le forment qui l'aident le prennent en charge et ces plus grands qui étaient des anciens tout petits ont à leur tour cette notion du service et du retour d'ascenceur si je puis dire donc euh c'est pour s- c'est comme ça qu'est né le mouvement scouts Unitaires de France en ne souhaitant pas diviser <reformulation><NP1>cette pér-</NP1> <MR/><NP2 rel_lex="syno(pér-/tranche d’âge)" rel_pragm="para">cette tranche d'âge</NP2></reformulation>
+1210.848|1211.72|hm
+1233.476|1234.086|hm hm hm
+1240.278|1240.589|d'accord
+1240.589|1242.851|donc là je parle des garçons c'est exactement la même chose avec les filles
+1241.994|1245.75|hm hm hm hm c'est vraiment une c'est un choix euh pédagogique hm
+1244.574|1280.628|pédagogique  voilà ça a été un choix pédagogique euh et qu'on ne regrette pas moi je je je je pense pour avoir vu vivre nos enfants et être aujourd'hui dans le mouvement que cette tranche d'âge là qui peut paraître euh très hétérogène parce qu'entre un enfant de douze ans et un en- un garçon ou une fille de douze ans un garçon une fille une fille de dix-sept ans euh on a l'im- on a véritablement et on a raison la sensation de penser que ce qu'il n'y a rien n'a voir et bah précisément parce qu'il y a rien à voir y a une y a vraiment une grande richesse à les mélanger et à leur faire partager leurs expériences les petits prennent beaucoup des grands et les grands apprennent beaucoup en aidant les plus petits
+1268.502|1269.338|hm hm
+1280.628|1280.957|d'accord
+1280.957|1288.488|donc c'est la raison pour laquelle euh on est gar- on est on a r- on a gardé cette tranche d'âge là unie d'où le nom d'unitaire voilà
+1287.25|1291.246|d'accord par contre un- unitaire mais pas mixte je crois
+1290.464|1368.868|alors pas mixte c'est-à-dire que  contraire- voilà c'est un choix pédagogique aussi on est parti du principe alors c'est pas moi hein je ne fais qu'appliquer la pédagogie à laquelle j'adhère on est parti du principe que euh aussi bien chez un enfant de huit ans à douze ans garçon ou fille les attentes n'étaient pas les mêmes et et en particulier alors encore plus chez nos ados entre douze et dix-sept ans où là les attentes ne sont v- véritablement pas les mêmes on ne peut pas à proposer les mêmes activités à des filles et des garçons de ces âges-là on ne peut pas avoir les mêmes attentes entre des filles et des garçons des ces âges-là  on a on a on s'adresse à des à des publics qui sont véritablement sur des chemins euh très diverses on dit pas qu'il faut pas qu'ils se rencontrent rassurez-vous ils se rencontrent mais euh pendant le moment où ils vivent au scout euh il est important que pour leur développement qu'il soit intellectuel physique spirituel euh qu- qu'ils aient chacun euh la chance de pouvoir le vivre avec euh des filles pour des filles et des garçons pour des garçons on est absolument pas opposés à ce que tout ça se rencontre tout ça se rencontre je vous assure que ce soit euh <reformulation><PP1>dans leurs fêtes</PP1><MR/> <PP2 rel_lex="syno(fêtes/soirées)" rel_pragm="para">dans leurs soirées</PP2></reformulation> dans le sein de leur famille puisqu'ils sont fi- garçons et filles ou à l'école ou je ne sais où mais <reformulation><PP1>au niveau scout</PP1> <MR type="pres">c'est</MR> <NP2 rel_pragm="def">vraiment un un endroit où ils peuvent vivre entre filles et entre garçons et euh et ils ne le regrettent pas</NP2></reformulation>
+1350.999|1353.813| bien sûr
+1355.59|1356.079|hm 
+1368.868|1380.274|oui oui j'imagine bien et justement vous me disiez qu'ils se rencontraient à l'extérieur est est-ce que ça veut dire qu'il y a aussi euh d'autres activités qui sont euh li- enfin où on rencontre les les les euh mêmes amis par exemple au niveau des scouts ?
+1369.505|1370.015|voilà
+1378.972|1443.063|ah oui bah forcément alors euh pas évidemment pas sous le couvert du scoutisme mais euh quand on est scouts ensemble euh euh on se rend com- on s- se quand on est pas dans le même groupe bah on se voit ne serait-ce en week end de groupes on se voit à euh aux fêtes de Jeanne d'Arc par exemple et puis on se voit dans leurs petites soirées dans euh les les les filles euh sont copines avec les soeurs des unes les frères des autres donc évidemment euh enfin le scoutisme met pas un frein à ce qu'on se rencontre dans tous les voilà et même au lycée euh au lycée à l- au au collège ou ou même à l'école primaire euh bah forcément i- ils se connaissent et ils se retrouvent donc euh mais le <reformulation><P1>le scoutisme leur crée des liens</P1> <DMD>oui oui oui</DMD> <P2 rel_lex="mero(liens/partagent)" rel_pragm="res">ils partagent quand même des choses fortes entre eux</P2></reformulation> et euh et dans leur euh bah dans leur les autres domaines de leur vie euh i- ils continuent à le partager je pense enfin en tout cas dans l'exemple de notre famille puisqu'on a dans <reformulation><NP1>nos cinq enfants</NP1><MR/> <P2 rel_lex="syno(nos/on a) hypero(enfants/filles) hypero(enfants/garçons)" rel_pragm="prec">on a trois filles deux garçons</P2></reformulation>
+1404.772|1405.822|oui hein
+1416.613|1419.436|oui c'est ça voilà ça crée des liens euh
+1428.703|1429.249|oui
+1443.063|1450.105|hm ils sont permis d'organiser aussi  des des enfin des goûters d'anniversaire des 
+1445.814|1446.204|oui
+1447.945|1498.982|ah oui ah oui oui ah oui bah ça même sans le scoutisme  l'organisa-  oui oui cela dit <reformulation><PRES1>c'est quand même pas sclérosant</PRES1> <DI>hein</DI> <P2 rel_pragm="explic">ils ne vivent pas qu'entre scouts</P2> <DH>euh</DH> <DA>ça</DA> <P3 rel_pragm="res">ils s'ouvrent sur l'extérieur</P3></reformulation> et précisément nous en tant que chefs de groupe euh alors là pas seulement en tant que parents on essaie d'ouvrir nos mouvements scouts euh pas seulement que les gens n'aient pas l'impression que on doit être déjà une famille euh euh implantée dans ce mouvement-là pour pouvoir y y y adhérer pas du tout <reformulation><PRES1>c'est un mouvement très ouvert</PRES1> <MRCOO>et</MRCOO> <P2 rel_pragm="explic">qui se tourne précisément vers tous les jeunes</P2></reformulation>
+1451.785|1454.937|oui mais non je veux dire des des amis qui sont aussi
+1458.263|1459.743|oui oui bien sûr bah j'imagine bien
+1474.679|1475.461|hm hm
+1498.982|1506.871|hm hm oui non mais alors j'imagine que ça doit donner des enfin <reformulation><NP1>ces expériences là</NP1> <MR/><NP2 rel_lex="syno(expériences/moments très forts)" rel_pragm="para">des des des moments très forts</NP2></reformulation>
+1505.076|1557.103|ah oui oui oui oui oui oui oui non mais c'est c'est sûr que euh les moments de rentrées <reformulation><P1>on fait</P1> <MR/><P2 rel_pragm="para" rel_lex="syno(fait des activités/a des activités)">on a</P2></reformulation> des activités à la rentrée juste avec tous nos chefs donc cette année on les a amenés faire euh une journée de canoë euh et euh on crée des liens euh c'est curieux parce que <reformulation><PRES1>c'est quand même</PRES1> <MR/><P2 rel_lex="syno(c’est/ils sont)" modif_morph="flex(est/sont)" rel_pragm="para">ils sont quand même</P2></reformulation> nettement plus jeunes que nous c'est clair ils sont dans l'âge d'être nos enfants mais on crée des liens euh très très proches y y ils sont ils viennent très facilement <reformulation><VP1>nous parler</VP1> <MR/><VP2 rel_lex="hypero(parler/confier)" rel_pragm="prec">nous confier des choses</VP2></reformulation>
+1505.076|1557.103|ah oui oui oui oui oui oui oui non mais c'est c'est sûr que euh les moments de rentrées on fait on a des activités à la rentrée juste avec tous nos chefs donc cette année on les a amenés faire euh une journée de canoë euh et euh on crée des liens euh c'est curieux parce que c'est quand même <reformulation><P1>ils sont quand même nettement plus jeunes que nous</P1> <DMD>c'est clair</DMD> <P2 rel_lex="mero(jeunes/enfants)" rel_pragm="para">ils sont dans l'âge d'être nos enfants</P2></reformulation> mais on crée des liens euh très très proches y y ils sont ils viennent très facilement nous parler nous confier des choses et euh euh alors qui sont tout à fait scouts souvent dans la difficulté de leurs tâches mais pas pas seulement donc mon mari est DRH et il a il a reçu très souvent des jeunes scouts qui viennent pour qu'il les entraîne à des entraînements <reformulation><PP1>d'embau-</PP1> <DA>de</DA> <PP2 rel_pragm="prec"> d'entretiens d'embauches</PP2></reformulation>
+1542.458|1544.741|hm hm hm hm hm hm hm
+1552.513|1553.309|hm
+1557.103|1563.925|et vous avez vécu vraiment <reformulation><NP1>des moments comme ça</NP1> <DA>des des</DA> <DMD>je sais pas</DMD> <NP2 rel_pragm="def">des anecdotes ou des des moments disant vraiment c'est là que je vis quelque chose</NP2></reformulation>
+1563.925|1644.692|ah oui je pense que les <reformulation><NP1>les moments forts qu'on peut avoir au scoutisme</NP1> <MR type="pres">c'est aussi</MR> <DH>euh</DH> <NP2 rel_pragm="def">les moments où on va visiter les camps scouts</NP2> <MRP>c'est-à-dire que</MRP> <DH>euh</DH> <P3 rel_lex="mero(les camps scouts/les plus jeunes) syno(visiter/aller passer une journée)" rel_pragm="para">on s'engage euh l'été à aller passer une journée avec les plus jeunes</P3></reformulation> euh deux jours voire plus enfin on on reste dans des des limites de deux jours pour les plus grands pour pas être un un une gêne pendant leur camp et là c'est vrai qu'on vit <reformulation><NP1>des des moments</NP1> <DH>euh</DH> <NP2 rel_pragm="prec">des beaux moments</NP2> <MR/><NP3 rel_pragm="prec">des moments où les en- les jeunes font leurs promesses</NP3></reformulation>
+1604.106|1605.572|hm hm hm
+1610.252|1610.971|hm hm
+1636.272|1637.361|hm hm bine sûr
+1640.021|1640.636|oui je sais
+1644.692|1650.916|alors y a eu y a eu des <reformulation><NP1>des grands moments</NP1> <DH>euh</DH> <MRE>type</MRE> <DH>euh</DH> <NP2 rel_lex="mero(moment/visite)" rel_pragm="exempl">visite du parc</NP2></reformulation>
+1648.453|1653.558|ah oui alors les alors oui oui y a déjà eu une un très grand moment c'est les cent ans du scoutisme
+1653.558|1656.008|ah oui
+1653.83|1719.862|avec euh le un grand rassemblement à Chambord mais euh on a eu la chance de pouvoir y assister parce que l'organisme euh enfin le le les scouts invitaient les familles proches donc comme c'était à Chambord on a pu y assister et là c'est vrai qu'il y avait quand même euh environ dix-sept mille jeunes réunis et euh j'avoue que ça a été un très très grand moment et alors d'abord <reformulation><P1>ils ont eu un temps épouvantable les pauvres</P1> <MR/><P2 rel_lex="hypero(un temps épouventable/une pluie battante)" rel_pragm="prec">ils ont eu une pluie battante</P2></reformulation> et la la juste avant la dernière veillée donc on a on était euh devant le château c'était magnifique et là y a eu cette d'ailleurs cette photo <reformulation><VP1>a passé</VP1> <MR/><VP2 modif_synt="passif/actif(a passé/est passé)" rel_pragm="prec">est passée</VP2></reformulation> dans toutes les parutions scouts un arc-en-ciel au dessus du château absolument magnifique et pendant une heure et demie on a vu arriver nos dix-sept mille scouts qui se sont installés pour une veillée euh mémorable  donc c'est vrai qu'il y a des quand même des moments très forts les journées nationales donc sont sont des moments très forts où on se retrouve tous entre euh bah tous les scouts de France qui peuvent et même d'ailleurs puisqu'on a on a des des scouts en aussi à l'étranger euh se retrouvent tous ensemble je pense qu'on a vraiment l'instinct grégaire on a besoin d'être en troupeau on se sent bien quand on est <reformulation><AP1>tous réunis</AP1><MR/><AP2 rel_lex="syno(réunis/ensemble)" rel_pragm="para"> tous ensemble</AP2></reformulation>
+1653.83|1719.862|avec euh le un grand rassemblement à Chambord mais euh on a eu la chance de pouvoir y assister parce que l'organisme euh enfin le le les scouts invitaient les familles proches donc comme c'était à Chambord on a pu y assister et là c'est vrai qu'il y avait quand même euh environ dix-sept mille jeunes réunis et euh j'avoue que ça a été un très très grand moment et alors d'abord ils ont eu un temps épouvantable les pauvres ils ont eu une pluie battante et la la juste avant la dernière veillée donc on a on était euh devant le château c'était magnifique et là y a eu cette d'ailleurs cette photo a passé est passée dans toutes les parutions scouts un arc-en-ciel au dessus du château absolument magnifique et pendant une heure et demie on a vu arriver nos dix-sept mille scouts qui se sont installés pour une veillée euh mémorable  donc c'est vrai qu'il y a des quand même des moments très forts les journées nationales donc sont sont des moments très forts où on se retrouve tous entre euh bah tous les scouts de France qui peuvent et même d'ailleurs puisqu'on a on a des des scouts en aussi à l'étranger euh se retrouvent tous ensemble je pense qu'on a vraiment l'instinct grégaire on a besoin d'être en troupeau on se sent bien <reformulation><P1>quand on est tous réunis tous ensemble</P1> <MR type="pres">c'est</MR> <MR type="pres">ce sont</MR> <NP2 rel_pragm="def">vraiment des moments très forts</NP2></reformulation>
+1672.855|1673.329|hm
+1704.103|1704.691|hm hm hm
+1719.862|1724.299|et et le plus localement les les fêtes de Jeanne d'Arc ? euh
+1722.316|1744.155|alors oui oui oui nous sommes présents aux fêtes de Jeanne d'Arc le premier mai euh o- nous avons euh en général des jeunes scouts qui sont les pages les écuyers de Jeanne d'Arc et puis euh nous participons à <reformulation><NP1>la messe</NP1> <MRDENOM>qu'on appelle</MRDENOM> <DH>euh</DH> <DA>le le</DA> <NP2 rel_pragm="denom">le premier mai</NP2></reformulation>
+1744.155|1750.652|hm la chevauchée de Jeanne d'Arc le premier mai c'est l'entrée dans dans la ville ? c'est ça oui par bateau
+1747.008|1773.197|voilà elle entre euh par euh <reformulation><PP1>par bateau</PP1> <MRCOO>et</MRCOO> <DMD>voilà</DMD> <MRCOO>et</MRCOO> <DH>euh</DH> <PP2 rel_lex="syno(bateau/barque)" rel_pragm="para">avec la barque</PP2></reformulation>
+1773.197|1774.001|hm d'accord
+1774.001|1774.566|voilà
+1774.566|1780.468|et euh et après donc le défilé euh et ça ça demande beaucoup de euh beaucoup de travail ? enfin c'est un élément fort ou c'est un élément ?
+1780.468|1819.66|c'est un élément je dirais plus euh traditionnel des scouts euh c- c'est une présence qui se justifie parce que euh euh tr- les la Jeanne d'Arc est <reformulation><ADV1>généralement</ADV1> <DMD>enfin</DMD> <ADV2 rel_lex="syno(généralement/en règle générale)" modif_morph="deriv(généralement/générale)" rel_pragm="para">en règle générale</ADV2></reformulation> a été scout c'est pas une totale obligation mais souvent elle l'a été euh hm et par tradition euh les scouts accompagnent Jeanne d'Arc dans Orléans donc le choix a été fait depuis très longtemps de l'accompagner le huit mai <reformulation><PP1>de pas être présent sur les fêtes le huit le premier mai</PP1> <MRCOR>pardon</MRCOR> <MRCOO>et</MRCOO> <PP2 rel_pragm="prec">de ne pas être présent sur les fêtes le huit</PP2></reformulation>
+1819.66|1820.022|hm hm 
+1820.022|1856.294|présents au défilé et voilà donc euh ça demande à nos chefs d'être là pour encadrer les jeunes et euh c'est un moment aussi où les scouts se rencontrent autour d’<reformulation><NP1>une activité très très particulière</NP1> <MRDENOM>qui s'appelle</MRDENOM> <NP2 rel_lex="inst(activité/la Sioule)" rel_pragm="denom">la Sioule</NP2> <MRP>c'est-à-dire</MRP> <DI>ah</DI> <DH>euh</DH> <DMD>oui ça je dois dire</DMD> tout le monde ne connaît pas <NP3 rel_lex="syno(la Sioule/un ancêtre du rugby)" rel_pragm="def">un ancêtre du rugby</NP3></reformulation>
+
+1833.112|1834.088|ah
+1853.84|1858.324|et ça ça se se se se joue où la Sioule ? 
+1863.226|1864.222|ah sur les grands terrains de l'Ile Charlemagne
+1864.222|1875.648|voilà alors on met en général un aumônier pour arbitrer parce que  ils ont quand même encore le respect de l'ordre  et voilà bleus
+1866.379|1866.907|ouais
+1875.648|1879.632|alors et vos <reformulation><NP1>vos enfants</NP1> <DA>ils doiv-</DA> <DMD>enfin</DMD> <NP2 rel_lex="hypero" rel_pragm="exempl">vos filles</NP2> <MRE>par exemple</MRE></reformulation>
+1879.632|1905.652|non alors euh sur nos fi- nos filles nous en avons deux nées à Paris la troisième est née à Orléans euh elles ont nous habitons Olivet ce qui pou- a pendant très longtemps était je crois un critère euh qui n- n- enfin il fallait habiter Orléans pour euh je pense hein elles n'ont jamais souhaité être Jeanne d'Arc non et euh elles sont déjà pas mal occupées les deux aînées sont chef- cheftaines de compagnie toutes les deux donc ça les occupe pas mal en dehors de leurs études et non Jeanne d'Arc, ça ne les a jamais tentées voilà
+1890.285|1891.156|ah bon
+1904.744|1907.281|d'accord non mais par contre 
+1907.281|1908.642|et la troisième ça la tente pas non plus
+1908.642|1913.984|je vois bien que tout le scoutisme ça doit vous vous occuper euh
+1912.375|1937.431|oui bien oui oui oui oui oui et puis en plus on a un de nos fils qui a la particularité d'être scout marin parce que figurez-vous qu'à Orléans nous avons une troupe de scouts marins eh oui on peut être marin sur la Loire donc euh bah lui euh alors c'est un scoutisme un peu particulier mais qui qui est vraiment très très attirant pour les garçons qui aiment naviguer alors lui c'est un fou de voile l'été donc euh il a foncé quand cette troupe s'est ouverte et donc alors eux participent aux Fêtes de Loire
+1919.683|1920.483|ah bon
+1922.001|1922.825|ah oui
+1937.431|1939.189|d'accord hm hm
+1938.394|1941.437|ils sont ils y ont participé encore cette année
+1941.437|1942.632|et ils naviguent un peu sur la Loire ? non
+1942.632|1964.368|alors ils naviguent un peu sur la Loire ils ont un bateau de Loire qui s'appelle un Selle et l'été euh ils s'allient <reformulation><PP1>avec une troupe</PP1> <DA>en généralement</DA> <PP2 rel_pragm="prec">avec la troupe de Boulogne-Billancourt</PP2></reformulation> en région parisienne qui a une grosse grosse troupe euh marine et ils naviguent sur les bateaux euh généralement dans euh dans <reformulation><PP1>dans le Morbihan</PP1> <DH>euh</DH> <DMD>enfin</DMD> <PP2 rel_lex="mero(le Morbihan/Bretagne)" rel_pragm="corr_ref">en Bretagne</PP2></reformulation>
+1943.54|1945.154|ah oui ah oui
+1964.368|1968.955|et et et donc ah va- hm il vous reste un peu de temps 
+1969.32|1971.082|après pour d'autres choses vous me parliez de théâtre tout à l'heure je veux
+1971.082|1971.318|oui
+1971.318|1972.465|vous vous v- v-
+1971.723|2042.143|alors le théâtre oui alors on a fait du théâtre pendant très nombreuses années donc cette année effectivement c'est tombé à l'eau à notre grand désepoir  euh cette troupe elle a été créée comme ça euh pour rigoler avec une bande de copains on a commencé euh tout petit avec euh juste quelques amis qui venaient nous voir et puis on a fini par euh on a fini pendant plusieurs années là euh en euh au théâtre Gérard Philippe deux soirs de suite euh hm on s'est beaucoup beaucoup amusés j'espère que l'année prochaine ils vont reprendre dare-dare euh on s'est rendu compte que à la f- on demandait une toute petite participation aux gens pour payer la salle et puis on s'est rendu compte qu'en fait tellement de gens venaient qu'il nous reste de l'argent donc on s'est dit on fait pas ça pour gagner des sous donc on a euh tous les ans versé cet argent à des associations donc euh là les dernières années bon c'était pas des fortunes mais on versait environ trois mille cinq cents euros euh à deux associations qu'on gardait deux années donc euh au bout de deux ans ils avaient à peu près sept mille euros de de dons euh venant de notre petite <reformulation><NP1>Jacco</NP1> <MRDENOM>comme elle s'appelle</MRDENOM> <NP2 rel_lex="syno(Jacco/Joyeuse Amicale des Comédiens Comiques de l'Orléanais)" rel_pragm="para">la Joyeuse Amicale des Comédiens Comiques de l'Orléanais</NP2></reformulation>
+2039.853|2048.522|ah et et ça a aidé à des associa- associations pardon c'est de l'humanitaire ou ou locale ? plutôt
+2046.307|2089.107|oui alors alors voilà c'est c'est local c'était notre nos <reformulation><NP1>deux critères</NP1> étaient que les associations soient plutôt locales <DMD>enfin</DMD> <NP2 rel_lex="mero(deux/trois)" rel_pragm="prec">trois critères</NP2></reformulation>
+2089.107|2089.433|hm hm hm
+2089.433|2099.729|euh voilà donc euh cette année euh bah cette année malheureusement euh notre pianiste nous ayant abandonné en cours de route on ne peut pas faire notre spectacle
+2090.629|2090.852|hm hm
+2099.729|2115.332|d'accord et et alors là c'est le théâtre hm vous vous en faisiez mais est-ce que vous allez aussi euh au théâtre où on est-ce que vous trouvez que s- <reformulation><N1>Orléans</N1> <MR/><PP2 rel_lex="mero" rel_pragm="prec">sur Olivet</PP2></reformulation>
+2105.384|2107.669|ah oui oui oui oui oui oui on a
+2115.332|2145.612|ah oui on est abonné à Orléans au Cado au on on trouve que ça a c'est d'une qualité pas toujours très égale sur l'abonnement il y a souvent une pièce euh  pff un peu plus fatigante   mais bon en règle générale c'est quand même assez satisfaisant et surtout très pratique cet abonnement donc euh oui on est abonné depuis de nombreuses années  et c'est pas loin donc euh on y est très vite on est très vite revenus donc c'est vrai que c'est quand même un avantage
+2142.109|2144.049|oui oui oui hm hm
+2145.612|2149.365|et sur Olivet non y a y a pas de y a pas de spectacles euh ?
+2147.588|2168.156|sur Olivet il y a la sal- à Yvremont parfois des spectacles mais c'est vrai que ça on s'en est on on n'y est pas allé très souvent euh lor- lorsque les enfants étaient petits y avait parfois des spectacles pour eux auxquels on les accompagnait mais euh euh non on a plutôt pris un abonnement jeune pour nos enfants qu- avec nous euh au au Cado et on les emmène plus au théâtre là
+2168.156|2171.778| et sinon d'autres activités comme le cinéma ou
+2170.928|2186.286|hm ah bah oui le cinéma on va au cinéma très régulièrement on a   nos enfants nous font un un programme assez détaillé de ce qu'ils ont envie de voir  c'est très souvent très reposant quand même cinéma
+2178.103|2178.845|ah oui
+2185.454|2186.772|vous vous y allez vous y allez avec les enfants
+2186.772|2192.62|oui souvent oui oui voilà et puis euh où ils y vont seuls d'ailleurs ils sont grands maintenant ils se débrouillent sans nous
+2187.506|2188.559|oui oui bien sûr
+2189.229|2191.531|de pl- pl plus de hm hm hm
+2192.62|2195.407|et c'est plutôt dans euh au cinéma qui est sur les quais là ?
+2195.407|2200.187|oui oui oui on se gare juste en dessous
+2200.187|2200.495|oui oui
+2200.495|2206.355|ouais je reconnais que tout ce qui nous simplifie la vie euh est bon à prendre
+2206.355|2210.451| le les restaurants vous sortez parfois au restaurant ?
+2210.451|2225.997|oui ça nous arrive mais euh pas tant que ça euh c'est quand même un vrai investissement euh avec des enfants euh ou alors euh avec des amis mais c'est vrai qu'on a qu'on a a plus tendance à se recevoir
+2225.997|2226.757|voilà hm hm
+2226.757|2241.818|que que qu'aller au restaurant alors ça peut arriver euh  oui si pour un anniversaire une chose comme ça qu'un qu'un de nos enfants soit content et euh de- demande d'aller voilà mais en général on reçoit plus euh à la maison ou on est plus reçu entre amis c'est plus conviviale
+2227.554|2228.064|hm
+2240.933|2244.664|et vous deux vous y allez ? vous avez pas découvert une gastronomie locale euh très particulière ?
+2244.664|2244.99|non
+2245.826|2246.313|non
+2246.313|2247.855|ce y a pas y a
+2247.855|2249.039|j- non enfin j'ai pas
+2249.039|2251.224|sur o- Olivet par exemple y a pas
+2251.224|2255.977|euh bah y a des restaurants sur Olivet mais c'est vrai qu'<reformulation><P1>on n'y va pas</P1> <DI>oh</DI> <DMD>non</DMD> <DA>c'est pas</DA> <P2 rel_pragm="explic">c'est pas tellement notre truc ça</P2></reformulation>
+2253.657|2253.982|hm hm
+2255.144|2264.99|hm hm et sur les non et et sur les quand quand quand vous êtes reçus ou y a pas des plats qui sont des plats euh particuliers de du coin on a
+2263.747|2276.495|non j'ai pas j'ai pas alors sans doute des trucs de chasseurs choses comme ça mais alors moi et alors du coup on nous en fait jamais donc je crois que c'est emballé parce que moi tous les trucs marinés là j'ai pas tellement je suis pas tellement amateur donc euh  non non
+2266.777|2267.203|oui
+2274.522|2274.968|hm
+2275.879|2278.728|non les daubes de bi- de chevreuils non c'est pas
+2277.295|2293.395|oui non je je suis pas non voilà voilà puis alors le gibier euh quand on vous apporte du gibier gentiment et qu'il faut le plumer le vider machin non non non donc euh j- je suis assez ravie de pas avoir trop d'amis chasseurs  qu'ont la bonne idée en tout cas de ne pas nous en <reformulation><VP1>nous en imposer</VP1> <MR/><VP2 rel_lex="syno(imposer/infliger)" rel_pragm="para">nous en infliger</VP2></reformulation>
+2293.395|2302.153|et je vous disez même dans les boulangeries à Olivet y a pas de euh y a pas de spécialités locales euh ? c'est qu'Orléans est pas réputé pour avoir de spécialités
+2300.239|2330.285|non je ne pense pas qu'il y ait une ga- gastronomie euh particulière donc non j'ai pas euh honnêtement j'ai j'ai j'ai beau réfléchir je vois pas bien à part la poire d'Olivet  voilà qu'on a fait découvrir à des amis parisiens et que donc nous maintenant nous ravitaillons régulièrement en poire d'Olivet mais moi je ne bois pas d'alcool donc de toute façon je suis en du coup là alors soyons clichés jusqu'au bout notre amie est polonaise bah voilà 
+2303.02|2304.2|particulière
+2310.446|2312.075|oui la poire d'Olivet c'est vrai
+2325.707|2328.259|oui alors là forcément vous étiez obligée de faire découvrir
+2330.285|2334.306| des hm y a des lieux de promenades euh vous vous y avez
+2334.306|2335.808|ah oui ben
+2334.72|2339.933|vous aviez suffisamment avec le avec le avec les études du scoutisme vous avez mais sinon
+2337.354|2379.723|ah bah oui ça on en a pas mal avec les activités du scoutisme mais je dois dire quand même que les bords du Loiret sont quand même une promenade très agréable je me faisais cette réflexion y a c'est rigolo y a peut-être dix quinze jours en passant sur le pont de Loiret là en voiture je me disais ça fait bientôt seize ans qu'on habite ici et je me lasse   pas de cette vue je trouve  que le Loiret est quand même un endroit magnifique  les petites promenades au bord du Loiret sont très sympas lorsque les enfants étaient petits c'était facile d'y aller en vélo et cetera  euh et puis on a quand même en Sologne des endroits euh très beaux pour aller se promener euh on on est quand même tout près pour aller faire des balades en vélo à pied euh nos enfants ont fait pas mal d'équitation donc aussi à cheval c'est vrai que c'est ça ça à ce niveau-là c'était quand même une région très très agréable et tout est très proche on on met pas euh on n'a pas besoin d'une heure de route pour se retrouver sur un endroit où on peut aller euh
+2352.203|2352.637|oui
+2354.146|2356.242|c'est vrai
+2361.788|2362.329|ouais
+2375.211|2375.902|oui
+2379.723|2385.5|et si- et ici à Olivet vous êtes très proche de des du Loiret c'est sûr de de beaucoup pour   ah bon
+2381.261|2387.291|oui voilà voilà voilà nous avons une barque pour aller faire de la barque sur le Loiret 
+2387.291|2391.276|ah oui vous avez une barque qui mais qui stationne sur le bord du Loiret ? comme ça non vous avez ?
+2389.828|2405.542|alors on on peut la stationner sur le bord du Loiret parce qu'on est on a adhéré à la l'association des Riverains du Loiret mais on a préféré aller stocker dans un garage ici pour qu'elle s'abîme pas trop et euh l'été euh nous allons faire de la barque sur le Loiret c'est très bucolique
+2404.7|2406.706|ah oui c'est c'est non ça doit être
+2406.706|2411.505|avec un fils scout marin ça sait ramer
+2408.356|2412.685|c'est bah oui voilà voilà des activités sportives aussi ?
+2412.685|2412.978|oui
+2412.978|2415.33|vous utilisez les hm c'est ces sportives ?
+2414.378|2429.242|on utilise moi particulièrement parce que <reformulation><P1>je fais pas mal de tennis</P1> <MRCONC>donc</MRCONC> <P2 rel_lex="mero(tennis/USMO)" rel_pragm="res">je joue à l'USMO</P2></reformulation>
+2429.242|2430.309|là c'est le tennis à Olivet ?
+2430.309|2430.501|Oui
+2430.501|2432.317|c'est ça là au ah oui oui
+2430.812|2432.768|euh le la salle à au donjon
+2432.768|2433.356|au donjon
+2433.356|2433.824|voilà
+2433.824|2434.443|d'accord
+2434.443|2461.533|euh les enfants ont fait de l'équit- oui y a de très bons équipements euh de très bons profs aussi euh les enfants ont fait pas mal d'équitation moi aussi j'en ai fait pas mal euh on a on est on montait euh chez les militaires là au Sixième Cuirassiers euh et puis voilà au niveau sportif c'est surtout ça et puis j'ai une de mes filles alors qui est une qui fait du tennis mais son activité principale c'est la danse classique donc elle est au à l'Académie de Danse Dauphine à Orléans
+2435.158|2436.696|oui y a des beaux équipements
+2461.533|2470.719|ah oui d'accord oui oui c'est une très bonne école je crois ah oui oui ils font des très beaux spectacles eux aussi hein c'est assez professionnel
+2462.809|2464.446|oui <reformulation><P1>elle y est beaucoup</P1> <DMD>oui</DMD> <NP2 rel_pragm="prec">cinq heures par semaine</NP2> <MR/><P3 rel_pragm="res">elle y est beaucoup</P3></reformulation>
+2468.18|2469.641|oui voilà oui oui
+2470.719|2480.02|ah bah c'est c'est un bon niveau enfin moi nous on a découvert la danse avec elle parce que moi je dois dire que c'était pas du tout du tout mon domaine je je je trouve que les les choses qui sont produites sont de qualité
+2472.06|2473.228|c'est un bon niveau je crois oui
+2475.168|2475.497|hm
+2480.02|2483.722|hm hm ah oui j'ai l'impression que c'est moi aussi
+2480.561|2493.567|autant que je puisse en juger parce que c'est vrai que ce n'est pas du tout mon domaine mais bon et puis en peut-être qu'en tant que maman que je suis pas très objective je trouve qu'évidemment que la mienne est la plus belle bah oui il me semble mais je trouve quand même que les spectacles sont de qualité
+2489.088|2490.28|c'est la moindre des choses
+2493.567|2500.323|hm hm  et et sur le sport orléanais par contre sur le le vous êtes pas sp-
+2500.323|2500.616|non
+2500.616|2501.163|vous allez pas au au
+2501.163|2532.431|non alors euh non je suis allée voir les matchs de tennis euh le hm au hm  au palais des des sports euh euh l'Open d'Orléans voilà et euh on a eu beaucoup de chance parce qu'un de nos amis nous a invités euh enfin on y on avait quand même on y est allés plusieurs fois mais une notamment deux fois invités alors dans les loges c'est parfait on a une vue magnifique  <reformulation><P1>j'adore le rugby</P1> <MRCONC>donc</MRCONC> <P2 rel_lex="mero(rugby/match de rugby)" rel_pragm="res">je vais voir de temps en temps le match de rugby</P2></reformulation>
+2501.696|2504.666|voir les matchs de basket de football les enfants
+2505.573|2506.735|ah oui
+2509.0|2513.023|au palais des sports oui hm l'Open d'Orléans ? ou quelque chose comme ça
+2531.286|2540.244|non mais c'était surtout sur sur oui aussi sur sur sur les équipes euh vous êtes pas subj- fan d'un club euh
+2533.533|2535.501|oui
+2539.142|2545.216|je suis pas fan d'un club euh hm <reformulation><P1>je suis très fan de rugby</P1> ça fait beaucoup rigoler tout le monde ici <DMD>donc</DMD> <P2> rel_lex="syno(fan/supporter)" rel_pragm="para">je suis quand même un peu supporter l'équipe</P2></reformulation>
+2543.531|2548.82|ah oui ? personne personne ne partage euh ce si s- si mon f- un de mes fils quand même qui fait du rugby
+2548.82|2560.547|quand même mais sinon les autres me disent que ils préférent me regarder regarder un match que regarder le match je suis de très très mauvaise fois enfin bon enfin tout ce qu'ils disent mais bon je crois pas
+2556.479|2565.631|ah oui et euh télévision radio c'est des choses que vous utilisez beaucoup ou ?
+2565.631|2583.557|euh pff télévision bah là oui on va   regarder les Jeux Olympiques vous imaginez bien hm on on on n'est pas très très télé pas très très <reformulation><P1>on est quand même b- très actif</P1><MR/> <P2 rel_lex="mero(actif/activités)" rel_pragm="para">on a pas mal d'activités</P2></reformulation>
+2583.557|2583.93|hm hm
+2583.93|2591.94|la télé euh c'est pas systématique on peut rester euh plusieurs jours sans l'allumer ouais et la radio dans la voiture bah euh
+2589.431|2592.982|et les enfants aussi les enfants ils sont souvent demandeurs y avait des règles peut-être ?
+2592.982|2642.591|oui y a <reformulation><NP1>un peu de règles</NP1> <MRP>c'est-à-dire que</MRP> <DH>euh</DH> <ADV2 modif_morph="flex(règles/règle)" rel_pragm="para">en règle générale</ADV2></reformulation>
+2593.904|2595.148|oui
+2617.532|2619.504|en famille hm hm
+2629.478|2630.789|hm
+2638.723|2646.082|oui ça pou- non ça pouvait être un outil pour la nounou 
+2645.01|2664.246|oui non mais non non je f- euh je moi je considère vraiment tout comme le le <reformulation><NP1>internet et comme tout le reste</NP1> <MR type="pres">c'est</MR> <NP2 rel_lex="inst(Internet/outil)" rel_pragm="def">un effectivement un outil et euh ça peut être un très bon outil parce qu'on peut avoir très bonnes choses mais euh à condition de s'en servir comme un outil quoi de pas euh le la lai- laisser cet cet outil là prendre une place inconsidérée dans la famille</NP2></reformulation>
+2659.124|2660.37|oui oui hm hm
+2664.246|2668.537|justemement internet euh les euh c'est aussi beaucoup utilisé par vous les enfants ?
+2665.759|2666.166|oui
+2667.675|2690.626|c'est ah c'est utilisé oui bien sûr c'est c'est hm c'est même beaucoup utilisé mais euh avec les mêmes règles de de euh de vie qui fait qu'on s'en sert quand on en a besoin quand on a fini son travail moi je suis pas une anti-Facebook et une anti tout ça mais faut que ça reste dans des normes et euh qu'on n'oublie pas euh pour des amis virtuels euh sa famille réelle ou ses amis réels voilà 
+2690.979|2705.004|enfin bon tout ça c'est un peu de la liberté conditionnelle soyons clair hein euh je pense qu'<reformulation><VP1>élever ses enfants</VP1> <MR type="pres">c'est</MR> <VP2 rel_pragm="def">les mettre en garde de pas mal de choses et euh et aussi leur interdire et leur permettre des choses</VP2></reformulation>
+2690.979|2705.004|enfin bon tout ça c'est un peu de la liberté conditionnelle soyons clair hein euh je pense qu'élever ses enfants c'est les mettre en garde de pas mal de choses et euh et aussi <reformulation><VP1>leur interdire et leur permettre des choses</VP1> <DMD>donc</DMD> <DH>euh</DH> <DI>bah</DI> <P2 modif_morph="flex(interdire, permettre/interdit,permet)" rel_pragm="para">on interdit et on permet</P2></reformulation>
+2701.698|2702.081|hm
+2703.369|2707.902| qu'est-ce qui me reste comme activités la lecture peut-être ? euh
+2707.902|2708.172|ah oui
+2708.172|2709.124|la lecture c'est
+2709.124|2736.773|oui alors aussi on lit beaucoup euh avec quelques amis on a on a installé une petite tournante de lecture là donc euh ouais je les reçois cette après-midi même  donc on lit pas mal euh moi <reformulation><VP1>j'aime lire</VP1> <MRCONC>donc</MRCONC> <DH>euh</DH> <VP2 modif_morph="flex(lire/lit)" rel_pragm="res">je lis beaucoup</VP2></reformulation> et on on aime on aime bien passer ce virus à nos enfants  donc le l'été c'est vrai que moi je lis beaucoup l'année donc l'été je pars avec une grande un grand sac de bouquins et euh je dis bah tiens <reformulation><P1>tu devrais lire ça</P1> <MR/><P2 rel_pragm="explic">c'est pas mal</P2> <MR/><P3 rel_pragm="para">je pense que ça te plairait</P3></reformulation>
+2713.66|2714.941|oui
+2736.773|2742.102| et donc là quand par exemple cet après-midi vous vous recevez des des amis et vous parlez des livres euh vous
+2740.001|2753.201|oui alors en fait euh oui c'est très convivial on parle des livres qu'on met dans notre tournante de lecture et puis euh euh des choses qu'on a qu'on aime ou qu'on n'aime pas enfin des des différents bouquins qu'on a pu lire des choses comme ça
+2752.515|2758.285|hm et vous les les les vos livres préférés ou auteurs préférés ? euh tous
+2757.276|2760.339|auteurs préférés euh bah y en a beaucoup euh
+2760.339|2761.812|ou qui vous ont marquée ou
+2761.812|2772.42|euh qu'est-ce que je pourrais vous dire j'aime bien Philippe Claudel euh ah y en a beaucoup trop je peux pas vous dire comme ça   c'est toujours compliqué voilà
+2769.139|2774.001|oui oui oui non non c'est toujours com- c'est toujours des questions compliquées c'est non non non c'est c'est vrai c'est le choix
+2774.001|2776.977|ouais ouais c'est toujours un peu compliqué mais bon euh
+2775.432|2776.121|oui oui
+2776.654|2778.109|non mais c'est une grande part enfin
+2778.109|2821.191|oui ça ça tient de la place oui oui oui j'aime j'aime lire euh je je préfére hm je préfére aller bouquiner que de souvent que de passer du temps devant la télé clairement mais euh j'aime ce qu'enfin ce que j'aime bien aussi dans la lecture c'est le partager je veux pas que la lis- la lecture isole voilà  euh il faut euh il faut après en parler avec les au- avec les uns les autres essayer d'avoir lu des trucs un peu en commun et notamment c'est pour ça que l'été très   souvent je passe les les livres aux enfants et qui aime qui aime lire moi j'aime bien aussi l'histoire donc euh euh j'aime bien Max Gallo justement on en parlait parce que je trouve que quand il il écrit des livres euh sur l'histoire qui sont souvent très bien faits et passionnants  euh bah l'é- l'été dernier par exemple euh de ma fille qui est en seconde  euh qui savait pas quoi lire je lui ai collée hop la Révolution Française  comme elle aime l'histoire elle a adoré
+2780.079|2780.349|hm
+2786.069|2786.93|hm hm
+2793.408|2794.121|hm hm
+2821.191|2821.647|hm hm
+2821.647|2824.259|du coup après elle a lu le Voltaire de Max Gallo elle et voilà
+2824.259|2824.606|hm hm
+2824.606|2832.881|donc c'est vrai que j'aime bien qu'on puisse en en parler et partager parce que sinon la lecture c'est un peu donc euh c'est important de pouvoir après le partager
+2828.479|2829.44|hm hm
+2832.881|2840.198|et ce le le prêt de livres partager vous faites ça aussi avec les enfants ? c'est organiser par exemple d'entre euh entre enfants ou non ça c'est dans votre famille qui euh
+2839.167|2860.251|oui euh oui oui alors y a y a ce que m- nous moi je je fais lire aux enfants ou mon mari et puis euh nos enfants en sixième on a organisé la même petite bibliothèque tournante pour eux donc euh tous les hm <reformulation><NP1>quatre cinq six semaines</NP1> <MR/><NP2 rel_lex="syno(quatre cinq six semaines/cinq semaines à peu près" rel_pragm="para">cinq semaines à peu près</NP2></reformulation>
+2860.251|2865.939|d'accord et et vous passez aussi par la bibliothèque ? euh pour oui
+2863.981|2886.004|oui oui ils on a on a nos cartes de bibliothèque qui vont aussi à la bibliothèque euh bon là c'est tout près alors en vélo c'est très facile  donc ils vont ils vont régulièrement à la bibliothèque oui  mais moi j'aime les livres alors la bibliothèque ça m- frustre un peu parce que j'ai besoin d'avoir le livre  puis <reformulation><P1>il me faut du temps</P1> <MR/><P2 rel_pragm="explic">faut que je le retourne dans tous les sens</P2></reformulation>
+2867.173|2869.62|oui hm
+2870.818|2872.24|hm hm
+2879.59|2879.937|hm hm
+2884.356|2891.403|hm hm et puis ce qui est dur c'est dé- dé- d'être enfin de euh le choix quoi d'être ici y a tellement de livres y a tellement de livres
+2888.613|2891.783|ouais oui oui oui oui oui oui oui ouais c'est vrai hm hm
+2891.783|2896.368|et et euh la presse euh la presse écrite vous êtes abonnés ?
+2896.368|2942.464|euh non on n'est plus abonné on a <reformulation><P1>on a été abonné à la presse</P1> <DA>é-</DA> <P2 rel_lex="inst(la presse/le Point)" rel_pragm="denom">on a été abonné à des  au Point</P2></reformulation> pendant un certain nombre d'années on a euh mon mari lit le journal pr- professionnellement tous les jours  moi je lis un peu la presse sur internet  euh j- je préfére un hebdomadai- un q- un hebdomadaire à un quotidien je trouve qu'il y a soit un peu plus de recul dans la formation j- j- j'aime pas trop la le l- l'information évènementielle et euh et sans recul quoi on vous balance des tas d'infos comme ça <reformulation><AP1>pas toujours euh avérées</AP1><MR/> <AP2 rel_lex="syno(avérées/vérifiées)" rel_pragm="para">pas toujours vérifiée</AP2></reformulation>  donc euh bon je suis pas très j'ai- j'ai- j'aime mieux les choses qui ont un petit peu de recul bon je me tiens au courant je suis pas   un dinosaure non plus mais euh mais voilà donc <reformulation><P1>je suis pas très presse non pas trop non non</P1> <DA>je</DA> <DMD>non non</DMD> <DA>je</DA> <VP2 rel_lex="mero(presse/lis)" rel_pragm="para">je lis pas</VP2></reformulation>
+2897.291|2899.43| vous lisez
+2905.806|2906.24|hm
+2930.454|2931.341|hm
+2934.424|2974.579|et et et presse locale sur euh ? non non non plus le Centre tout ça non non ça c'est pas vous euh pas besoin non sur sur le local justement est-ce que euh bon je vais hm rassurez-vous c'est bientôt la fin hein je je vous embête pas p- pas trop longtemps encore ju- juste quelques questions un peu plus locales là su- sur Orléans hein euh notamment sur bah par exemple la façon de parler des gens euh vous qui êtes arrivés de Paris est-ce que vous avez trouvé qu'il y a euh alors oui je vous dis alors par exemple une façon euh on a vu qu'est-ce qu'on a dit tout à l'heure pas vraiment de spécialités orléanaises  euh est-ce que vous avez été surpris par euh d- <reformulation><NP1>des mots</NP1> <DH>euh</DH> <NP2 rel_lex="syno(mots/lexique)" rel_pragm="para">un lexique</NP2></reformulation>
+2950.134|2952.286|ah oui non non   ne vous inquiétez pas
+2964.853|2966.771|hm non
+2974.579|2976.458|non je po- je hm non je crois pas
+2976.458|2976.657|non
+2976.657|2987.413|j'ai pas eu l'impression que ça m- s- alors en même temps euh je dois dire que quand on arrive <reformulation><PP1>d'une région</PP1> <DH>euh</DH> <PP2 rel_pragm="prec">d'une autre région</PP2></reformulation>
+2987.413|2987.895|hm hm
+2987.895|3012.655|je connais pas tant que ça de de euh d'orléanais de souches ou voilà c'est vrai que  cela dit euh dans les commerces ou ou les gens que j'ai pu fréquenter j'ai pas noté euh un accent particulier on n'est pas parti à Strasbourg quand même non je pense pas non et puis je je pense que les tics de langage des des jeunes sont les mêmes euh que ce soit ici ou non
+2999.967|3006.192|oui oui n'est pas a- a- un orléanais de souche et ah ouais bien sûr hm hm
+3009.539|3015.703|hm hm c'est quelque chose à laquelle vous faites attention ça les tics de langage euh de de vos enfants
+3014.465|3015.084|c'est rigolo
+3015.703|3024.772|ah bah je trouve qu'y a y a une euh   c'est normal hein y a y a un langage de de reconnaissance de de de ce groupe là d'ados euh qu'est pas forcément le notre
+3018.859|3019.858|hm hm
+3024.772|3025.083|hm hm
+3025.083|3035.737|qu'on emprunte parfois un peu de temps en temps mais euh oui enfin je pense qu'ils ont une façon de parler entre eux qui est qui est quand même très très reconnaissable et je pense que là euh pour le coup que ce soit ici ou ailleurs euh
+3035.737|3043.358|oui oui oui y a des fois des choses qui vous agacent euh non dans cette fa- ? enfin est-ce que c'est à c'est important pour vous aussi de leur de leur apprendre une certaine façon de parler ou ?
+3036.305|3039.068|voilà oui 
+3043.358|3069.354|bah je pense que ce qui est essentiel c'est de savoir euh c'est-à-dire que je v- que ça ne me gène pas qu'entre ils se parlent euh ou qu'ils s'écrivent en textos et qu'ils se parlent euh avec leurs tics de langage à eux maintenant euh je pense quand ils parlent à d'autres personnes ils doivent retrouver euh un langage un peu plus compréhensible une orthographe un peu plus hm dans la norme voilà donc moi je c'est vrai que tan- par exemples quand mes enfants m'envoient un texto ils me l'envoient en français
+3065.336|3066.269|hm hm hm hm
+3069.354|3072.284|ah oui voilà c'est un choix une obligation euh 
+3069.816|3070.762|hm
+3072.284|3105.592|euh non j- je leur ai jamais dit que je voulais pas en texto mais euh ils doivent se dire la pauvre   fille elle va pas comprendre   peut-être ça  non non mais je non je crois que c'est important mouais je suis pas du tout opposée à l'évolution de la langue hm hm enfin euh j'imagine que   mes grands-parents comprendraient pas forcément là notre façon de parler aujourd'hui voilà mais on peut évoluer tout en gardant quand même euh bah des des des choses belles notre langue est belle donc je trouvait ça important bah de la conserver alors qu'elle évolue moi j'ai rien contre mais euh j'imagine vous c'est pareil j'imagine que lorsque vous recevez une copie écrite en texto ça va quand même vous heurter
+3084.354|3085.189|je trouve ça c'est normal
+3096.097|3096.91|hm hm hm 
+3105.592|3106.24|absolument oui
+3106.24|3112.703|bon et bah moi je je veux qu'on me parle correctement et qu'on m'écrit des choses que je peux comprendre sans avoir à les lire à haute voix
+3108.234|3109.537|oui
+3112.703|3120.755|vous êtes su- et de euh le l'orthographe justement vous pensez que euh on devrait évoluer qu'y a des règles qui devraient changer ou que ça
+3120.755|3168.938|alors euh <reformulation><P1>j'ai un fils dysorthographique</P1> <MRCONC>donc</MRCONC> <P2 modif_morph="comp(dysorthographique/ orthographe)" rel_pragm="res">l'orthographe a été un un pierre d'achoppement pour lui</P2></reformulation>
+3168.938|3169.297|hm hm
+3169.297|3179.386|j'en sais rien alors bon peut-être <reformulation><VP1>faire évoluer certaines choses</VP1> <DMD>pourquoi pas</DMD> <VP2 rel_lex="mero(faire évoluer certaines choses/ pas être psycho-rigide" rel_pragm="para">faut pas être non plus psycho-rigide</VP2></reformulation>
+3179.386|3189.844|hm hm et et la la la langue française par rapport à d'autres langues vous on je sais pas si c'est euh sur Olivet on entend beaucoup de euh de gens qui parlent d'autres langues que le Français dans la rue dans le commerce
+3189.844|3194.604|dans les commerces euh on les entend à l'époque de l'é- en l'été oui
+3194.26|3200.633|hm hm l'été <reformulation><PRES1>on a pas mal</PRES1> <MR/><PRES2 rel_lex="syno(on a/y a)" rel_pragm="para">y a pas mal</PRES2></reformulation>
+3200.633|3245.428| moi j'aime beaucoup les langues euh je suis hm donc des origines italiennes <reformulation><P1>je parle l'italien je parle le français j'apprend le russe  euh je parle l'anglais je baragouine un peu l'allemand</P1> <MRCONC>donc</MRCONC> <P2 rel_pragm="res">j'aime beaucoup les langues</P2></reformulation>
+3215.669|3218.345|hm
+3228.501|3229.819|hm hm
+3245.428|3249.327|hm hm hm oui la langue c'est un moyen aussi d- d'aller vers les autres euh
+3249.327|3260.268|ah bah oui ah oui oui ah oui c'est vrai que euh quand vous vous retrouvez avec euh une brave petite dame anglaise qui vous demande sa route  et qui demande en générale à une autre petite brave petite dame française qui parle pas un mot d'anglais
+3260.268|3261.172|oui oui
+3261.172|3263.533| ouh j'en ai perdu le
+3261.701|3262.588|bien sûr
+3263.533|3264.695|je vous laisse le remettre
+3264.695|3265.631|pardon
+3267.015|3272.242|c'est c'est euh quoi c'est très lié au partage  vous m'avez beaucoup vous m'avez quand beaucoup  parler du partage
+3270.273|3271.452|oui
+3272.242|3273.01|hm hm
+3273.01|3275.611|c'est une notion énorme
+3274.066|3312.4|oui oui non mais c'est important oui c'est important de pouvoir euh moi je pense que de communiquer on a eu cet exemple avec notre jeune fille au pair étrangère qui parlait très très bien le français euh je pense qu'elle aurait pas eu le parcours qu'elle a eu aujourd'hui  si elle avait pas fait l'effort de d'apprendre notre langue comme elle l'a apprise et euh et <reformulation><PRES1>c'est un facteur d'intégration</PRES1> <DMD>enfin</DMD> <MRP>je veux dire</MRP> <P2 rel_pragm="justif">ça reste quand même un sujet très à la mode</P2></reformulation>
+3274.066|3312.4|oui oui non mais c'est important oui c'est important de pouvoir euh moi je pense que de communiquer on a eu cet exemple avec notre jeune fille au pair étrangère qui parlait très très bien le français euh je pense qu'elle aurait pas eu le parcours qu'elle a eu aujourd'hui  si elle avait pas fait l'effort de d'apprendre notre langue comme elle l'a apprise et euh et <reformulation><PRES1>c'est un facteur d'intégration</PRES1> enfin je veux dire ça reste quand même un sujet très à la mode <DH>euh</DH> <P2 modif_morph="deriv(intégration/s’intégrer)" rel_pragm="explic" rel_lex="mero(facteur d’intégration/s’intégrer)">on on ne peut pas euh s'intégrer dans une culture si on n'en parle pas la langue</P2></reformulation>
+3291.876|3292.477|hm hm
+3303.265|3304.589|hm hm
+3312.4|3312.919|hm hm
+3312.919|3319.671|mais euh c'est c'est c'est pas renier en en oublier et en renier une c'est c'est s'ouvrir vers euh les autres vers les autres cultures
+3319.671|3334.691|hm hm ah oui oui vous avez cette ouverture vers les autres euh que vous avez mentionnée euh plusieurs fois sur sur euh bah sur la lecture euh sur les activités etsur le partage pour pour la religion ? c'est c'est
+3321.415|3322.592|oui
+3334.691|3417.364|oui alors je pen- je pense pas qu'on puisse parler d'intérêt pour la religion je savez  non mais on peut être intéressé par les religions je pense et d'ailleurs je le suis je je trouve que c'est intéressant pour comprendre un peu mieux le monde dans lequel on vit je pense que c'est important de s'intéresser à ce que vivent d'autres euh d'autres reli- d'autres personnes d'autres religions euh la fai- le fait que nous nous soyons catholiques et pratiquants alors j'aime pas trop le terme pratiquant ça me fait penser au golf en général quand on dit pratiquant mais bon voilà c'est mais voilà euh effectivement c'est u- également <reformulation><NP1>une ouverture sur les autres</NP1> <DH>euh</DH> <NP2 rel_lex="syno(ouverture/intérêt)" rel_pragm="para">un intérêt pour les autres</NP2></reformulation> là pour le coup on peut l'utiliser le mot intérêt la religion c'est euh soit on est un peu tombé dedans quand on était petit parce qu'on a été élevé dans une famille euh chrétienne catholique euh musulumane euh juive euh et voilà je et j'en passe   soit euh on y est venu en ce qui me concerne moi j'ai été élevée par une famille euh pratiquante nous ça nous euh z- allons à la messe le dimanche on fait partie d'un mouvement chrétien et cetera euh l'ouverture aux autres je pense que c'est quand même aussi une question de tempérament puisque y a des gens qui qui sont totalement athés qui et qui sont quand même très ouverts les autres alors c'est peut-être un autre regard un regard chrétien qu'on pose aussi sur les autres mais euh il est pas exclusif moi je je je pense que c'est i- il faut pas perdre de vue que tout le monde peut avoir <reformulation><NP1>une attention</NP1> <MR/><NP2 rel_lex="syno(attention/ouverture)" rel_pragm="para">une ouverture</NP2></reformulation>
+3336.772|3341.802|oui vous je vous concède que l'expression est maladroite
+3344.181|3346.686|ou dont oui oui oui
+3363.605|3365.4|practice de golf 
+3403.674|3404.782|hm hm
+3417.364|3428.478|oui mais par contre alors par contre chez les chrétiens est-ce que vous pensez que c'est justement une caractéristique première de euh chez les chrétiens d'être euh ouverts vers les autres ?
+3428.478|3429.248|il faudrait
+3429.248|3429.685|il faudrait
+3429.685|3445.674|il faudrait oui oui oui bah évidement euh à partir du moment où dans notre religion euh le maître-mot c'est l'amour <reformulation><P1>on ne peut pas ne pas avoir un regard vers les autres</P1> <DMD>il est bien évident qu'</DMD><P2 rel_lex="syno(avoir un regarde vers les autres/être tourné vers les autres)" rel_pragm="para">on est uniquement tourné vers les autres</P2></reformulation>
+3445.674|3446.221|hm
+3446.221|3464.389|bah alors après euh si tous les catholiques étaient parfaits je pense que depuis le temps ça se saurait et c'est valable pour toutes les autres religions on est d'abord humain donc euh no- n- on est appelé à la sainteté le chemin est long plein d'embuches mais il faut progresser
+3464.775|3467.035|voilà on est en route 
+3465.209|3478.236|hm hm et vous trouvez que sur les sur sur les  discussions polémiques actuelles sur les les chocs des religions sur l'importance des religions c'est c'est effectivement une question de société très très importante actuellement ?
+3478.236|3553.273|oui je je pense que euh c'est c'est quelque chose de difficile quand on quand on est amené soi-même on a soi-même la foi d'imaginer qu'on puisse se heurter sur des faits religieux parce que je je sincérement j'imagi- enfin que ce soient les juifs les musulmans ou les catholiques ils aiment <reformulation><NP1>le même dieu</NP1> <MR/><NP2 rel_lex="syno(même/unique)" rel_pragm="para">un dieu unique</NP2>é</reformulation> euh <reformulation><P1>je crois que tout ça est est à redescendre un échelon beaucoup plus humain</P1>  <MRP>c'est-à-dire</MRP> que <PRES2 rel_lex="mero(humain/homme)" modif_morph="deriv(humain/homme)" rel_pragm="explic">c'est les les hommes qui se battent entre eux</PRES2></reformulation> c'est pas dieu qui demande ça  euh i- i- i- le communitarisme <reformulation><NP1>le communitarisme</NP1> <MR type="pres">est</MR> <NP2 rel_pragm="def">quelque chose de de très dangeureux</NP2></reformulation> je pense je euh y a des pays où les communautés vivent ensemble donc si certaines communautés dans certains pays peuvent vivre ensemble je crois que ce modèle là peut s'appliquer dans d'autres pays  mais y a des pays où les gens sont quand même très très extrémistes euh et là je <reformulation><PRES1>c'est un réel danger</PRES1><MR/> <PRES2 rel_lex="mero(danger/peur)" rel_pragm="para">c'est quelque chose qui fait très peur</PRES2></reformulation>
+3553.804|3571.823|c'est dommage <reformulation><NP1>le Coran</NP1> <MR type="pres">est</MR> <NP2 rel_lex="inst(le Coran/un livre)" rel_pragm="def">un livre magnifique qui qui prône l'amour qui prône pas euh la guerre et qui prône pas la violence</NP2></reformulation>
+3559.277|3559.874|hm hm
+3571.823|3574.969|voilà est-ce que vous êtes plutôt confiante pour pour pour l'avenir ?
+3574.969|3637.567| euh je sais pas je je sais pas j'ai c'est inquiétant hein euh on on voit quand même des des montées de de de violence de haine qui sont quand même inquiétants est-ce que c'est des choses probablement qu'on a déjà connues euh il y a plusieurs siècles  moi je crois beaucoup à l'effet balancier je me dis qu'à un moment on est très dans un extrémisme après on risque de repartir très dans un autre  confiante euh je sais pas s'il faut être confiant je pense qu'il faut être vigilant surtout hm euh je je crois aussi que par euh l'information l'éducation offrir <reformulation><PP1>à des gens</PP1> <PP2 rel_lex="hypero(gens/hjeunes de banlieues)" rel_pragm="exempl">à des jeunes de banlieues</PP2> <MRE>par exemple</MRE></reformulation>
+3591.009|3595.028|hm hm
+3635.112|3682.828| d'accord bah écoutez euh moi j'en arrive euh à à la fin de euh mon entretien à moins qu'il y ait des choses qui vous vouliez ajouter des choses qui étaient importantes pour vous mais euh je veux je vous remercie beaucoup non bah vous é-  mais bah oui je vous ai pris un peu de plus de temps que que prévu si je   puis juste une dernière question  vous allez voir que je garde pour la fin qu'est tout à t- totalement particulière et un peu et un peu et un peu idiote il se trouve que euh <reformulation><PRES1>y a y a quarante ans quand les Anglais sont venus euh faire leur</PRES1> <DH>euh</DH> <DMD>vous savez qui qu'</DMD><PRES2 modif_morph="flex(faire/a été faite)" modif_synt="passif(faire/a été faite)" rel_pragm="para">il y a eu une une enquête qui a été faite par les Anglais y a quarante ans</PRES2></reformulation>
+3645.839|3650.172|bah non je crois qu'on a été très bavard
+3651.837|3653.085|non non je suis très bavarde
+3654.834|3655.96|dites-moi
+3682.828|3686.537|eh bah c'est pas ma façon préférée de manger des oeufs je les aime mieux brouillés
+3684.71|3685.56|c'est vrai ?
+3686.537|3698.701|est-ce que ça vous arrive quand-même d'en faire ? et s- et est-ce que dans ce cas là vous accepteriez en conclusion de cet entretien de nous livrer <reformulation><NP1>votre propre façon de procéder</NP1> <DA>v-</DA> <NP2 rel_lex="mero(procéder/recette)" rel_pragm="para">votre propre recette de l'omelette</NP2></reformulation>
+3688.166|3689.744|eh bah alors oui ça peut m'arriver d'en faire
+3691.621|3728.052|ma recette de l'omelette ? bah écoutez oui je m'attendais pas à ça effectivement oui alors l'omelette on en fait très rarement parce qu'on aime pas trop ça  et quand on fait de l'omelette eh bien on bat des oeufs dans un saladier on y met du sel et du poivre et on met ça dans une poêle un petit peu huilée bien chaude et on verse   et on attend que ça cuise mais je préfére nettement les oeufs brouillés hein je vous le dis tout de suite 
+3701.4|3702.413| alors oui effect-
+3717.907|3721.883| d'accord
+3723.392|3731.104| d'accord bah écoutez merci beaucoup merci vraiment pour cet euh cet entretien
+</body>

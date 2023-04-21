@@ -1,0 +1,89 @@
+<body>
+<reformulation><P1>qui est revenu sur Or-</P1><MR/> <P2 modif_morph="deriv(revenu/venu)" rel_pragm="prec">qui est venu sur Orléans</P2></reformulation>
+<reformulation><P1>ma mère qui l'a suivi</P1> <MR/><P2 modif_morph="flex(avait/a)" rel_pragm="explic" rel_lex="anto(suivi/laisser)">elle avait du mal à laisser</P2></reformulation>
+<reformulation><NP1>Orléans</NP1> <DH>euh</DH> <DMD>enfin</DMD> <DH>euh</DH> <NP2 rel_lex="mero(Orléans/l'agglomération)" rel_pragm="prec">l'agglomération</NP2> <MRCOR>pardon</MRCOR> <DH>euh</DH> <NP3 rel_pragm="prec" rel_lex="mero(l’agglomération/Saint-Denis-en-Val)">Saint-Denis-en-Val</NP3></reformulation>
+<reformulation><N1>la primaire collège</N1> <DH>euh</DH> <DMD>alors</DMD> <DH>euh</DH> <N2 rel_pragm="denom">primaire à Saint-Denis-en-Val collège à Saint-Jean-le-Blanc</N2></reformulation>
+<reformulation><NP1>un métier</NP1> <MR/><NP2 rel_pragm="prec" rel_lex="hypo">mon métier</NP2> <MR type="pres">c'est</MR> <P3 rel_lex="syno(mon métier/je travaille)" rel_pragm="denom">je travaille à la police ferroviaire</P3> <NP4>c'est-à-dire que c'est la police interne de la SNCF</NP4></reformulation>
+<reformulation><NP1>la police ferroviaire</NP1> <MR>c'est-à-dire</MR> que <MR type="pres">c'est</MR> <P2 rel_pragm="def" rel_lex="syno(la police ferroviaire/la police interne de la SNCF)">la police interne de la SNCF</P2></reformulation>
+<reformulation><NP1>les grandes lignes</NP1> <MR type="pres">c'est</MR> <NP2 rel_pragm="denom" rel_lex="mero(les grandes lignes/la SNCF)">la SNCF</NP2></reformulation>
+<reformulation><NP1>les missions</NP1> <MR type="pres">c'est</MR> <NP2 rel_pragm="def">missions de sécurisation des trains des gares euh de tout de tout ce qui appartient à la SNCF de tout ce qui est infrastructures bureaux</NP2></reformulation>
+<reformulation><P1>on a pratiquement les mêmes équipements</P1><MR/><P2 rel_pragm="denom" rel_lex="hypo(équipements/arme)">on a une arme de quatrième q- degré de sixième catégorie</P2></reformulation>
+<reformulation><NP1>ses agrès</NP1> <MRCONC>donc</MRCONC> <MRP>ça veut dire</MRP> <NP2 rel_pragm="para" rel_lex="hypo(agrès/arme)">son arme</NP2></reformulation>
+<reformulation><Adv1>d'un jour à l'autre</Adv1> suivant les évènements suivant les évènements <DMD>donc </DMD><DA>on les re- on l'a</DA> <DH>euh</DH> <Adv2 rel_lex="syno" rel_pragm="para">quotidiennement</Adv2></reformulation>
+<reformulation><NP1>des petits bureaux</NP1> <MRE>style</MRE> <NP2 rel_lex="mero(bureau/Vierzon Nevers)" rel_pragm="exempl">Vierzon Nevers</NP2></reformulation>
+<reformulation><PRES1>c'est pas un concours</PRES1> <MR/><PRES2 rel_lex="hypo(concours/examen)" rel_pragm="oppos">c'est un examen</PRES2></reformulation>
+<reformulation><PP1>après voilà donc euh suiv- euh avoir des compensations</PP1> <MR/><PP2 modif_morph="flex(avoir/a)" rel_pragm="prec">après y a des compensations suivant la règlementation du travail</PP2></reformulation>
+<reformulation><Adv1>à l'avance</Adv1> <DH>euh</DH> <Adv2 rel_lex="syno(à l'avance/en avance)" rel_pragm="prec">longtemps en en avance</Adv2></reformulation>
+<reformulation><P1>on est bien détendu</P1> <MR/><P2 rel_pragm="prec" rel_lex="anto(détendu/énervé)">on n'est pas énervé de la de sa journée</P2></reformulation>
+<reformulation><VP1>je cours aussi</VP1> <DMD>ouais</DMD> <VP2 rel_pragm="prec">je cours pas mal</VP2></reformulation>
+<reformulation><NP1>les bords de Loire</NP1> <MR/><NP2 rel_lex="mero(Loire/canal)" rel_pragm="prec">les bords du canal</NP2></reformulation>
+<reformulation><NP1>un kilomètre</NP1> <DI>hein</DI> <DMD>ouais</DMD> <NP2 rel_pragm="prec">un peu plus d'un kilomètre</NP2></reformulation>
+<reformulation><NP1>le petit commerçant</NP1> <MRE>genre</MRE> <DH>euh</DH>  <N2 rel_lex="hypo(le petit commerçant/boulangerie)" rel_pragm="exempl">boulangerie</N2></reformulation>
+<reformulation><NP1>le supermarché le plus proche</NP1> <MR type="pres">c'est</MR> <DH>euh</DH> <MR type="pres">c'est</MR> <NP2 rel_lex="inst(supermarché/intermarché)" modif_morph="deriv(supermarché/intermarché)" rel_pragm="denom">intermarché à Chécy</NP2></reformulation>
+<reformulation><N1>jardinerie</N1> <MR/><N2 modif_morph="deriv(jardinerie/jardinage)" rel_lex="mero(jardinerie/jardinage)" rel_pragm="prec">jardinage</N2></reformulation>
+<reformulation><NP1>des pièces de théâtre qui passent</NP1> <DA>des euh</DA> <NP2 rel_lex="syno(pièces de théâtre/spectacles)" rel_pragm="prec">des spectacles</NP2></reformulation>
+<reformulation><NP1>une activité qui était assez intéressante</NP1> <MRCOO>et et</MRCOO> <DH>euh</DH> <MRCONC>et donc</MRCONC></reformulation>
+<reformulation><PP1>dans les restaurants</PP1> <DMD>oui</DMD> <DMD>mais</DMD> <P2 modif_morph="flex(restaurants/restaurant)" rel_pragm="prec">on va aussi au restaurant</P2></reformulation>
+<reformulation><P1>vos activités sportives c'est enfin c'est quel type</P1> <MR/> <MR type="pres">c'est</MR> <DA>plutôt</DA> <DH>euh euh</DH> <DMD>enfin</DMD> <N2  rel_lex="inst(type/marche course etc)" rel_lex2="inst(vos activités sportives/marche course)" rel_pragm="exempl">marche ou course et cetera</N2></reformulation>
+<reformulation><VP1>c'était pas</VP1> <MR/><VP2 modif_morph="flex(était/est)" rel_pragm="prec">c'est pas</VP2></reformulation>
+<reformulation><N1>émissions</N1> <DH>euh hm</DH> <MRE>style</MRE> <N2 rel_lex="inst(émissions/ Envoyé Spécial Zone Interdite" rel_pragm="exempl">Envoyé Spécial euh Zone Interdite</N2></reformulation>
+<reformulation><VP1>j'ar-</VP1><MR/> <VP2 rel_lex="syno(ar-/rentre)" rel_pragm="para">je rentre</VP2></reformulation>
+<reformulation><PP1>dans la famille</PP1> <DMD>ouais</DMD> <NP2 rel_lex="mero(dans la famille/Dordogne)" rel_pragm="para">Dordogne</NP2></reformulation>
+<reformulation><NP1>vacances un peu euh sportives</NP1> <DMD>enfin</DMD> <NP2 modif_morph="deriv(sportives/sport)" rel_lex="mero(vacances sportives/nature et les sports)" rel_pragm="denom">nature et les sports</NP2></reformulation>
+<reformulation><PRES1>c'est pas pareil</PRES1> <DI>hein</DI> <NP2 modif_morph="deriv(sportives/sport)" rel_lex="mero(vacances sportives/nature et les sports)" rel_pragm="denom">nature et les sports</NP2></reformulation>
+<reformulation><P1>quand j'ai le temps je  je lis beaucoup</P1> <DMD>mais</DMD> <P2 rel_pragm="justif">quand j'ai le temps pourquoi pas</P2></reformulation>
+<reformulation><PRES1>c'est du rapide</PRES1> <MR/><PRES2 rel_lex="syno(rapide/vite)" rel_pragm="para">c'est du vite lu</PRES2></reformulation>
+<reformulation><P1>j'aime bien tout tout ce qui est euh biographies</P1> <MR/><P2 rel_pragm="res">j'aime bien</P2></reformulation>
+<reformulation><NP1>les gros best sellers</NP1> <DI>hein</DI> <NP2 rel_lex="inst(les gros best sellers/ Da Vinci Code et compagnie)" rel_pragm="exempl">Da Vinci Code et compagnie</NP2></reformulation>
+<reformulation><P1>j'aimerais avoir votre avis euh sur ces manifestations</P1> <MRCOO>et en même temps</MRCOO> <DH>euh hm</DH> <P2 rel_lex="syno(j'aimerais avoir votre avis/ si vous voulez bien me dire)" rel_lex2="mero(votre avis/dire)" rel-lex="syno(avoir votre avis/me dire)" rel_pragm="para">si vous voulez bien me dire</P2></reformulation>
+<reformulation><NP1>dix dix ans</NP1><MR/> <NP2 rel_pragm="prec">dix douze ans</NP2></reformulation>
+<reformulation><Adv1>moins de</Adv1> <DH>euh</DH> <Adv2 rel_lex="mero(moins/pas)" rel_pragm="para">pas d'</Adv2></reformulation>
+<reformulation><VP1>se garer</VP1> <DH>euh</DH>  <P2 modif_morph="flex(se garer/se gare)" rel_pragm="para">on se gare</P2></reformulation>
+<reformulation><PRES1>on a bah toujours la fête à Chécy</PRES1><MR/> <PRES2 rel_lex="syno(on a/y a)" rel_pragm="para">y a une euh y a toujours quelque- une fête à Chécy</PRES2></reformulation>
+<reformulation><P1>de médias locaux est-ce que vous  vous suivez un petit peu</P1> <DMD>enfin</DMD> <DH>hm</DH> <P2 rel_lex="syno(vous suivez/vous lisez)" rel_pragm="exempl">vous lisez par exemple euh la République du Centre</P2></reformulation>
+<reformulation><P1>que vous me racontiez un petit peu</P1> <DMD>enfin</DMD> <DH>hm</DH> <DMD>comment dire</DMD> ? <P2 rel_lex="syno(racontiez/parliez)" rel_pragm="para">que vous me parliez un petit peu plus</P2></reformulation>
+<reformulation><P1>des difficultés bah oui bah ça on en a tous les jours</P1><MR/> <P2 rel_lex="hypero(des difficultés/la misère)" rel_lex2="syno(on en a /on est confronté)" rel_pragm="para">on est en on est confronté à la m- à la misère pour voter</P2> <MR/><P3 rel_lex="mero(la misère/SDF)" rel_lex2="syno(la misère/en détresse)" rel_lex3="syno(confronté/géré)" rel_pragm="denom">on a géré des euh des gens qui sont SDF euh qui ont aucun revenu qui sont euh qui sont en détresse quoi</P3></reformulation>
+<reformulation><P1>qui sont dans les gares</P1> <MR/><P2 rel_lex="syno(sont/errent)" rel_pragm="para">qui errent dans les gares</P2></reformulation>
+<reformulation><NP1>le cent quinze</NP1> <MR/><NP2 rel_pragm="denom" rel_lex="syno(le cent quinze/le Samu social)">le Samu social</NP2></reformulation>
+<reformulation><PP1>aux jeunes</PP1> <DH>euh</DH> <PP2 rel_lex="hypo(jeunes/ jeunes délinquants)" rel_pragm="prec">aux jeunes délinquants</PP2></reformulation>
+<reformulation><NP1>les jeunes délinquants</NP1> <MR type="pres">c'est</MR> <MRE>par exemple</MRE> <DH>euh</DH> <P2 rel_pragm="explic">ils payent pas leurs euh leurs euh billets</P2></reformulation>
+<reformulation><P1>vous pouvez aussi être appelé par</P1> <DH>euh</DH> <DA>vos</DA> <DMD>d'accord</DMD> <DH>hm hm</DH> <DMD>et donc</DMD> <MR type="pres">c'est</MR> il peut y avoir des des trains où y a des des des problèmes de ce type-là <MRCONC>et</MRCONC> <VP2 modif_morph="flex(être/êtes)" rel_lex="syno(appelé/averti)" rel_pragm="para">vous êtes avertis</VP2></reformulation>
+<reformulation><Pr1>nous</Pr1> <MR/><Pr2 rel_lex="syno(nous/on)" rel-pragm="prec">on</Pr2></reformulation>
+<reformulation><P1>on peut pas g-</P1><MR/> <P2 rel_lex="syno(on peut pas/on arrive pas)" rel_pragm="para">on arrive pas à gérer</P2></reformulation>
+<reformulation><NP1>la gare</NP1> <MR type="pres">c'est</MR> <NP2 rel_lex="mero(la gare/un service)" rel_pragm="def">un service euh c'est un service</NP2> <MR type="pres"> c'est</MR> <NP3 rel_lex="mero(un service/un endroit ouvert au public)" rel_pragm="def">un  un endroit ouvert au public</NP3></reformulation>
+<reformulation><VP1>on n'a pas</VP1> <MR/><VP2 rel_pragm="oppos">on a</VP2></reformulation>
+<reformulation><P1>la gare ferme</P1> <MRCONC>de toute façon</MRCONC> <DA>y aura plus</DA> <PRES2 rel_pragm="res"> y a plus personne dans la gare</PRES2></reformulation>
+<reformulation><PRES1>y aura plus</PRES1> <MR/><PRES2 modif_morph="flex(aura/a)" rel_pragm="prec"> y a plus</PRES2></reformulation>
+<reformulation><PRES1>c'est l'av- enfin l'avantage</PRES1> <MR/><PRES2 rel_pragm="oppos"> c'est pas enfin c'est pas un avantage</PRES2></reformulation>
+<reformulation><PRES1>y a beaucoup</PRES1> <MR/><PRES2 rel_lex="syno(beaucoup/de plus en plus)" rel_pragm="para">y a de plus en plus</PRES2></reformulation>
+<reformulation><PRES1>y a de plus en plus de fraudes</PRES1><MR/> <P2 modif_morph="deriv(fraudes/fraudent)" rel_pragm="para">les gens fraudent de plus en plus</P2></reformulation>
+<reformulation><NP1>le prix</NP1> <DA>des</DA> <DH>euh</DH> <NP2 rel_lex="syno(prix/tarif)" rel_pragm="para">le tarif</NP2></reformulation>
+<reformulation><NP1>des histoires un peu bizarres</NP1> <DA>des</DA> <NP2 rel_lex="hypo(des histoires/des choses)" rel_pragm="para">des choses comme ça</NP2></reformulation>
+<reformulation><PRES1>y a pas d'histoire euh comparables actuellement</PRES1> ? <MR/><P2 rel_pragm="para">vous n'en avez pas eu connaissance </P2></reformulation>
+<reformulation><NP1>beaucoup de Parisiens viennent habiter sur Orléans</NP1> <MRCOO> et</MRCOO> <P2 rel_pragm="res">ça devient une ci- une cité-dortoir</P2></reformulation>
+<reformulation><PRES1>c'est pas tout à fait le même profil</PRES1> <MRP>c'est-à-dire que</MRP> <DH>hm</DH> <PRES2 rel_pragm="explic">y a une certaine clientèle ici qui qui a un peu plus de moyen et qui veulent garder le côté urbain</PRES2></reformulation>
+<reformulation><NP1>les chiens d'Orléans</NP1> <MR/><NP2 rel_lex="syno(les chiens d'Orléans/ des gens froids)" rel_pragm="def">des gens froids</NP2></reformulation>
+<reformulation><A1>froids</A1> <MR/><A2 rel_lex="syno(froids/pas accueillants)" rel_pragm="para">pas accueillants</A2></reformulation>
+<reformulation><Pr1>nous</Pr1> <MR/><N2 rel_lex="mero(nous/Saint-Denis-en-Val)" rel_pragm="denom">Saint-Denis-en-Val</N2> <MR type="pres">c'ét- c'était un c'était</MR> <NP3 rel_lex="inst(Saint-Denis-en-Val/un village)" rel_pragm="def">un vill- un village euh que de maraîchers de pépiniéristes</NP3></reformulation>
+<reformulation><PRES1>c'est la question elle s'adresse à vous</PRES1><MR/> <PRES2 rel_lex="mero(vous/votre perception)" modif_morph="deriv(vous/votre)" rel_pragm="prec">c’est à votre perception</PRES2></reformulation>
+<reformulation><VP1>je pense</VP1> <DMD>alors</DMD> <DMD>après</DMD> <MR type="pres">y a</MR> <DH>euh</DH> <DA>y et</DA> <VP2 rel_lex="syno(pense/trouve)" rel_pragm="para">je trouve</VP2></reformulation>
+<reformulation><NP1>les trente</NP1> <DH>euh</DH> <NP2 rel_pragm="prec">les trente et plus</NP2></reformulation>
+<reformulation><NP1>langue des jeunes</NP1> <MR/><VP2 rel_lex="mero(langue/parlent)" rel_pragm="para">ils i-  parlent</VP2></reformulation>
+<reformulation><P1>les phrases sont souvent incomplètes</P1> <DH>euh</DH> <P2 rel_pragm="exempl">la négation ça existe plus</P2></reformulation>
+<reformulation><PP1>de lexique</PP1> ? <MR/><PP2 rel_lex="syno(lexique/vocabulaire)" rel_pragm="para">de vocabulaire</PP2> <MR type="pres">y a</MR> <NP3 rel_lex="mero(vocabulaire/mots nouveaux)" rel_pragm="prec">des mots euh nouveaux</NP3></reformulation>
+<reformulation><VP1>je leur fait répéter</VP1> <MR/><VP2 rel_pragm="justif">je comprends pas</VP2></reformulation>
+<reformulation><P1>vous avez quelques quelques exemples à donner de ces mots</P1>  <MRCONC>enfin</MRCONC> <P2 rel_pragm="res">vous arrivez à en retenir quelques uns</P2></reformulation>
+<reformulation><VP1>le taper</VP1> <DA>mais</DA> <DA>le</DA> <VP2 rel_lex="syno(taper/parler)" rel_pragm="prec">le parler euh le parler MSN</VP2></reformulation>
+<reformulation><Pr1>je</Pr1> <DMD>en plus</DMD> <Pr2 rel_lex="syno(je/nous)" rel_pragm="prec">nous</Pr2> <MR/><Pr3 rel_lex="syno(nous/on)" rel_pragm="prec">on</Pr3> <MR/><Pr4 rel_lex="syno(on/je)" rel_pragm="prec">je</Pr4></reformulation>
+<reformulation><NP1>les jeunes</NP1> <DH>euh</DH> <DMD>enfin</DMD> <NP2 rel_lex="hypo(jeunes/jeunes de une vintaine d’années)" rel_pragm="prec">les jeunes oui de une vingtaine d'années</NP2></reformulation>
+<reformulation><PRES1>c'était l'argot</PRES1> <MR/><P2 rel_pragm="para">on parlait toujours de l'argot</P2></reformulation>
+<reformulation><PP1>d'aller euh euh enfin de de faire plus que ça</PP1> <MRP>c'est-à-dire</MRP> <DH>euh</DH> <PP2 rel_lex="hypero(faire plus que ça/tutoyer quelqu’un)" rel_pragm="exempl">d'aller jusqu'à tutoyer quelqu'un pour créer on va dire une euh une complicité ou</PP2></reformulation>
+<reformulation><Ger1>en vouvoyant</Ger1> <MRCOO>ou</MRCOO> <Ger2 modif_morph="flex(vouvoyant/vouvoyer)" rel_pragm="para">en continuant à vouvoyer</Ger2></reformulation>
+<reformulation><Adv1>très rapidement</Adv1> <DMD>enfin</DMD> <AdvP2 rel_pragm="prec">dés que on fait partie de et caetera</AdvP2></reformulation>
+<reformulation><NP1>le la hiérarchie</NP1> <MR/><NP2 rel_lex="inst(hiérarchie/PDG)" rel_pragm="denom">le PDG</NP2> <DMD>non mais  mais</DMD> <DH>euh</DH> <DMD>même</DMD> <DA>le</DA> <DMD>enfin</DMD> <NP3 rel_lex="inst(hiérarchie/ chef de gare)" rel_pragm="denom">le chef de gare</NP3></reformulation>
+<reformulation><PP1>à l'intérieur de  cette euh entreprise</PP1> <DH>euh</DH> <DA>de d- d- est-ce que vous f-</DA> si vous imaginez <NP1 rel_lex="inst(cette entreprise/la SNCF)" rel_pragm="prec">quelqu'un enfin travaillant à la SNCF</NP1></reformulation>
+<reformulation><NP1>le fait de tutoyer</NP1> <MRCOO>mais</MRCOO> <VP2 modif_morph="flex(tutoyer/tutoie)" rel_pragm="para">moi je tutoie</VP2></reformulation>
+<reformulation><NP1>le fait de faut tutoyer</NP1> <MR/><VP2 modif_morph="flex(tutoyer/tutoie)" rel_pragm="res">on tutoie</VP2></reformulation>
+<reformulation><NP1>l'accent</NP1> <MR type="pres">c'est c'est</MR>  <P2 rel_lex="mero(l’accent/l’argot)" rel_pragm="def">l'argot dans notre euh génération</P2></reformulation>
+<reformulation><P1>comment on fait une omelette ?</P1> <MR/><P2 modif_morph="flex(fait/fais)" rel_pragm="prec">comment je fais une omelette ?</P2></reformulation>
+</body>

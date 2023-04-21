@@ -1,0 +1,927 @@
+﻿3.1|16.92|voilà je pense que c'est que <P1>tout marche</P1> <MR/><P2 modif_morph="flex(marche/marcher)" rel_pragm="para">tout a l'air de marcher</P2> alors justement vous me disiez que euh que vous n'étiez pas orléanaise depuis longtemps euh donc depuis quand est-ce que vous habitez à Orléans ?
+14.326|17.529|six ans six ans
+17.529|21.42|six ans et euh
+18.811|23.326|fin mai euh deux mille euh deux mille euh quatre
+23.326|28.8|d'accord deux mille quatre et <P1>qu'est-ce qui vous amené à vivre à Orléans ?</P1><MR/> <P2 rel_lex="syno(amené/arrivée) inst(Orléans/ici)" rel_pragm="para">comment est-ce que vous êtes arrivée ici ?</P2>
+28.8|41.948|euh le hasard je travaillais dans l'industrie mais je me plaisais pas du tout et puis euh lors d'une discussion avec des amis qui eux euh travaillaient sur Orléans euh ils m'ont dit bah y a une fromagerie euh c'était parti
+41.948|45.046|et en fait vous ne travailliez   pas du tout dans le fromage avant
+44.023|50.457|j'ai fait j'ai fait beaucoup de restauration j'ai arrêté pour élever euh ma fille parce que je l'avais
+46.909|50.879|d'accord ouais ouais ouais
+50.879|52.583|mais je voulais retourner dans le commerce
+52.583|53.051|d'accord
+53.051|55.774|et la restauration c'est des horaires un peu
+55.774|56.165|oui
+56.165|58.803|travailler tard le soir donc il fallait que je trouve autre chose
+58.803|62.123|vous faisiez quoi exactement ? dans la oui
+60.572|79.778|dans la restauration ? je m'occupais de tout ce qui était euh organisation quand il y avait euh des groupes qui arrivaient tout ça et euh pendant les périodes euh creuses euh le service euh la cuisine enfin un peu de tout voilà mais j'ai toujours été a- attirée par le par le fromage par goût hein
+75.689|77.096|a-
+79.778|86.589|oui mais et donc c'est vraiment ça le fromage qui vous a amené euh quand on vous a parlé de cette euh de cette possibilité
+83.431|85.559|oui oui
+86.589|89.4|je me suis dit ah c'est ça mon truc c'est vrai
+89.4|92.696|et de fait ? de fait c'était ça
+90.239|94.289|et de fait quand je suis arrivée ici bah c'est comme si c'était naturel
+94.289|94.758|c'est vrai ?
+94.758|98.419|oui complètement je me suis dit j'ai trouvé mon truc
+98.419|99.18|hm
+99.18|109.154|déjà le rapport avec les gens hein euh le commerce quand on aime on aime et puis après euh oui le le fromage l'odeur euh l'odeur le goût euh moi je trouve ça joli euh
+107.007|130.392|c'est vrai c'est vrai alors on va on va revenir à à votre métier euh tout à l'heure mais euh justement je voulais savoir euh si vous habitiez dans le dans le quartier des Halles ou c'est juste votre lieu de travail ? vous habitez le quartier aussi d'accord et est-ce que vous vous y plaisez dans ce quartier ? oui
+110.232|112.17|hm ouais le hasard
+122.622|126.323|dans le quartier des Halles aussi le quartier oui
+130.392|131.441|je voudrais pas déménager
+131.441|136.019|c'est vrai ? et vous êtes arrivée tout de suite dans ce quartier-ci ? oui  d'accord
+132.067|136.786|oui oui tout de suite oui oui oui oui oui
+136.786|139.648|vous vivez dans un appartement euh autour d'ici ? 
+138.598|142.443|dans un appartement et avant je vivais complètement dans la campagne
+142.443|146.816|oui parce que je vous ai pas demandé vous étiez où en fait avant de venir ? c'était en Normandie
+144.284|151.805|<PP1>en Normandie</PP1><MR/> <PP2 rel_lex="hypero(Normandie/Basse Normandie)" rel_pragm="prec">en Basse Normandie</PP2> et en pleine campagne dans un tout petit village et là je suis en plein centre ville
+144.284|151.805|<PP1>en Normandie</PP1> <MR/><PP2 rel_lex="mero(Normandie/Basse Normandie) rel_pragm="prec">en Basse Normandie</PP2> et <PP1>en pleine campagne</PP1> <MR/><PP2 rel_lex="hypero(campagne/village)" rel_pragm="prec">dans un tout petit village</PP2> et là je suis en plein centre ville
+148.342|150.012|d'accord
+151.805|152.849|un vrai changement donc
+152.849|153.149|oui
+153.149|153.837|oui
+153.837|154.696|et j'aime les deux
+154.696|158.681|oui oui oui vous ne regrettez pas la vie d'un petit village ?
+155.786|161.333|du tout bon bah un bout de terrain avec un jardin oui
+161.333|161.77|oui
+161.77|163.074|hein surtout euh quand il fait beau
+163.074|163.432| ouais
+163.432|166.399|mais euh sinon non j'aime les deux
+166.399|181.204|et euh hm je voulais vous demander justement euh dans ce quartier euh <P1>quels sont</P1><MR/> <P2 rel_pragm="para">qu'est-ce que vous voyez comme</P2> euh avantages particuliers qui seraient vraiment spécifiques à et puis les inconvénients aussi ouais
+181.204|183.61|tout le monde se connaît oui
+181.86|184.485|donc vous retrouvez quand même la vie de village
+184.485|203.965|avec beaucoup plus de monde mais oui ça fait un peu comme un village <P1>tout le monde se se connaît</P1> <DH>euh</DH> <P2 rel_lex="hypero(tout le monde/vos cliens vos voisins)" rel_pragm="exempl">vous vous promenez ben  vous retrouvez vos clients vos voisins</P2> oui oui oui oui oui oui mes voisins sont mes clients  donc euh s- ouais s- il y a ce côté sympa tout tout à portée de main
+192.865|197.191|oui c'est c'est peut-être amplifié par le fait que c'est l- votre lieu de travail également
+203.965|205.37|ouais
+205.37|208.671|vous voulez faire un resto un ciné euh les papiers
+208.671|209.343|ouais
+209.343|210.846|enfin tout
+210.846|211.393|ouais
+211.393|214.164|ouais et puis en plus <P1>il est joli</P1> <MR/><P2 rel_lex="syno(joli/refait)" rel_pragm="explic">il a été tout refait</P2> euh
+214.164|215.413|ouais
+215.413|216.866|pas de voitures euh
+216.866|217.145|ouais
+217.145|219.02|enfin moi je n'ai pas de voiture donc tout à pied
+219.02|219.892|ouais
+219.892|221.705|un côté pratique hein
+221.705|228.47|et est-ce qu'il y a <NP1>des occasions qui vous amènent à sortir du quartier ?</NP1><MR/> <PP2 rel_lex="hypero(occasions/faire certaines courses)" rel_pragm="exempl">pour faire cent- certaines courses</PP2> euh pour euh
+228.47|229.532|oui mais très peu
+229.532|230.438|très peu en fait
+230.438|230.922|oui
+230.922|233.86|oui c'est vrai la vie est vraiment concentrée euh
+233.86|235.105|ouais ouais ouais ouais
+235.105|242.875|dans le quartier et euh bon alors vous parliez du c- du cinéma justement quand vous sortez pour une soirée là aussi c'est plutôt euh
+242.875|246.195|ouais c- <P1>ce soir on va au cinéma</P1> <DH>euh</DH> <P2 rel_lex="syno(ce soir/quand je ferme) syno(on/je)" rel_pragm="prec">quand je ferme je vais au cinéma</P2>
+243.648|244.883|c'était
+246.195|246.617|ouais
+246.617|247.313|toujours à pied 
+249.106|251.205|voilà je rentre euh chez moi 
+251.205|252.407|ouais
+252.407|254.407|pas de problème de se garer euh
+254.407|255.436|ah oui hm
+255.436|260.267|des enfants c'est euh c'est génial où c'est
+259.142|261.551|ouais et v- vous avez des enfants donc ?
+261.551|262.551|j'ai une grande fille
+262.551|263.878|d'accord qui a quel âge ?
+263.878|266.724|vingt et un ans quand on est arrivé elle était e- elle était ado
+266.724|269.051|oui oui
+267.083|275.616|donc <PRES1>c'était un grand changement pour elle</PRES1> <MR/><P2 rel_pragm="explic">plus de car à prendre pour aller euh au lycée le matin euh là tout était sur place plus besoin de manger à la cantine euh</P2>
+275.616|278.964|et et elle a vécu ça comment comme changement ?
+278.964|281.277|bah comme tous les ados au début c'est catastrophique hein
+281.277|281.574|oui
+281.574|297.816|on laisse les copains et les copines et puis <ADV1>après</ADV1> <DH>euh</DH> <DMD>bon</DMD> <ADV2 rel_lex="inst(après/au bout d’un mois)" rel_pragm="prec">au bout d'un mois</ADV2> elle a vu tous les avantages donc euh plus besoin de demander pour euh l'emmener à la piscine ou euh le ciné ou voir euh les copains les copines euh complètement en ville plus besoin de prendre un voiture faire vingt kilomètres euh
+281.574|297.816|on laisse les copains et les copines et puis après euh bon au bout d'un mois elle a vu tous les avantages donc euh plus besoin de demander pour euh l'emmener à la piscine ou euh le ciné ou voir euh les copains les copines euh <ADVP1>complètement en ville</ADVP1><MR/> <ADVP2 rel_lex="mero(ville/voiture)" rel_pragm="res">plus besoin de prendre un voiture faire vingt kilomètres euh</ADVP2>
+290.725|294.164|c'est ça c'est l'autonomie euh facile
+295.073|299.006|ouais ouais
+299.006|303.425|pouvoir faire du sport sans aussi euh ouais elle est devenue autonome aussi
+303.425|307.083|et elle et elle pareil elle a fait t- ses activités étaient concentrées euh
+307.083|307.521|aussi
+307.521|308.412|oui
+308.412|311.614|alors l'année dernière elle avait pris un studio de l'autre côté de la Loire
+311.614|319.894|oui et pour l'éco- non elle était au collège du coup quand vous êtes arrivées ou elle était encore à l'école
+311.929|313.656|trop loin elle est revenue au centre ville
+316.997|322.111|elle ét- euh oui elle avait un mois un mois de collège après euh elle est rentrée au lycée
+320.652|324.406|oui après elle est r- donc c'est t- quel lycée ?
+324.406|326.032|elle était au lycée euh Jean Zay
+326.032|327.919|d'accord d'accord
+327.919|329.514|ouais pratique aussi
+329.514|335.497|pratique aussi oui  elle y allait comment du coup tout à pied même pas le bus ou euh
+332.519|336.435|elle prenait même pas euh même pas le bus rien du tout
+336.435|336.653|ouais
+336.653|340.371|après elle a fait la fac bah c'est pareil hein elle prenait le tram euh pratique
+338.578|339.699|ouais
+340.371|341.373|ouais
+341.373|342.404|ouais
+342.404|348.99|donc pas d'occasion particulière qui vous amène à quitter le quartier finalement ou très peu très peu
+345.57|347.817|non hein bah non très peu
+348.99|353.187|si on veut se promener et aller euh à l'extérieur voir des amis euh
+353.187|355.792|oui donc ce serait vraiment pour des promenades euh
+355.792|360.551|voilà oui mais sinon non aucune euh aucune occasion
+356.199|357.848|dans le cadre de loisirs ou de
+360.551|372.674|d'accord euh hm et puis pour les courses pareil vous les vous les faites euh principalement enfin vous êtes bien placée pour faire vos courses oui
+369.492|374.664|bah tout ce qui est alimentaire euh là ça va mais sinon euh non on doit y aller une fois par mois p- 
+374.664|377.244|c'est ça voilà à ce moment-là dans les grandes surfaces c'est euh
+376.123|379.033|voilà hein pour faire le plein d'eau euh
+379.033|407.642|oui mais ça reste extrêmement ponctuel oui euh hm alors on revenir à hm euh alors <P1>en quoi consiste exactement votre métier ?</P1> <DMD>en fait</DMD> <DMD>ce que j'aimerais savoir</DMD> <MR type="pres">c'est</MR> <DH>euh</DH> <DI>bah</DI> <DA>quels sont t- nous on vous voit euh là dans dans votre commerce</DA> <DMD>mais</DMD> <P2 rel_lex="syno(en quoi consiste/quels sont)" rel_pragm="prec">quels sont tous les aspects en fait euh c- c- cachés ouais de  de de votre euh de votre métier</P2>
+379.408|381.629| et voilà
+397.558|400.139|bah ça
+401.117|419.569|extérieurs à cachés cachés cachés bah euh avoir les contacts avec les fabricants euh réceptionner tout ce qui arrive aller chercher chaque semaine aussi à Rungis euh <NP1>tout ce qu'on trouve pas dans les dans les alentours</NP1> <MR/><NP2 rel_lex="hypero(tout/tous les fromages)" rel_pragm="exempl">tous les fromages de montagne euh</NP2>
+415.256|416.639|oui
+419.569|420.909|hm
+420.909|428.763|donc il faut aller les chercher euh les mince les arriver tout ranger répertorier dans la cave qui se trouve juste en dessous de la boutique
+428.763|433.116|ah la v- cave est là d'accord d'accord alors tous est là
+430.078|431.375|la cave est juste en dessous
+433.116|433.607|tout est là
+434.443|437.066|<P1>tout est là</P1><MR/> <P2 rel_lex="mero(là/ici et en dessous)" rel_pragm="prec">tout est ici et en dessous</P2>
+437.066|439.351|d'accord d'accord ouais
+439.351|442.882|donc euh j'essaie de traiter un maximum avec euh les fabricants
+442.882|444.32|oui
+444.32|451.413|si eux ne livrent pas ici ils me livrent euh tout à Rungis et moi je récupère tout à Rungis
+451.413|451.788|ouais
+451.788|455.247|parce que ça c'est des coups qui ont énormément   augmenté avec le les prix de l'essence
+453.987|455.685|oui oui
+455.685|458.341|donc vous évitez ça vous êtes pas obligé de les répercuter à la vente
+458.341|459.189|oui
+459.189|465.805|puis y a toutes ces petites choses-là puis <P1>c'est mieux de traiter directement avec les fabricants/P1> <MR/><P2 rel_pragm="explic">vous avez vous avez exactement ce que vous voulez</P2>
+463.023|463.964|bien sûr
+465.805|467.26|oui
+467.26|473.655|parce que sinon on aurait tendance à du coup mettre euh  un peu n'importe quoi
+473.655|475.104|oui
+475.104|476.321|donc ça c'est l'avantage
+476.321|481.923|et quels sont vos critères à vous pour euh pour vos choix ? c'est ça
+478.714|480.908|bah essentiellement du fermier au lait cru
+481.923|482.345|voilà
+482.345|483.471|c'est la spécificité
+483.471|483.909|voilà
+483.909|484.409|ouais
+484.409|492.07|ne pas euh avoir ce qu'on trouve en grande surface donc ça <PRES1>c'est facile à reconnaître</PRES1><MR/> <PRES2 rel_lex="mero(reconnaître/couleurs)" rel_lex="syno(c'est/y a)" rel_pragm="explic">y a des couleurs sur les étiquettes</PRES2>
+492.07|494.594|racontez-moi
+494.594|516.258|vous prenez euh tous les les chèvres les chèvres fermiers ont s- s- une couleur verte les étiquettes au numéro   ils ont une pastille à l'intérieur verte aussi sous la croute les Saint Nectaire enfin plein de fromages comme ça c'est la différence entre les fermiers les laitiers et les pasteurisés <NP1>les fermiers</NP1> <MR type="pres">c'est</MR> <NP2 rel_lex="mero(fermiers/lait)" modif_morph="deriv(fermiers/ferme)" rel_pragm="def">le lait d'une seule ferme</NP2>
+499.635|501.333|oui oui je vois
+516.258|516.836|oui
+516.836|517.945|où on fabrique
+517.945|518.867|oui
+518.867|524.99|<P1>le laitier c'est euh le mélange de plusieurs laits</P1> <MR/><P2 modif_morph="deriv(laitier…laits/laiterie)" rel_lex="mero(laitier…laits/laiterie)" rel_pragm="explic">on dépose en laiterie et après c'est une coopérative qui fait</P2>
+524.99|525.553|d'accord
+525.553|534.544|puis le pasteurisé là on a chauffé le lait et après on a fabriqué avec euh du lait euh de plusieurs fermes aussi que <NP1>le fermier lui</NP1> <MR type="pres">c'est</MR> <NP2 rel_lex="mero(fermier/lait)" modif_morph="deriv(fermier/ferme)" rel_pragm="def">un seul lait d'une seule ferme</NP2>
+534.544|535.966|d'accord
+535.966|538.627|et fabriqué soit en laiterie ou soit sur place
+538.627|544.409|hm hm donc ça c- p- c'est le le le critère essentiel pour vous hein
+542.906|544.721|ouais ça c'est ouais ouais
+544.721|555.116|et comment v- ça ça vous est venu ce goût pour le fromage ? parce que vous m'avez dit que c'était le hasard qui avait euh qui avait décidé du lieu en fait où vous alliez vivre ce cette passion-là
+552.254|574.637|le lieu oui parce que j'ai j'ai j'ai j'avais pensé à une fromagerie où j'habitais en Normandie non je je le sentais pas enfin la ville était pas assez grande euh mais j'y avais pensé et là lors de cette discussion bah alors là ça a été paf donc ça s'est fait en quelques mois on en a parlé le vingt-cinq décembre
+574.637|574.952|ouais
+574.952|581.69|le premier mars mon mari était ici et moi j'étais là euh fin mai comme quoi ça a été euh très très vite
+581.69|589.781|et vous travaillez toute seule dans le dans la boutique ? d'accord d'accord et votr-
+583.685|586.717|j'ai une employée qui est à mi-temps ici
+587.201|590.643|et c'est mon mari qui va chercher tous les jeudis euh le fromage à Rungis
+590.643|594.887|d'accord donc lui il travaille avec vous euh en juste pour ç- ps-
+592.919|596.761|juste pour ça pour aller chercher sinon lui il a un travail extérieur
+596.761|601.681|d'accord je peux vous demander ce qu'il fait votre mari d'accord d'accord
+598.356|600.448|il travaille pour une société de nettoyage
+601.681|620.169|au début on avait pensé travailler tous les deux au début j'ai travaillé toute seule parce que on voulait aussi assurer euh les rentrées d'argent bah au foyer hein parce qu'on savait pas si ça allait marcher ou pas puis on s'est aperçu que ça marchait très bien comme ça lui euh son truc moi mon truc donc <P1>j'ai pris une employée à mi-temps</P1> <MRCONC>et voilà</MRCONC> <P2 rel_lex="mero(employée/travaille) mero(je/on)" rel_pragm="res">on travaille toutes les deux</P2>
+611.335|612.277|mais oui
+617.43|618.888|oui
+620.169|623.089|donc Orléans lui il a s- il a suivi à
+623.089|623.263|oui
+623.263|628.635|pour Orléans suite à la l'occasion qui vous a été présentée à vous d'accord
+624.043|628.042|voilà hm voilà
+628.635|631.468|mais il a retrouvé un travail à côté c'était pratique
+631.468|632.581|et il se plaît dans Orléans lui ?
+632.581|633.081|oui
+633.081|633.519|oui
+633.519|640.252|oui oui <P1>je crois qu'on se plaît tous les trois</P1> <DMD>enfin</DMD> <P2 rel_pragm="explic">j'ai jamais entendu euh un de nous trois de se dire ah il faut retourner en campagne</P2> 
+635.803|637.474|hm
+640.252|669.817|oui et euh hm donc on a parlé de de euh un peu des des différents aspects du métier est-ce que vous pourriez me raconter <P1>comment bah comment se passe une journée type</P1> <DMD>en fait ?</DMD> <DA>comment s-</DA><P2 rel_lex="syno(se passe/se déroule)" rel_pragm="para">comment se déroule une euh un journée</P2> j'imagine que c'est extrêmement variable euh oui oui
+655.3|672.408|oui le matin faut arriver de bonne heure mais les matins ou <P1>faut faire tout le nettoyage</P1> <DA>où</DA> <DH>euh</DH> <P2 modif_morph="deriv(nettoyage/nettoie)" rel_pragm="exempl">je vide toute la vitrine et je nettoie tout et je refais euh</P2> après souvent euh j'ai <NP1>une palette qui a été livrée</NP1><MR/> <NP2 rel_pragm="prec">une palette qui vient de Normandie</NP2> <MR/><NP3 rel_lex="mero(une palette/tous les produits) mero(de Normandie/en direct)" rel_pragm="prec">tous les produits bah genre la crème le beurre euh en direct</NP3>
+655.3|672.408|oui le matin faut arriver de bonne heure mais les matins ou faut faire tout le nettoyage où euh je vide toute la vitrine et je nettoie tout et je refais euh après souvent euh j'ai une palette qui a été livrée une palette qui vient de Normandie <NP1>tous les produits</NP1> <DI>bah</DI> <MRE>genre</MRE> <NP2 rel_lex="hypero(produit/la crème le beurre)" rel_pragm="exempl">la crème le beurre</NP2> euh en direct
+672.408|673.688|vos produits viennent de là-bas ?
+673.688|674.032|oui
+674.032|674.407|oui
+674.407|675.125|directement
+675.125|675.593|oui
+675.593|679.181|alors quand j'en ai beaucoup euh ils me livrent ici quand j'en n'ai pas beaucoup ils me livrent sur Rungis
+679.181|679.494|d'accord
+679.494|683.132|quand j'ai que deux ou trois colis
+683.132|684.567|oui
+684.567|699.126|une fois nettoyée bah oui d- je je descends là euh je défais la palette euh je range tout dans la cave je remonte et puis euh je prépare quelques commandes parce que mes fournisseurs euh commencent à m'appeler aussi dès le mardi matin vers neuf heures
+699.126|699.532|oui
+699.532|709.052|et puis ben après y a la clientèle qui arrive donc là je suis prête et prête à servir voilà
+709.052|710.082|et euh hm
+710.082|714.088|le jeudi y a beaucoup de travail aussi parce que le jeudi mon mari arrive vers huit heures le matin
+714.088|715.026|oui
+715.026|739.258|avec euh avec la voiture pleine donc euh avec euh mon employée bah on elle elle vide la voiture ou moi et euh là <P1>on range tout dans la cave tout par date par catégorie</P1><MR/> <PRES2 modif_morph="deriv(range/rangées)" rel_lex="hypero(tout/chèvres…brébis)" rel_pragm="exempl">y a euh des rangées pour les chèvres des rangées pour les brebis des rangées pour euh tout ça</PRES2> et après on refait tout on prépare toute la mise en place on remonte tout ce qu'il y a à remonter on prépare t- toute la mise en place pour le week-end
+715.026|739.258|avec euh avec la voiture pleine donc euh avec euh mon employée bah on elle elle vide la voiture ou moi et euh là on range tout dans la cave tout par date par catégorie y a euh des rangées pour les chèvres des rangées pour les brebis des rangées pour euh tout ça et après <P1>on refait tout</P1><MR/> <P2 rel_lex="hypero(tout/toute la mise en place) syno(refait/prépare)" modif_morph="flex(tout/toute)" rel_pragm="exempl">on prépare toute la mise en place on remonte tout ce qu'il y a à remonter</P2> <MR/><P3 rel_pragm="res">on prépare t- toute la mise en place pour le week-end</P3>
+739.258|740.408|oui
+740.408|753.113|bon en dessous vous avez des tiroirs là donc on on remplit tout pour le week-end <PP1>pour éviter d'en remonter un minimum</P1> <DH>euh</DH> <DA>pour être vraiment</DA> <DH>euh</DH> <PP2 rel_pragm="justif">pour s'occuper essentiellement du client</P2> quoi parce que le week-end c'est pas possible on peut pas être en bas et en haut
+741.874|743.787|oui je vois
+753.113|754.11|hm
+754.11|757.193|donc il faut que tout se fasse soit avant soit après l'ouverture
+757.193|761.155|donc ça fait des très très longues journées bien au-delà des heures d'ouverture
+758.616|762.572|oui ça fait euh des journées de euh de de douze heures hein
+762.572|763.927|oui
+763.927|765.609|de douze heures
+765.609|783.796|alors je vous disais que le le le thème de l'enquête c'était le portrait sonore de de la ville alors vous de du point de vue euh de la fromagerie <P1>vous devez avoir une euh une image de d'Orléans à travers ses habitants euh constituée par votre clientèle</P1> <MR/><P2 rel_lex="syno(avoir une image/avoir comme image)" modif_morph="flex(avoir/avez)" rel_pragm="para">qu'e- qu'est-ce que vous avez comme comme image en fait de de</P2>
+783.796|786.036|bah s- s-
+784.119|788.21|de cette population orléanaise qui qui bah q-
+786.784|799.434|c'est une clientèle euh très euh très posée très gentille euh y a beaucoup euh je vois des médecins euh des gens de l'enseignement euh c'est des gens très tolérants
+799.434|800.656|hm hm
+800.656|805.136|discrets
+805.136|807.316|ouais
+807.316|810.927|ailleurs euh <VP1>je sais pas</VP1> <DA>je</DA> <VP2 rel_lex="syno(sais/crois)" rel_pragm="para">je crois pas p-</VP2>
+810.927|811.502|hm
+811.502|818.563|je je crois pas pendant les fêtes on a d- on a euh on a de la clientèle supplémentaire et on voit que c'est pas c'est pas la même
+818.563|822.479|d'accord donc y a des gens qui viennent spécialement faire leurs courses ici
+822.479|822.801|oui
+822.801|824.472|pour le pour les fêtes
+824.472|826.281|y a y a des gens qui viennent toutes les semaines
+826.281|828.868|oui donc vous avez vraiment des habitués
+826.624|843.972|et oui c'est vraiment une clientèle d'habitués et par contre au moment des fêtes euh bah y a y a des gens qui n'ont pas l'habitude de venir toutes les semaines et qui viennent juste pour les grandes occasions et s- s- c'est pas la même clientèle oui on le ressens tout de suite oui oui oui
+839.84|841.962|et ça vous le s- vous le ressentez nettement
+842.836|872.805|hm hm euh hm est-ce que dans les Halles que vous connaissez bien  euh il y aurait des hm <NP1>des personnages un peu particuliers</NP1> <MR/><NP2 rel_lex="syno(personnages/figures) syno(particuliers/emblématiques)" rel_pragm="para">des figures un peu emblématiques</NP2> <DA>des</DA> <DH>euh</DH> <NP3 rel_lex="syno(figures/personnages)" rel_pragm="para">des personnages comme ça qui font partie du décor</NP3> comme à certains lieux sont a- a- sont associées certaines figures euh je me disais peut-être qu'il y en aurait euh peut-être qu'il y en aurait aux Halles
+872.805|873.371|non 
+873.371|874.36|pas vraiment
+874.36|882.715|non pas vraiment non ça me ça me vient pas comme ça non ça
+882.715|900.171|non bah y en a peut-être pas e- oui oui et c'est c'est une clientèle qui vous paraît euh relativement homogène ou ou variée ?  qui euh
+887.264|890.401|nous on est habitué on ne fait plus euh on ne fait plus attention
+898.853|913.376|non c'est euh non ouais c'est assez euh ouais <PRES1>c'est homogène</PRES1> <DI>oh</DI> <DMD>non</DMD> <DI>oh</DI> <DA>s-</DA> <PRES2 rel_lex="anto(homogène/varié)" rel_pragm="oppos">non c'est varié quand même</PRES2> <DMD>ouais</DMD> <MR type="pres">c'est</MR> <DMD>ouais</DMD> <PRES3 rel_pragm="para">c'est très varié</PRES3> oui oui oui oui oui oui oui oui
+905.544|906.98|c'est varié
+908.602|910.006|oui
+913.376|921.288|et est-ce que la clientèle de de de la semaine et puis du week-end oui ou est-ce que là aussi il y a des différences ?
+917.636|927.541|c'est la même que le week-end des oui en semaine c'est beaucoup euh beaucoup les les les les retraités
+927.541|927.903|oui
+927.903|941.373|qui viennent chaque jour euh chercher leur petit euh une petite portion euh voilà <NP1>le week-end</NP1> <DH>euh</DH> <PP2 rel_lex="hypero(week-end/vendredi…dimanche)" rel_pragm="para">du vendredi au dimanche matin</PP2> c'est euh bah oui c'est des gens qui travaillent et qui font leurs courses pour la semaine
+931.175|932.873|un petite portion
+941.373|942.041|ouais
+942.041|945.96|ouais le dimanche c'est plus en famille
+945.96|946.336|hm
+946.336|948.912|oui les les messieurs avec leurs enfants
+948.912|951.638|oui
+949.584|953.7|le vendredi il y a très peu d'enfants
+953.7|954.802|ouais
+954.802|964.072|ouais c'est des gens qui viennent ouais tout de suite en sortant de leur travail et qui viennent faire leurs courses pour le week-end ouais ouais ouais le dimanche <PRES1>c'est beaucoup plus familial</PRES1> <DMD>ouais</DMD> <PRES2 rel_lex="mero(familial/enfants) syno(c’est/y a)" rel_pragm="para">y a beaucoup plus d'enfants</PRES2>
+964.072|967.838|hm
+967.838|969.792|le samedi c'est les couples
+969.792|970.873| oui
+970.873|980.925|oui le samedi c'est les couples  c'est c'est vrai et les gens viennent toujours euh
+971.951|977.541|vous pourriez faire une étude sociologique là 
+980.925|981.862|c'est vrai oui
+981.862|985.539|oui et autour de la boutique ils viennent toujours au même endroit
+985.539|987.285|s- c'est-à-dire ils viennent se placer
+987.285|988.554|oui toujours au même endroit
+987.66|990.126|au même peut-être selon leur fromage euh
+990.126|997.83|je ne sais pas y en a qui vont toujours là euh y en a c'est là y hein d'ailleurs <P1>je leur fais la remarque quand ils changent de place</P1> <MR/><P2 rel_lex="syno(fais la remarque/dis)" modif_morph="flex(changent/avez changé)" rel_pragm="para">je dis vous avez changé de place</P2>
+990.532|991.626|préféré
+997.83|1009.366|et vous vous me disiez tout à l'heure que bah <VP1>vous aviez envie</VP1> <DMD>justement</DMD> <DA>parce que une une une</DA> des choses que <VP2 rel_lex="syno(aviez envie/aimiez)" rel_pragm="para">vous aimiez</VP2> dans votre métier c'est les bah les les les contacts euh humain justement
+1007.85|1010.6|ah oui ah oui oui oui
+1010.6|1021.929|et vous m'avez dit aussi euh qu- à au début de notre discussion qu'au début on vous avait dit ah tu vas voir euh les orléanais e- c- s- e- alors c'est quoi cette réputation pour les orléanais ?
+1017.87|1036.724|ouais <P1>ils sont froids</P1> <DH>euh</DH> <DA>pas du tout</DA> <DI>bah</DI> <DA>je</DA> <DI>bah</DI> <NP2 rel_pragm="prec">des gens un peu froids qui s'ouvrent pas aux autres</NP2> euh assez fiers ce que j'ai entendu moi c'est pas du tout ça pas du tout ce sont des gens très gentils oui ouverts euh
+1024.199|1028.599|oui donc c'est ce que vous avez entendu ?
+1036.724|1037.873|hm
+1037.873|1043.744|pas du tout je suis pas du tout euh je l'ai ressenti beaucoup moins que quand je suis arrivée euh <PP1>en Normandie</PP1> <MR/><PP2 rel_lex="syno(Normandie/campagne)" rel_pragm="para">en campagne</PP2>
+1043.744|1044.947|ah oui
+1044.947|1046.103|<N1>campagne</N1> <MR type="pres">c'est</MR> <A2 rel_pragm="def">très fermé</A2>
+1046.103|1046.665|hm hm
+1046.665|1053.244|ici <P1>les gens sont beaucoup plus ouverts y a des tas de conversations</P1><MR/> <P2 rel_lex="mero(conversations/parler)" rel_pragm="res">vous pouvez parler de de tout avec eux</P2>
+1053.244|1062.039|hm y compris enfin s- vous avez trouvé cette facilité y compris en dehors de votre activité euh ici ? oui oui oui ah oui
+1060.046|1061.601|oui aussi
+1062.039|1069.668|oui oui vous allez boire un thé sur une terrasse vous êtes toute seule et il y a quelqu'un à côté de vous vous vous mettez facilement à discuter
+1069.668|1071.172|ouais
+1071.172|1074.463|en campagne vous allez même pas vous asseoir en terrasse en tant que femme
+1074.463|1076.905|c'est vrai c'est vrai
+1076.905|1079.664|jamais sinon c'est mal vu
+1077.358|1078.603|hm
+1079.664|1080.499|ouais
+1080.499|1081.661|ici euh
+1081.661|1086.306|hm donc ça c'est quelque chose qui vous a vraiment séduite euh ici
+1083.078|1085.947| oui
+1086.306|1087.387|oui
+1087.387|1088.168|hm
+1088.168|1091.914|<NP1>la la liberté</NP1> <DH>euh</DH> <DMD>oui</DMD> <DA>ne</DA> <VP2 rel_pragm="def">ne pas faire attention et être naturelle</VP2>
+1091.914|1096.768|hm hm hm hm hm
+1093.21|1095.487|en campagne non faut toujours faire attention
+1096.768|1097.596|au regard des gens
+1097.596|1103.536|oui et la campagne avoisinante vous l'avez explorée un petit peu ou pas du tout ?
+1103.536|1107.724|ben je la trouve pas très belle 
+1107.724|1109.303|celle d'où vous venez est belle
+1109.303|1109.616|oui
+1109.616|1111.866|la campagne normande oui
+1110.913|1113.335|<A1>très très belle</A1> <MR type="pres">c'est</MR> <A2 rel_pragm="prec">vallonné</A2>
+1113.335|1113.804|ouais
+1113.804|1120.399|<PRES1>c'est vert ici</PRES1> <DI>ben</DI> <PRES2 rel_lex="syno(vert/pas pareil)" rel_pragm="explic">c'est pas pareil ici</PRES2> <MR/><PRES3 rel_lex="syno(pas pareil/plat)" rel_pragm="explic">c'est plat</PRES3> <MR/><A4 rel_pragm="prec">complètement plat</A4><MR/> <NP5 rel_lex="anto(plat/relief)" rel_pragm="para">aucun relief</NP5>
+1114.908|1117.969|c'est sûr que ça doit vous paraître un petit peu plat ici 
+1120.399|1121.0|oui
+1121.0|1122.836|donc euh voilà voilà
+1122.836|1123.14|bon
+1123.14|1134.032|ou si bon après euh faut aller du côté de Chavignol hein là ça devient un peu plus joli oui la Sologne euh pas plus que ça quoi
+1129.103|1131.181|elle est vraiment un peu pauvre
+1134.032|1142.002|oui donc vous n'allez pas spécialement faire des randonnées
+1136.021|1143.923|non à me promener non du tout non non non non non hm puis les randonnées c'est le matin
+1145.621|1147.746|pas possible 
+1147.746|1155.366|alors justement je voulais euh je voulais vous demander ce que ce que vous faites quand vous quand vous ne travaillez pas si vous travaillez énormément
+1155.366|1156.274|oui
+1156.274|1156.493|oui
+1156.493|1161.897|bah le dimanche après-midi euh je me repose parce que comme nous travaillons euh jusqu'à treize heures trente quatorze heures hein
+1161.897|1162.272|ouais
+1162.272|1167.797|parce qu'une fois que c'est fermé il faut euh ranger nettoyer donc le dimanche après-midi souvent c'est repos
+1167.797|1168.891|oui
+1168.891|1178.746|ouais ou on déjeune entre amis mais euh c'est jamais de bonne heure et puis le lundi c'est ben <PRES1>c'est pas tout à fait repos</PRES1> <MR/> <PRES2 rel_lex="anto(repos/beaucoup papiers)" rel_pragm="explic">c'est beaucoup papiers</PRES2>
+1178.746|1183.007|oui tout   l'aspect euh administratif euh
+1179.153|1189.841|parce que il y a toute cette partie euh et oui ouais beaucoup quand même oui oui oui oui
+1185.744|1190.653|et ça oui <P1>vous vous en occupez toute seule</P1> <DI>hein</DI> <PRES2 rel_lex="syno(occupez/gérez)" rel_pragm="para">c'est c'est c'est vous qui gérez ça hm</PRES2>
+1190.653|1199.223|je gère tout de a à z à part <NP1>mon chauffeur du jeudi matin</NP1> <MR/><NP2 rel_lex="inst(chauffeur du jeudi matin/mari)" rel_pragm="denom">mon mari</NP2>  ouais non pas beaucoup pas beaucoup de loisirs en fait
+1199.223|1199.52|ouais
+1199.52|1201.051|pas le temps non
+1201.051|1210.033|ouais c'est ça parce que là mes prochaines questions portaient sur euh bah justement <NP1>vos loisirs</NP1> <DH>euh</DH> <NP2 rel_pragm="prec">pratiques euh de loisirs</NP2> euh dans Orléans est ce que vous y trouviez d'intéressant
+1210.033|1215.797|bah oui voilà <P1>ça va être le cinéma</P1> <MR/><VP2 rel_pragm="para">aller se faire une cinéma</VP2> mais pas euh voilà à dix-neuf heures trente ou vingt heures
+1215.797|1217.084|oui
+1217.084|1222.349|et puis euh après euh nous on marche beaucoup en se promenant <PP1>dans les rues</PP1> <DH>euh</DH> <PP2 rel_lex="mero(rues/ville)" rel_pragm="para">en ville</PP2>
+1222.349|1223.475|ouais
+1223.475|1229.067|mais sinon y a pas beaucoup de loisirs hein se faire des bons restaurants parce qu'il y a quand même de bons restaurants aussi sur Orléans
+1229.067|1230.144|oui
+1230.144|1234.321|ouais mais euh ça s'arrête là quoi
+1234.321|1246.634|et euh quand vous allez au cinéma vous avez des salles de spectacle euh particulières que vous aimez parce que <PRES1>y a des salles quand même assez d- assez différentes</PRES1><MR/> <PRES2 modif_morph="flex(salles/salle)" rel_pragm="exempl">y a la la grande salle du bord de Loire les petites salles plus vers le</PRES2>
+1244.034|1249.976|oui non non non la la la grande salle euh avant j'allais souvent euh rue euh rue Jeanne d'Arc
+1249.976|1250.413|oui
+1250.413|1251.71|parce que c'était à côté hein
+1251.71|1252.023|ouais
+1252.023|1255.272|mais bon maintenant il a f- il a fermé hein ouais au Select ouais c'était ça
+1252.914|1254.46|au Select ? ouais
+1255.272|1255.991|ouais
+1255.991|1258.544|mais non sinon oui moi je vais je vais là au au Pathé
+1258.544|1259.641|au Pathé
+1259.641|1261.454|hm pratique
+1261.454|1281.133|mais vous on parlait justement tout à l'heure euh du quartier et puis vous m'avez dit qu'effectivement ça avait été beaucoup rénové  là <NP1>cet aspect-là</NP1> <DH>euh</DH> <DMD>enfin</DMD> <NP2 rel_lex="syno(aspect/coin)" rel_pragm="para">ce coin-là</NP2> autour du Pathé également euh qu'est-ce que vous en pensez de la façon  dont ça a été euh de tous ces travaux oui vouv vous n'avez pas l'autre image d'accord
+1273.675|1275.702|ben moi j'ai pas vu avant
+1276.375|1280.429|je suis arrivée euh juste au moment de l'inauguration de la place du Châtelet
+1281.133|1291.325|donc la rue de Bourgogne euh y avait une grande partie de faite euh bah le Pathé était déjà là avec sa place de faite donc <P1>j'ai pas vraiment vu avant</P1> <MR/><P2 rel_pragm="para">je sais pas comment c'était</P2>
+1282.592|1284.954|bah oui
+1286.516|1292.731|ouais ouais ouais
+1292.731|1296.999|mais je trouvais que c'était une ville euh une jolie ville le quartier était magnifique très propre
+1296.999|1304.344|oui justement ça m'intéresse l'image que vous avez comme ça de de la ville arrivant de de l'extérieur oui
+1301.862|1303.644|ah non une ville très propre
+1304.344|1307.679|<PRES1>c'est une belle ville</PRES1> <MRCOO>et</MRCOO> <PRES2 rel_lex="syno(belle/superbe)" rel_lex="mero(ville/architecture)" rel_pragm="explic">y a une architecture qui est superbe</PRES2>
+1307.679|1308.924|hm
+1308.924|1312.005|<P1>tout en pavés là</P1> <MR/><PRES2 rel_pragm="res">c'est beau ça glisse mais c'est beau</PRES2> 
+1314.864|1318.079|non non c'est c'est joli il manque euh il manque des arbres quand même
+1318.079|1320.813|des ? des arbres oui
+1318.501|1331.352|des arbres oui y a pas de verdure là vous prenez <NP1>tout le centre là</NP1><MR/> <NP2 rel_lex="inst(tout le centre/place du Martroi jusqu’ici)" rel_pragm="denom">place du Martroi jusqu'ici</NP2> et y a pas de verdure y a deux trois pots de fleurs au printemps mais euh aucune verdure
+1331.352|1333.024|oui
+1335.888|1342.148|donc pas pas assez de euh d'espaces verts et de oui oui
+1337.157|1339.503|ah non non ah oui
+1339.815|1341.252|y a de beaux parcs hein
+1342.148|1344.113|mais entre je sais pas
+1344.113|1344.818|hm
+1344.818|1352.525|je sais pas est-ce que c'est interdit de mettre euh des arbres euh je sais pas mais il manque de la verdure
+1352.525|1356.289|c'est sûr qu'en plus venant en plus de la campagne vous devez le ressentir très
+1353.336|1361.953|oui oui oui oui oui il paraît qu'inconsciemment ça me manquait  parce que moi qui n'aime pas le vert chez moi j'ai mis du vert
+1357.867|1359.656|très fortement
+1363.512|1366.808|c'est des amis normands quand ils sont venus ils m'ont dit mais tu as mis du vert tu aimes pas le vert 
+1367.866|1368.429|comme quoi
+1368.429|1370.506| ouais certainement
+1370.506|1371.1|oui 
+1371.1|1387.255|certainement et euh justement les hm ah oui de du coup vous avez raté vous êtes arrivée après que les oui les d- travaux du tram ét- ont commencé en fait hein vous avez euh le tram était déjà là d'accord d'accord
+1382.182|1385.916|hm le tram était déjà là
+1387.255|1388.333|j'ai la deuxième ligne
+1388.333|1394.586|vous avez la deuxième ligne qu'est-ce que vous en pensez de la présence du du tram dans dans Orléans ? du coup vous vous
+1392.492|1401.532|très bien <PRES1>c'est bien le tram</PRES1><MR/> <PRES2 rel_lex="syno(bien/pratique)" rel_pragm="explic">c'est pratique très très pratique</PRES2> non non les travaux c'est embêtant mais il faut que ça se fasse hein
+1401.532|1401.829|oui
+1401.829|1410.011|mais par contre s- <P1>je trouve ça très bien ouais quand vous êtes dedans</P1><MR/> <P2 rel_lex="syno(bien/agréable) syno(je trouve ça/c’est) anto(dedans/extérieur)" rel_pragm="explic">c'est agréable vous voyez tout ce qu'il y a à l'extérieur</P3>
+1410.011|1410.355|ouais
+1410.355|1414.799|vous pouvez aller d'un point à une autre non c'est pratique hein
+1414.799|1415.705|y a le vélo aussi
+1415.705|1416.996|et y a le vélo aussi
+1416.996|1417.34|ouais
+1417.34|1417.941|ouais
+1417.941|1423.384|avec euh y- l'aménagem- <P1>est-ce que vous vous en servez</P1> <MR/><P2 rel_lex="syno(vous en servez/vous faites)" rel_pragm="para">vous faites du vélo</P2> ? pas du tout hein vous marcher uniquement hein ?
+1420.502|1421.972|non du tout je marche
+1423.384|1424.65|ben oui ici je piétine
+1424.65|1427.023|oui vous avez besoin de marcher après 
+1425.103|1428.164|donc j'en profite pour marcher j'en profite pour marcher
+1428.164|1442.435| ouais et p- si le si le vert vous manque est-ce que vous êtes allée justement lors de lors de promenades explorer un petit peu <NP1>les parcs</NP1> <DH>euh</DH> <MRE>par exemple</MRE> <MRE>comme</MRE> <NP2 rel_lex="inst(les parcs/le parc floral, le jardin des plantes)" rel_pragm="exempl">le parc floral ou le pa- le jardin des plantes</NP2> ou le
+1437.217|1448.062|oui le parc floral le parc Pasteur voilà euh le midi pendant la fermeture quand il fait beau comme ça dans un parc
+1448.062|1448.926|oui
+1448.926|1449.25|oui
+1449.25|1452.511|vous en avez un que vous aimez particulièrement ?
+1452.511|1463.515|euh je sais pas comment il s'appelle là y a un tout petit parc à côté euh de la oui oui oui oui oui je ne sais pas oui ou y a celui au-dessus du cinéma aussi
+1454.018|1461.187|le petit parc euh <PP1>en face de la place là</PP1> <MR/><PP2 rel_lex="inst(la place/la place Charles de Gaulle)" rel_pragm="denom">dans la place Charles de Gaulle</PP2> oui je je ne sais pas comment il s'appelle près de près de la maison de Jeanne d'Arc
+1463.515|1469.992|oui qui est récent oui le jardin
+1465.234|1473.289|qui est récent tout oui voilà quand je reçois de la famille et qu'il y a des enfants on va au parc floral
+1473.289|1482.225|oui c'est ça ça ça c- c'est c'est une question que je voulais vous poser quand quand on vient comme vous n'êtes pas d'Orléans quand on vient vous voir de l'extérieur qu'est-ce que vous aimez montrer ?
+1474.654|1475.966|ouais
+1476.996|1478.451|oui
+1482.225|1488.631|bah le parc floral euh là il va y avoir les fêtes de Jeanne d'Arc alors tous las ans on reçoit euh la famille pour les fêtes de Jeanne d'Arc
+1488.631|1499.228|d'accord donc là vous y allez aux fêtes de Jeanne d'Arc d'accord oui e-
+1489.928|1500.393|j'ai jamais vu l'embrasement encore parce que c'est tard le soir je me lève de bonne heure le lendemain mais non mais sinon de chez moi je vois le défilé donc c'est pratique
+1501.414|1503.289|qu'il pleuve ou qu'il fasse beau
+1503.289|1509.317|et ça ça représente p- quelque chose de particulier pour vous ? c'est la beauté de la manifestation
+1504.462|1506.875|bah c'est super joli
+1507.667|1528.789|oui les orléanais ils disent que c'est toujours la même chose euh machin mais <PRES1>c'est quand même joli</PRES1><MR/> <PRES2 rel_lex="syno(joli/belle)" rel_pragm="para">c'est quand même une belle fête</PRES2> <MR/><PRES3 rel_lex="syno(belle/bien)" rel_pragm="explic">c'est bien organisé</PRES3> euh si plus personne se déplace y aura plus rien après les gens ils diront bah y a rien j'aime aussi la fête de la musique c'est en plein centre on dort pas de la nuit mais euh c'est une jolie fête
+1523.759|1526.759|oui
+1528.789|1531.633|donc là vous allez ? vous allez vous promener les soirs euh
+1529.617|1533.974|oui parce que
+1533.974|1536.501|surtout euh vous c'est sûr qu'ici
+1536.501|1540.346|en plus <P1>j'ai la techno moi</P1> <DA>tous les z-</DA> <P2 rel_pragm="prec"> tous les ans j'ai la techno en bas de chez moi</P2> alors
+1537.813|1542.049|vous êtes dans le quartier techno
+1542.049|1543.018|quartier techno
+1543.018|1558.046|alors comme comme autres manifestations effectivement bon y a la la fête de Jeanne d'Arc donc ç- famille euh amis venant de l'extérieur oui
+1546.414|1548.398|hm
+1550.835|1559.546|oui oui oui oui oui oui oui non <PRES1>c'est pas c'est pas une corvée</PRES1> <DI>hein</DI> quand il vient on on va voir le défilé avec eux non <DA>c-</DA> <PRES2 rel_lex="anto(corvée/plaisir)" rel_pragm="para">c'est un plaisir aussi</PRES2>
+1563.577|1563.967|oui
+1563.967|1572.921|oui hein oui alors y a aussi euh le festival de Loire qui est assez récent vous oui
+1565.616|1566.975|ouais
+1570.151|1571.062|ah magnifique
+1572.921|1574.827|c'est superbe le le festival de Loire
+1574.827|1581.73|hm puis là aussi vous êtes bien placée pour euh
+1576.354|1584.922|on est bien placé non c'est bien aussi c'est d- c'est d- moi je trouve que ce sont des belles fêtes
+1584.922|1586.203|ouais
+1586.203|1598.49|oui c'est une bonne publicité pour Orléans y a plein de touristes euh alors là <P1>à ce moment-là euh notre clientèle habituelle elle s'en va</P1> <MR/><P2 rel_lex="syno(elle s’en va/on la voit plus du tout) syno(à ce moment-là/pendant toutes ces manifestations)" rel_pragm="res">on la voit plus du tout pendant toutes ces manifestations</P2> <MR/><VP3 rel_lex="syno(on la voit plus du tout/elle déserte)" rel_pragm="res">elle déserte</VP3>
+1598.49|1600.678|ah oui comment vous expliquez ça ?
+1600.678|1634.69|parce que euh  trouve pas de place pour se garer <V1>ronchonne</V1> <MR/><VP2 modif_morph="flex(rochonne/ronchonnent)" rel_pragm="corr_ling">ils ronchonnent</VP2> par contre à côté on a tous les <NP1>tous les touristes</NP1> <MR/><NP2 rel_lex="mero(touristes/clientèle)" rel_pragm="para">une nouvelle clientèle qui vient</NP2> donc euh c'est agréable aussi pendant le festival de Loire y a euh les tous les marins qui viennent faire leurs petites courses aussi donc eux ils nous rendent visite le soir nous c'est nous qui allons leur rendre visite puis comme ça fait plusieurs années que ce sont toujours les mêmes oh on les retrouve chaque année je trouve euh je trouve ça super sympa
+1634.69|1647.799|y a le hm alors <PRES1>y a le festival de Loire</PRES1> <MR/><PRES2 rel_pragm="para">y a le festival de jazz</PRES2> aussi est-ce que c'est un festival que vous connaissez ou que vous fréquentez peut-être pas ouais
+1642.762|1645.501|non non du tout
+1647.799|1650.265|du tout parce que ben c'est souvent le soir aussi
+1650.265|1651.642|oui oui
+1651.642|1654.564|ouais et en semaine hein beaucoup euh ce festival oui
+1651.939|1656.595|voilà hm
+1656.595|1661.26|et non nous euh je crois pas que ça nous apporte euh quoique ce soit non oui du tout
+1663.075|1668.678|hm non pas pas tellement de salles de musique ou de manifestations euh musicales ?
+1668.678|1669.131|non
+1669.131|1670.042|oui
+1670.042|1670.667|trop tard
+1670.667|1676.052|ouais le marché de Noël il est très proche de vous aussi ah vous êtes vraiment proche de toutes ces
+1672.826|1674.355|marché de Noël ouais
+1676.052|1676.49|ouais
+1676.49|1678.693|de toutes ces manifestations-là oui
+1678.693|1681.895|oui on est bien placé ici quand même ouais
+1681.895|1683.7|le marché de Noël pareil c'est
+1683.7|1690.823|oui mais je trouve ça joli ouais oui oui je descends je vais manger des huîtres voilà
+1684.793|1690.511|c'est un endroit que vous fréquentez lorsque lorsque le moment est venu oui
+1693.194|1694.924|non c'est bien
+1694.924|1707.982|est-ce qu'il y a des manifestations qui s- qui seraient propres euh au quartier lui-même en fait euh ? vraiment au quartier des Halles des c- des manifestations peut-être <PP1>de moindre euh ampleur</PP1> <MR/><PP2 rel_lex="syno(ampleur/envergure)" rel_pragm="para">de moindre envergure</PP2> mais qui seraient vraiment propres au quartier
+1707.982|1709.107|non y en n'a pas
+1709.107|1711.576|non ?
+1713.56|1715.138|oui
+1715.138|1729.046|mais euh non et encore la braderie euh <PRES1>y a plus les euh ceux qui font les marchés</PRES1> <MR/><PRES2 modif_morph="flex(font/faisaient)" modif_morph="flex(a/avait)" rel_lex="anto(y a plus/y avait)" rel_pragm="explic">avant y avait ceux qui faisaient les marchés qui venaient</PRES2> mais depuis l'année dernière y a plus y a plus que les commerçants du quartier c'est un peu dommage je trouve
+1729.046|1730.008|oui
+1730.008|1731.515|c'est un peu dommage
+1731.515|1734.1|pourquoi ?
+1735.431|1738.37|oui oui oui
+1738.37|1740.551|le quartier a quand même une réputation d'être un peu cher
+1740.551|1742.772|oui
+1742.772|1750.141|donc euh y a beaucoup de gens qui disent on va pas c- dans ce quartier parce que c'est cher alors qu'on peut trouver de tout
+1750.141|1751.578|hm hm
+1751.578|1756.905|je crois que c'est quelque chose qu'<PRES1>il y avait</PRES1> <PRES2 modif_morph="flex(avait/a)" rel_pragm="prec">il y a</PRES2> vingt ou trente ans mais ça a disparu oui mais c'est toujours resté
+1756.905|1759.639|oui
+1759.639|1775.543|parce que y a plein de gens des quartiers euh extérieurs qui viennent pas parce que oui ils se disent que le quartier est cher regardez quand vous prenez la place de la République arrivé à la Société Générale c'est plus du tout la même chose
+1774.075|1776.058|oui hm hm
+1776.058|1777.488|je sais pas si vous avez remarqué
+1777.488|1778.184|oui
+1778.184|1779.309|y a comme une coupure
+1779.309|1782.184|hm
+1782.184|1783.645|c'est dommage
+1783.645|1790.59|oui alors justement vous comment absolument absolument
+1784.333|1789.989|alors qu'il y a plein de petites boutiques euh bon marché dans les petites rues partout
+1790.59|1801.615|mais on s'arrête euh on s'arrête là enfin c'est une chose que j'ai remarquée moi au euh paf là la Société Générale ça s'arrête là
+1801.615|1812.68|mais ça c'est intéressant d'avoir votre euh votre perfe- perception justement du découpage de la ville <PP1>en différents quartiers</PP1> <PP2 rel_lex="syno(quartiers/zones)" rel_pragm="para">en différentes zones</PP2> donc vous vous voyez ça comment ?
+1804.935|1808.163|oui oui
+1808.979|1821.881|ouais  je sais pas je sais pas pourquoi les gens euh ouais non c'est cette mauvaise image de dire que ici c'est un quartier un peu plus huppé donc on n'y va pas quoi
+1816.87|1825.521|oui hm hm hm hm hm hm
+1825.521|1827.865|moi j'habite là mais je monte aussi bien place d'Arc hein
+1827.865|1829.25|oui oui
+1830.924|1834.061|hm
+1832.88|1833.598|donc bon
+1834.061|1836.326|dommage
+1836.326|1876.101|euh hm sinon je voulais vous de- demander alors on était dans les dans les manifestations les grandes on en a parlé les les petites donc p- rien de rien de particulier ici hein au au quartier des Halles dont vous parliez euh hm on va on va ch- changer un petit peu de de thè- ah non je vais je vais rester peut-être un petit peu sur euh sur Orléans encore mais vous n'en avez peut-être pas entendu parler vu v- que vous êtes arrivée assez tard est-ce que vous avez entendu parler de le rumeur d'Orléans ? est-ce que ça vous dit quelque chose ?
+1846.785|1849.27|les petites y en n'a pas beaucoup
+1850.539|1853.763|non
+1876.101|1877.444|y a eu une rumeur ?
+1877.444|1881.413|oui c'est dans les dans les années soixante euh dix
+1881.413|1884.248|du tout non c'était quoi cette rumeur ?
+1882.038|1883.28|non ça vous dit rien du tout
+1884.248|1903.808|c'était c'était une rumeur selon laquelle alors je connais pas les les les détails mais c'était une rumeur selon laquelle euh des jeunes femmes avaient disparu euh dans euh en allant euh dans dans certains magasins euh d'Orléans et s- non ça vous dit rien du tout bah c'est que c'est une rumeur qui euh
+1900.2|1901.521|non
+1903.808|1904.699|j'en parlerai
+1904.699|1920.671|mais certainement des des des habitants d'Orléans de de de longue date parce que je vous dis c'est une rumeur qui est née dans les années euh soixante-dix donc euh donc elle n'est c'est qu'elle n'est pas v- plus vivace en fait euh
+1920.671|1924.372|moi j'ai habité près du Mans et c'est pareil au Mans il y avait cette rumeur aussi
+1924.372|1925.184|la même rumeur ?
+1925.184|1927.858|ouais ils appelaient ça la traite des blanches
+1927.858|1936.666|oui c'est ça apparemment ces jeunes femmes euh disparaissaient pour être euh li- dans les c- voilà pour ê- c'est exactement la même pour être euh livrées euh
+1929.532|1942.638|dans les cabines d'essayage oui oui oui je me souviens oui quand j'étais ado oui on on disait ça aussi euh sur le Mans voilà c'était une rumeur de grande ville ?
+1940.56|1945.848|et ben apparemment y a alors y a eu exactement la même euh le même rumeur
+1945.848|1946.286|oui
+1951.14|1951.703|et ben
+1951.703|1962.526|voilà euh hm est-ce que pour vous la la proximité de Paris est importante ou est une bonne chose ici la la
+1962.526|1964.694|c'est une bonne chose oui
+1964.694|1965.417|hm
+1965.417|1972.128|oui <P1>c'est bien quand vous voyez euh tous les parisiens qui descendent le week-end</P1> <PRES2 rel_lex="mero(parisiens descendent/Orléans)" rel_pragm="res">c'est bon pour Orléans</PRES2>
+1972.128|1977.832|ouais qu'y a qu'y a une population parisienne oui
+1974.957|1977.347|oui oui
+1977.832|1979.629|oui même euh dans mes clients
+1979.629|1980.254|oui
+1980.254|1987.06|dans les retraités ils ont beaucoup d'enfants qui travaillent sur Paris et machin donc euh y a beaucoup euh d'allées et venues
+1987.06|1989.138|oui
+1989.138|1997.78|oui les grands-parents qui vont garder les petits-enfants sur Paris avec le décalage des vacances euh ou les petits-enfants qui viennent euh les enfants qui viennent le week-end
+1994.03|1995.8|oui
+1997.78|1999.748|oui même hm
+2000.795|2003.993|et est-ce que vous vous en profitez de la de la proximité de Paris
+2002.753|2004.337|oui oui
+2004.337|2006.14|oui vous y allez ?
+2006.14|2007.166|très peu
+2007.166|2008.063|oui
+2008.063|2008.751|très très peu
+2010.219|2015.813|mais euh oui quelque part on en profite nous aussi un peu ouais
+2015.813|2032.762|euh hm est-ce que pour vous la la hm la région Centre ça veut dire quelque chose en fait la la la région ça veut dire quelque chose est-ce qu'Orléans euh et bien euh est une ville qui qui représente bien justement cette euh cette région
+2032.762|2045.373|je sais pas ouais non je sais pas du tout non j'ai pas l'impression
+2045.373|2049.033|ouais
+2049.033|2056.975|ben moi j'ai pas j'ai pas l'imp- j'ai pas l'impression non région Centre mais bon euh Paris est trop près
+2056.975|2058.816|oui
+2058.816|2060.247|c'est peut-être pour ça aussi
+2060.247|2063.482|hm c'est-à-dire ?
+2063.482|2074.515|bah nous on est la région Centre je vois pas ce qu'on pourrait apporter euh je sais pas non non je sais pas 
+2074.515|2091.922| d'accord euh hm est-ce que euh quand vous êtes euh arrivée à Orléans euh <P1>vous avez commencé à à lire le journal euh local ou ou pas du tout</P1> <DMD>en fait</DMD> <P2 rel_lex="hypo(journal/presse)" modif_morph="flex(local/locale)" rel_pragm="para">est-ce que vous vous intéressez à la presse locale ou ?</P2>
+2091.922|2092.468|non du tout
+2092.468|2093.296|ou pas du tout ?
+2093.296|2093.655|non
+2093.655|2094.448|non
+2094.448|2096.666|j'achète pas de journaux pas de magazines
+2096.666|2099.556|d'accord donc euh pas
+2097.025|2101.768|bah j'ai mes j'ai mes j'ai mes rapports avec mes clients 
+2101.768|2114.28|oui j'imagine  vous n'avez pas besoin de la presse locale  oui
+2109.249|2114.827|j'écoute la radio le matin avant de partir de chez moi  mais euh oui non
+2114.827|2118.906|vous vous tenez au courant des affaires locales par le biais de
+2118.906|2124.68|oui oui si je lis euh la Tribune  les magazines qui sont déposés euh là hein
+2119.184|2120.478|de votre clientèle
+2124.68|2125.305|oui
+2125.305|2126.274|mais sinon non
+2126.274|2127.039|sinon non non
+2127.039|2128.243|non non 
+2128.243|2133.881|d'accord euh la t- pareil la la télévision est-ce que euh
+2133.881|2134.599|les informations
+2134.599|2139.47|les informations et v- et là pareil vous regardez plutôt nationales ou régionales ouais
+2135.505|2138.658|nationales
+2139.47|2142.526|non parce que régionales c'est euh c'est trop tôt
+2142.526|2146.823|oui ben oui ben oui oui
+2142.693|2146.227|c'est à dix-neuf heures dix-neuf heures quarante-cinq un truc comme ça
+2146.823|2148.183|donc oui non
+2148.183|2149.323|oui
+2149.323|2150.981|je regardais le journal de vingt heures quoi
+2150.981|2151.738|c'est ça
+2151.738|2153.394|ouais
+2153.394|2165.614|en quand vous partez en vacances est-ce que est-ce que vous allez loin ? ou est-ce que c'est vrai ? s- qu-  est-ce que vous avez des des destinations particulières ?
+2156.878|2160.75|loin ? oui oui
+2161.375|2162.801|oui 
+2165.614|2167.646|oui <NP1>les îles</NP1> <MR/><P2 rel_pragm="explic">je suis une amoureuse des îles</P2> 
+2167.646|2171.334|racontez-moi   on va on va rêver un petit peu 
+2171.334|2174.701|il faut de une mer chaude du sable et des palmiers
+2174.701|2179.726| je comprends assez bien 
+2176.657|2182.498|et un transat des bouquins oui il me faut du dépaysement total
+2182.498|2183.265|oui
+2183.265|2184.733|je ne sors pas d'ici
+2184.733|2186.14|oui
+2186.14|2187.983|donc il faut que je décompresse et que j'oublie
+2187.983|2188.814|oui
+2188.814|2190.298|donc euh voilà
+2190.298|2192.228|alors où est-ce que vous aimez aller ?
+2192.228|2195.398|bah sur les îles les unes après les autres
+2195.398|2198.695|vous avez beaucoup vous êtes allée euh vous avez fait beaucoup de voyages comme ça ?
+2198.695|2201.959|bah oui un petit peu quand même hein une bonne euh une bonne vingtaine
+2201.959|2206.507|ah oui oui et donc toujours à na- une destination différente ?
+2202.991|2204.241|oui
+2206.507|2225.275|oui toujours enfin non y a y a des destinations ou on a on a doublé ou pas d'enfant y a les les vacances d'hiver où euh c'est en couple sans enfants et puis y a les vacances euh d'été où là euh c'est famille
+2225.275|2228.837|et hiver comme été c'est les îles ? quand vous pouvez
+2228.837|2236.239|oui <NP1>les les î- du dépaysement</NP1> <MR/><NP2 rel_pragm="oppos">pas forcément les îles du dépaysement</NP2> là au mois de mars c'était <NP1>Marrakech</NP1> <MR type="pres">c'est</MR> <NP2 rel_lex="inst(Marrakech/île)" rel_pragm="def">pas une île</NP2> mais c'est dépaysant
+2234.414|2236.567|k- ouais ouais
+2236.567|2237.373|ouais
+2237.373|2237.717|oui oui
+2237.717|2240.202|oui oui parce que l'eau c'est c'est vital hein
+2240.202|2243.237|c'est ça il vous faut aller vers <NP1>la mer</NP1> <NP2 rel_pragm="para">l'océan</NP2>
+2242.092|2244.399|oui c'est ce qui me manque le plus
+2244.399|2245.186|oui
+2245.186|2249.811|oui <P1>j'ai besoin de voir l'eau</P1> <MR/><P2 rel_lex="mero(l'eau/patauger)" rel_pragm="explic">j'ai besoin de patauger</P2>
+2249.811|2254.18|et en N- et en Normandie vous y retournez régulièrement ?
+2254.18|2254.618|bah non
+2254.618|2255.425|non ?
+2255.425|2257.838|bah non mon mari euh travaille le lundi
+2257.838|2258.166|oui
+2258.166|2264.659|en fait on a notre dimanche après-midi pour euh tous les deux oui oui donc euh l'après-midi c'est vite passé
+2261.518|2263.143|et c'est tout enfin oui oui oui
+2264.659|2266.331|ah oui oui oui je comprends
+2266.331|2274.074|donc euh ça ça limite c'est pour ça que <NP1>deux fois par an on ferme</NP1> <NP2 rel_lex="hypero(an/hiver…été)" rel_pragm="prec">une semaine en hiver et trois semaine en été</NP2>
+2268.402|2270.291|oui
+2274.074|2274.637|oui
+2274.637|2287.197|et et <VP1>on part on part</VP1> <VP2 rel_lex="syno(part/va)" rel_pragm="para">on va</VP2> nous ne reste pas là bonjour Léon et faut de la lumière surtout c'est ça c'est la lumière
+2285.978|2291.957|oui parce qu'en fait é- é- étant ici effectivement toute la journée vous n'avez vous ne voyez pas le jour
+2288.925|2290.957|bah y a pas de lumière
+2291.957|2292.551|du tout
+2292.551|2293.632|ouais
+2293.632|2295.273|et ça c'est hyper important
+2295.273|2296.335|ouais
+2296.335|2298.397|le besoin de <PP1>d'avoir</PP1> <PP2 rel_lex="syno(avoir/voir)" rel_pragm="para">de voir</PP2> du soleil
+2298.397|2299.926|ouais ouais
+2299.926|2301.362|la lumière du matin
+2301.362|2301.847|hm
+2301.847|2306.937|et celle du soir parce que en hiver vous rentrez le matin il fait nuit vous ressortez il fait nuit
+2306.937|2307.703|ouais
+2307.703|2309.527|on est des mois sans voir le jour
+2309.527|2310.138|oui
+2310.138|2310.912|donc euh
+2310.912|2333.298|ah non je com- je comprends très bien que vous ay- très bien que vous ayez envie de partir vers les îles e- du coup je je euh je pense que vous avez assez peu de place pour euh une pratique de sport ou euh si vous en faites  ah vous êtes drôlement courageuse 
+2312.562|2313.659|comprenez pourquoi euh
+2324.752|2328.533|si deux fois par semaine
+2333.298|2337.079|le mardi et le jeudi pendant l'heure de fermeture
+2337.079|2338.861|et donc ça aussi dans le quartier ?
+2338.861|2339.97|oui dans le quartier aussi
+2339.158|2345.531|oui qu'est- qu'est-ce que qu'est-ce que le quartier offre en fait comme euh comme structures
+2343.218|2346.316|bah là vous avez la salle de sport  au-dessus là
+2346.316|2346.628|oui
+2346.628|2347.566|la salle de sport
+2347.566|2348.003|oui
+2348.003|2349.722|et moi je fais du & power plate
+2349.722|2351.503|oui
+2351.503|2370.388|et euh enfin j- j'ai arrêté j'en ai fait pendant trois ans et maintenant on euh c'est un un jeune homme qui a ouvert euh du & coaching là <P1>il vous fait faire du rameur euh du vélo euh  ils nous emmène faire du & footing</P1> <DH>euh</DH> <MRCONC>voilà</MRCONC> <P2 rel_lex="hypo(rameur…vélo…footing/sport)" rel_pragm="res">pendant une heure il vous fait faire du sport</P2> et dans le quartier
+2361.269|2366.894|oui hm hm
+2370.388|2377.137|dans le quartier donc vous pouvez mais a- c'est c'est pas forcément dans une salle si
+2371.871|2378.816|je sors je ferme si il a il a sa salle mais euh vous êtes euh deux maximum
+2378.816|2379.222|d'accord
+2379.222|2380.143|voilà
+2380.143|2381.816|ah oui donc c'est c'est
+2381.816|2388.006|il a s- il a sa petite salle avec euh son matériel voilà c'est ça
+2384.378|2388.443|et c'est presque du cours particulier en fait d'accord
+2388.443|2391.802|c'est ça bah oui parce qu'il faut que les heures soient adaptées pour nous
+2391.802|2394.524|oui oui oui oui
+2394.524|2400.762|<PP1>avec euh ce qu'il faut</PP1> <DH>euh</DH> <NP2 rel_pragm="exempl">une douche euh sur place</NP2> euh parce que je ferme je vais au sport et je reviens
+2398.211|2403.191|oui d'accord d'accord d'accord
+2403.191|2405.285|même si parfois j'en n'ai pas du tout envie hein
+2405.925|2413.752|mais euh i- voilà il faut quand même faire quelque chose hein parce que euh vu le temps qu'on passe au travail et le travail qu'on fournit il faut qu'on se tienne en forme
+2413.752|2415.408|oui oui oui
+2415.408|2417.656|c'est l- enfin je trouve que c'est hyper important hein
+2417.656|2419.502|ouais et vous êtes debout tout le temps
+2419.502|2419.909|tout le temps
+2419.909|2420.8|toute la journée hein
+2420.8|2421.112|ouais
+2421.112|2429.182|oui parce que c'est quand même une euh une fatique physique j'imagine debout debout vous n'avez même pas un petit tabouret ou euh ?
+2422.571|2426.697|ouais le vendredi samedi c'est quatorze heures de travail debout
+2427.244|2431.5|non non j'ai même pas un tabouret parce que j'ai pas de place pour le mettre
+2431.5|2432.554|ouais
+2432.554|2434.581|donc on travaille on mange debout euh
+2434.581|2437.109|oui
+2437.109|2443.6|non non il faut il faut une hygiène de vie euh pour pouvoir tenir le coup si je tombe malade ma boutique est fermée
+2443.6|2452.545|ouais ouais oui oui oui votre euh <NP1>votre empl-</NP1> <DA>la la</DA> <NP2 rel_lex="syno(empl-/la jeune femme qui vous aide)" rel_pragm="para">la jeune femme qui vous aide</NP2> euh elle est c'est vraiment très ponctuel
+2450.217|2459.276|oui non elle elle voilà c'est <PRES1>c'est un mi-temps</PRES1> <MRCOO>et</MRCOO> <MR type="pres">c'est</MR>  <P2 rel_lex="mero(mi-temps/heures)" rel_pragm="prec">elle vient aux heures où euh où y a le plus de monde</P2> donc on doit être deux
+2452.983|2454.824|oui
+2459.276|2471.556|hm bien sûr bien sûr oui euh hm bon donc euh fu- donc c'est un quartier qui qui offre euh vraiment vraiment tout jusqu'au sport
+2469.004|2472.486|ouais ouais jusqu'au sport
+2472.486|2477.726|jusqu'au sport pour vous et vraiment à toujours à pied et toujours à à proximité
+2475.663|2478.453|toujours à pied ouais
+2478.453|2501.447|ouais ouais bah écoutez je pense que je pense qu'on a à peu près fait fait le tour je voulais vous poser une encore puisqu'on est toujours sur votre perception d'Orléans venant euh d'une autre région oui est-ce que pour vous il y a une euh façon de parler qui serait propre à Orléans ? est-ce que vous entendez oui
+2491.131|2493.759|de l'extérieur
+2499.869|2501.947|un accent ou euh non
+2501.947|2508.259|une spécificité quelque chose que vous avez entendu comme ça en a- en arrivant qui
+2508.259|2509.196|non
+2509.196|2509.649|non
+2509.649|2510.672|non je trouve pas
+2510.672|2511.515|pas de
+2511.515|2526.017|non non par contre moi je remarque les gens de l'extérieur quand je vois ma famille ma famille qui est dans la Sarthe
+2512.234|2518.447|rien de remarquable ou de
+2526.017|2527.345|oui
+2527.345|2530.75|oui euh eux je trouve que oui  ils ont un accent
+2530.75|2533.392|oui
+2533.392|2534.079|oui
+2534.079|2536.824|par exemple
+2536.824|2539.324|je sais pas y a un peu plus de patois euh
+2539.324|2540.732|ouais
+2540.732|2543.732|<PRES1>y a quelque chose</PRES1> <MR/><P2 rel_pragm="para">je je remarque qu'il y a quelque chose</P2>
+2543.732|2548.638|d'accord mais vous l'avez pas vu entendu ici quand vous êtes arrivée
+2546.444|2549.542|non quand je suis arrivée ici non pas du tout non
+2549.542|2558.467|est-ce qu'on entend des justement dans dans ce lieu très particulier que que sont les Halles <P1>est-ce qu'on entend des langues différentes ?</P1> <MR/><P2 rel_lex="mero(on/vous) syno(des/beaucoup de)" rel_pragm="para">est-ce que vous entendez beaucoup de langues différentes</P2> ou ?
+2558.467|2559.092|oui
+2559.092|2560.208|oui
+2560.208|2567.453|oui ouais ouais parce que y a beaucoup de y a beaucoup d'é- d'ét- d'étrangers ou d'étrangères qui sont qui sont mariés avec des français
+2561.018|2563.837|qu'est-ce qu- qu'est-ce que vous ent- oui
+2567.453|2579.645|oui donc euh généralement c'est euh le français qui s'est euh adapté à la langue étrangère ah oui hm hm
+2579.645|2600.127|on a des américains des anglais euh des hollandais des allemands et quand ils parlent entre eux ils parlent pas le français oui hm hm hm ouais hm  dans la langue euh
+2590.219|2598.467|d'accord donc quand vous les entendez autour de votre euh euh comptoir s- ils échangent entre eux dans la langue euh
+2600.127|2607.949|d'accord ouais est-ce qu'il y a des langues que vous entendez en particulier est-ce qu'il y a là vous m'avez dit l'anglais l'al- le hollandais
+2600.961|2602.04|oui ça j'ai remarqué
+2607.949|2609.457|l'allemand
+2609.457|2613.238|ouais
+2613.238|2615.953|parce que y a beaucoup d'étrangers quand même hein sur Orléans
+2615.953|2618.648|oui
+2618.648|2621.312|hm <NP1>des allemands</NP1><MR/> <PRES2 rel_pragm="prec">y a beaucoup d'allemands</PRES2>
+2621.312|2622.236|oui
+2622.236|2624.187|quand je réfléchis y a beaucoup d'allemands
+2624.187|2630.081|ah ça ça m'intéresse de de savoir un petit peu quelles euh les langues que vous entendez ici
+2630.081|2639.309|bah oui moi dans ma clientèle oui c'est ça c'est l'anglais l'allemand le hollandais oui ah y a des brésiliens aussi
+2639.309|2640.277|ah oui
+2640.277|2641.215|des italiens
+2641.215|2642.762|hm hm
+2642.762|2646.263|mais souvent ce sont des gens euh alors soit ce sont des des retraités
+2646.263|2647.404|oui
+2647.404|2650.735|ou alors euh ce sont de jeunes couples de
+2650.735|2652.534|oui
+2652.534|2667.076|qui sont là pour euh deux ou trois ans quoi oui et on a des des gens qui partent des mutations ah oui mais oui parce que on se dit au revoir
+2657.44|2659.478|ah c'est vrai
+2661.15|2662.483|ah oui ç- donc ça
+2663.233|2667.482|et ça vous sentez qu'il y a une euh oui
+2667.482|2677.72|quand on a passé deux trois ans à se voir toutes les semaines euh y a quand même quelque chose euh ouais ouais ouais <VP1>on va partir</VP1> <MR/><VP2 rel_lex="syno(partir/déménage)" rel_pragm="para">on déménage euh</VP2>
+2671.076|2674.995|ouais les gens vous disent quand ils vont partir ou
+2677.72|2677.963|ouais
+2677.963|2680.65|ouais ça y a des fois c'est un peu c'est un peu triste quand même
+2680.65|2681.431|ouais
+2681.431|2697.16|parce que comme les gens n'ont pas de de de famille ce sont des gens qui  donc quand on n'est pas dans dans son dans sa région <P1>on s'accroche aux autres</P1> <DA>on se prop-</DA> <P2 rel_pragm="para">on se crée ses propres euh familles</P2> des familles d'amis
+2681.431|2697.16|parce que comme les gens n'ont pas de de de famille ce sont des gens qui  donc quand on n'est pas dans dans son dans sa région on s'accroche aux autres on se prop- on se crée <NP1>ses propres euh familles</NP1> <MR/><NP2 rel_pragm="prec">des familles d'amis</NP2> 
+2684.665|2687.243|hm hm
+2697.16|2697.754|hm hm
+2697.754|2700.347|donc on a beaucoup de ouais
+2700.347|2701.784|hm
+2701.784|2707.178|ouais c'est bah vous n'êtes pas orléanaise ça doit faire un peu ça aussi voilà
+2702.706|2719.596|absolument oui oui et puis euh et puis oui puis puis vous vous devez en fait euh j'imagine euh pour certaines personnes aussi devenir des des points de repère des faut
+2714.232|2722.206|oui y a beaucoup de militaires aussi ici les militaires c'est des gens qui bougent beaucoup
+2722.206|2722.518|ouais
+2722.518|2725.044|c'est aussi beaucoup de femmes qui sont souvent seules
+2725.044|2726.809|ouais
+2726.809|2729.156|bah oui bah on di- on discute beaucoup
+2729.156|2737.022|ouais vous arrivez à trouver le temps ? de de discuter un petit peu avec pendant pendant la semaine pas le week-end mais voilà
+2732.241|2736.288|bah la semaine oui on prend le temps
+2737.022|2742.703|et puis euh les gens savent que le week-end on n'a pas le temps euh <VP1>on parle</VP1><MR/> <P2 rel_lex="syno(parle/dit) inst(parle/dit bonjour ca va)" rel_pragm="exempl">on dit bonjour ça va euh</P2>
+2742.703|2743.281|ouais
+2743.281|2748.535|que la semaine oui y a des gens avec qui je discute qui n'ont jamais été mes clients
+2748.535|2750.476|ah oui hm
+2750.476|2754.775|parce que ils viennent aux Halles juste pour discuter euh dix minutes là dix minutes là
+2754.775|2756.632|ouais des personnes âgées peut-être ?
+2756.632|2757.427|aussi oui
+2757.427|2758.02|ouais
+2758.02|2759.609|ouais beaucoup de personnes âgées
+2759.609|2766.945|oui oui oui pour qui vous êtes une vraie compagnie en fait euh
+2764.843|2773.316|hm oui oui oui y a des gens qui le disent hein des petits papis et des petites mamies qui disent que ici on est leur famille
+2773.316|2785.267|oui ouais et c'est touchant hm c- c'est c'est un aspect qu-  de votre métier aussi ouais hein hm ouais ouais
+2775.809|2783.393|ouais ouais ouais ouais ouais ah oui le plus triste c'est quand on les revoit plus du jour au lendemain
+2784.026|2786.811|on sait pas vraiment pourquoi enfin on suppose
+2786.811|2788.286|oui
+2788.286|2789.537|on suppose
+2789.537|2790.436|hm
+2790.436|2793.895|et ça ça fait partie du du truc aussi
+2792.047|2799.669|hm et ça c'est quelque chose que vous n'aviez pas dans votre ancien métier ? pas du tout non du tout
+2796.831|2797.448| du tout
+2799.669|2800.807|l'écran
+2800.807|2803.496|ouais ouais ouais
+2803.496|2804.747|et ça ça me manquait
+2804.747|2825.799|oui oui oui c'est une des raisons pour lesquelles vous avez vous n'avez pas du e- e- en plus de de de de de l'amour du du produit lui-même <PRES1>c'est une des raison pour lesquelles vous avez fait ce pas euh immédiatement ouais de savoir que vous alliez être en contact euh avec les gens en permanence</PRES1><MR/> <PRES2 rel_lex="mero(une des/première)" rel_pragm="res">c'est la première raison hm</PRES2> <DMD>voilà</DMD
+2805.586|2806.372|oui
+2813.049|2824.68|ouais oh oui oh oui oui oui oui c'est la première raison ouais mais pas dans n'importe quoi
+2825.799|2829.9|voilà <VP1>faire du porte à porte</VP1> <DH>euh</DH> <VP2 rel_pragm="denom">être commercial</VP2> pas du tout
+2829.152|2837.031|non hm hm hm oui ça aurait pu être autre chose
+2832.211|2837.774|oh oui ç- oui oui ça aurait ça aurait pas la viande hein
+2837.774|2858.003| vous êtes mal placée là  donc quand vous êtes seule faut vous placer de ce côté-ci vous regardez de ce côté-ci du coup  oui ah ça va vous êtes suffisamment loin
+2843.23|2845.506|j'aime pas la viande
+2849.392|2853.877|non ça me dérange pas de la regarder euh c'est la toucher et j'aime pas l'odeur
+2854.407|2857.306|oui euh voilà hein
+2858.003|2864.7|je je sens pas mais euh voilà et puis euh moi c'est c'est c'est rien quoi <N1>boucher</N1> <MR type="pres">c'est</MR> <NP2 rel_pragm="def" rel_lex="hypo(boucher/métier)">un métier hein
+2864.7|2865.532|ouais
+2865.532|2866.955|bon tout s'apprend
+2866.955|2867.946|oh oui
+2867.946|2872.931| tout s'apprend mais bon 
+2872.931|2879.027|fromager ça s'impromis- j'imagine
+2874.118|2876.117|oui oui oui oui mais
+2879.027|2879.553|pas pareil
+2880.877|2883.692|pas pareil j'aurais préféré être dans le poisson
+2883.692|2894.246|bon euh et vous <P1>est-ce que on on parlait des langues que que vous entendez</P1><MR/><P2 modif_morph="flex(parlait/parlez)" rel_pragm="para"> est-ce que vous vous parlez d'autres langues</P2> ?
+2894.246|2894.834|non
+2894.834|2895.823|non
+2895.823|2897.463|mais j- on arrive toujours à se comprendre
+2897.463|2899.289|oui
+2899.289|2902.662|je parle pas mais bon je je comprends l'an- je comprends l'anglais
+2902.662|2903.002|oui
+2903.002|2914.346|je parle pas parce que je serais trop maladroite ils ne me comprendraient pas mais euh que ce soit n'importe quelle langue euh là y a énormément de fromage qui part à l'étranger
+2905.787|2906.963|ouais 
+2914.346|2923.149|oui c'est vrai ? et alors on vous explique à ce moment-là que c'est vraiment pour partir euh
+2914.841|2919.297|toutes les semaines toutes les semaines on met des kilos de fromage sous vide pour partir à l'étranger
+2921.688|2926.323|pour partir euh donc on met euh sous vide euh
+2926.323|2926.553|oui
+2926.553|2929.165|pour euh des des français qui sont à l'étranger hein
+2929.165|2930.342|pour apporter à des français
+2930.342|2936.316|voilà des parents des amis ou des frères et soeur qui emmènent euh ouais
+2936.316|2937.065|hm hm
+2937.065|2939.364|alors c'est le fromage le saucisson et le chocolat
+2939.364|2942.059|oui
+2942.059|2945.682|hm quand vous revenez de voyages vous c'est le fromage qui vous manque
+2945.682|2948.286|y a des fromages en particulier ?
+2948.286|2960.366|hm le camembert ouais ouais s- ouais le camembert et euh après on peut pas emmener tous les fromages parce qu'on peut pas mettre tous les formages sous vide
+2949.716|2955.519|c'est le c- le camembert c'est c'est vraiment marquant ? c'est il se distingue vraiment des autres fromages
+2960.366|2962.278|d'accord oui
+2960.795|2965.402|ceux qui sont trop fragiles  mais c'est oui essentiellement le le camembert le comté
+2965.402|2965.855|ouais
+2965.855|2972.168|camembert comté beaufort ouais ça c'est des fromages ouais qui qu'on emmène 
+2972.168|2976.822|et je vais vous poser une question très indiscrète et vous c'est quoi votre fromage préféré ? 
+2976.822|2977.822|c'est par périodes
+2977.822|2978.369|ouais
+2978.369|2979.604|en ce moment c'est le saint Nectaire
+2979.604|2980.666|oui
+2980.666|2996.716|oui <P1>j'ai été longtemps c'était la tomme de Lozère/P1><MR/> <P2 rel_pragm="res">tous les jours fallait que j'en mange</P2> hein et là depuis je sais pas à peu près un an c'est le saint Nectaire et là <P1>il rentre dans la période où je le préfère</P1><MR/> <P2 rel_pragm="explic">là où il va être bien gonflé et très crémeux</P2>
+2993.731|3002.3|hm hm hm vous conseillez beaucoup vos clients ? j'imagine dans le
+3001.246|3002.846|oui c'est important
+3002.846|3005.972|oui oui
+3005.972|3006.253|ouais
+3006.253|3010.915|j'imagine qui doit vous vous plaire dans le métier oui
+3007.753|3015.728|<VP1>on fait beaucoup goûter aussi</VP1><MR/> <VP2 modif_morph="deriv(goûter/dégustation)" rel_lex="syno(goûter/dégustation)" rel_pragm="para">on fait beaucoup de dégustation</VP2> tout ça parce qu'on a tendance à euh à prendre toujours la même chose
+3015.728|3017.244|oui ce qu'on connaît
+3017.244|3017.603|oui
+3017.603|3018.634|hm
+3018.634|3024.042|hm ouais non bah le on vient dans un petit commerce aussi c'est pour avoir des conseils
+3024.042|3024.433|hm
+3024.433|3025.891|sinon euh
+3025.891|3027.125|hm
+3027.125|3032.763|<NP1>des conseils être reconnu</NP1> <DH>euh</DH> <DMD>oui</DMD> <NP2 rel_lex="hypo(conseils/choses)" rel_pragm="prec">toutes ces petites choses-là quoi</NP2>
+3032.763|3033.623|hm
+3033.623|3036.295|d'arriver stressé et de repartir décontracté
+3036.295|3040.185|oui parce qu'on a la perspective d'un merveilleux repas euh
+3036.826|3065.505|oui ouais hm ouais même il faut euh en tant que commerçant <P1>il faut pas stresser son client</P1><MR/> <P2 rel_lex="syno(stresser/énervé) anto(stresser/bien)" rel_pragm="explic">il faut qu'il qu'il reparte bien faut pas qu'il reparte énervé</P2> parce qu'il a pas été content ou parce que il n'a pas su lui conseiller il faut qu'il y ait moi j'aime quand il repart euh et voilà qu'il a passé dix minutes et qu'il repart avec le sourire ouais ouais
+3036.826|3065.505|oui ouais hm ouais même il faut euh en tant que commerçant il faut pas stresser son client <P1>il faut qu'il qu'il reparte bien</P1><MR/> <P2 rel_lex="anto(bien/énervé)" rel_pragm="para">faut pas qu'il reparte énervé</P2> parce qu'il a pas été content ou parce que il n'a pas su lui conseiller il faut qu'il y ait moi j'aime quand il repart euh et voilà qu'il a passé dix minutes et qu'il repart avec le sourire ouais ouais
+3063.176|3065.13|c'est votre plaisir à vous c'est ça
+3065.505|3068.737|hm hm hm
+3067.051|3068.346|ouais ouais
+3068.737|3083.962|<P1>le voir arriver le vendredi vendredi souvent les gens sont stressés c'est la fin c'est la fin de la semaine on fait vite les courses euh  on a du monde tout le week-end machin ouais on se pose on choisit tranquillement et quand ils repartent euh ah bon bah ça va mieux</P1> <DI>ah</DI> <P2 rel_pragm="res">ça j'adore</P2>
+3072.548|3075.601|<PRES1>c'est la fin de la semaine</PRES1> <MR/><P2 rel_pragm="res">ils sont épuisés par leur semaine</P2>
+3083.962|3084.274|ouais
+3084.274|3086.352|là je suis contente de moi
+3086.352|3087.352|ah oui oui
+3087.352|3090.177|oui ah oui
+3088.679|3094.633|c'est vrai c'est des jolis moments hm hm
+3091.179|3091.914|ah oui oui
+3094.633|3096.617|après faut aimer les gens
+3096.617|3100.399|oui mais est-ce qu'on peut faire ce métier-là sans aimer les gens ?
+3100.399|3102.609|bah y en a qui le font ça se voit
+3102.609|3106.617|hm hm
+3107.429|3114.127|hm hm ouais oui ça se sent forcément s- forcément tout de suite
+3110.329|3112.439|dommage ça se sent
+3114.127|3125.496|ouais quelqu'un qui vous regarde pas euh qui a pas de sourire euh regardez vous allez en grandes surfaces regardez les caissières y a des des fois bon on vous regarde pas
+3125.496|3128.144|hm
+3128.144|3130.5|après je comprends on fait pas toujours ce qu'on aime
+3130.5|3132.074|oui
+3132.074|3133.843|mais on peut changer
+3133.843|3140.453|vous n'avez plus envie de changer ? ou est-ce que vous avez quand même d'autres projets ?
+3140.453|3145.296|envie de changer non de repartir dans une autre région oui
+3145.296|3147.467|oui?
+3147.467|3151.869|oui ça me plairait bien oui ç- ça ça me plairait bien
+3151.869|3153.096|oui
+3153.096|3159.096|oui j'ai une fille qui m'a demandé d'attendre de finir ses études   avant de
+3159.096|3160.796|et vous m'avez dit elle est à l'université ?
+3160.796|3169.666|non elle a quitté la elle a fait deux années, deux années de droit et elle a arrêté parce que <P1>ça lui plaisait pas du tout pas le droit</P1> <MRCOO>mais</MRCOO> <P2 rel_lex="hypero(ça/la fac) mero(le droit/la fac)" rel_pragm="para">la fac lui plaisait pas du tout</P2>
+3167.567|3170.613|ouais ouais ouais
+3170.613|3172.316|donc maintenant elle fait un BTS juridique
+3172.316|3174.502|d'accord d'accord
+3175.096|3175.658|d'accord
+3175.658|3176.558|hm hm
+3176.558|3179.759|donc elle vous a dand- elle vous a demandé d'attendre qu'elle ait fini
+3178.586|3181.028|d'attendre qu'elle ait fini
+3181.028|3184.081|oui
+3184.081|3187.915|après les a- les années passent tellement vite aussi que
+3187.915|3196.559|mais ce ne sera pas parce que <VP1>vous n'aimez pas<VP1> <MRCOO>et</MRCOO> <VP2 rel_lex="syno(aimez/plaisez)" rel_pragm="para">vous ne vous plaisez pas</VP2> à Orléans hm hm oui hm
+3190.823|3192.539|pas du tout
+3193.427|3196.122|ce serait l'envie de voir autre chose euh
+3196.559|3198.372|ouais puis se rapprocher de la côte quand même
+3198.372|3201.668|c'est ça  on revient toujours vers à la mer hein c'est ça
+3199.403|3201.262| ouais
+3201.668|3201.918|ouais
+3201.918|3202.605|c'est ça
+3202.605|3203.293|ouais ouais ouais 
+3203.293|3203.762|ouais
+3203.762|3206.043|ouais ouais Bordeaux
+3204.137|3215.774|vous avez une idée de de région ah oui en fait c'est très clair dans votre esprit  vous savez exactement  oui et ce serait toujours la fromagerie ?
+3208.652|3212.853|oui oui oui
+3215.774|3218.092|bah j'aime ce que je fais alors pourquoi euh changer ?
+3218.092|3222.801|oui ouais
+3222.801|3223.675|ouais
+3227.072|3229.666|je maîtrise pas trop mal donc pourquoi changer
+3229.666|3232.697|bah j'espère qu'on va vous garder encore un petit peu quand même
+3232.697|3235.385|bah oui oui oui non vous inquiétez pas au moins trois ans
+3235.385|3240.853|mais vous êtes quand même dans le court terme
+3240.853|3242.205|je sais pas
+3242.205|3243.509|hm
+3243.509|3244.539|une occasion peut-être
+3244.539|3249.643|<NP1>une occasion</NP1><MR/> <NP2 rel_lex="syno(occasion/hasard)" rel_pragm="para">le hasard</NP2> comme euh comme le le hasard qui vous a amené ici finalement
+3245.586|3247.043|le hasard
+3248.388|3252.81|le hasard z- j- moi je marche beaucoup euh oh comme ça voilà
+3251.565|3259.232|hm hm hm <NP1>les occasions</NP1><MR/> <NP2 rel_lex="syno(occasions/hasard)" rel_pragm="para">le hasard</NP2> <MR/><NP3 rel_lex=mero(hasard/rencontres) rel_pragm="prec">les rencontres</NP3> euh oui oh je comprends ça très bien
+3253.715|3257.091|oui voilà voilà
+3259.232|3263.798|oui oui oui y a des moments on n'a pas besoin de se poser de questions
+3263.798|3266.814|oui vous voulez dire les choses s'imposent
+3266.814|3269.451|o- voilà oui oui
+3267.689|3269.108|comme une évidence euh
+3269.451|3270.437|on sait qu'il faut les faire
+3270.437|3270.968|oui
+3270.968|3271.406|hm
+3271.406|3272.77|oui oui oui
+3272.77|3313.027|hm bah écoutez moi je pense que on a on a fait le on a fait le tour je vous remercie vraiment beaucoup d'avoir pris le temps euh je vous ai pris toute une heure toute une heure je vous remercie beaucoup d'avoir pris le temps les gens commencent à arriver en fait euh là tout doucement hein tout le monde a réouvert oui moi je vais vous prendre un petit peu de fromage avant de partir aussi ouais oui oui bah c'est vrai que personne euh bah là on voit bien là les on voit bien qu'effectivement <PRES1>y a y a du mouvement</PRES1> <MR/><P2 rel_pragm="res">les lumières se sont se sont rallumées</P2>
+3279.524|3281.074|tour
+3287.29|3295.938|bah non hein je vous l'avais dit qu'ici c'était euh oui hm oui oui tout le monde a réouvert et tout le monde euh
+3299.038|3302.506|c'est pour ça que j'avais dit qua- quatorze quinze heures c'est le bon créneau y a personne
+3303.084|3305.256|oui comme ça
+3306.374|3313.527|hm les gens savent voilà oui
+3313.527|3340.207|alors on va enlever ça merci beaucoup je vais éteindre voilà c'était un vrai plaisir de discuter avec vous tout en dehors du cadre euh en dehors du cadre euh particulier bah écoutez merci euh hm voilà alors celui-là je vais l'éteindre aussi
+3316.434|3319.794|bah je vous en prie
+3324.575|3333.086|merci pour moi aussi c'était sympa ma foi pour ma première fois j'ai trouvé ça agréable
+3340.207|3341.546|ah oui le
+3341.546|3342.233|le secours
+3342.233|3343.249|le secours
+
