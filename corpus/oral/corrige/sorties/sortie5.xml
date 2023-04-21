@@ -1,0 +1,120 @@
+<body>
+<reformulation><NP1>seize ans</NP1> <NP2 rel_pragm="prec">dix sept ans</NP2></reformulation>
+<reformulation><P1>mon mari a été muté dans la région</P1> on est de Paris <DMD>et voilà</DMD> <P2 rel_lex="mero(la région/Orléans)" rel_pragm="prec">il a été muté euh à Orléans</P2></reformulation>
+<reformulation><VP1>on avait demandé</VP1><MR/> <VP2 rel_lex="mero(demandé/voulait)" rel_pragm="explic">on voulait</VP2></reformulation>
+<reformulation><PP1>sans à priori</PP1> <MR/><PP2  rel_lex="syno(à priori/préjugé)" rel_pragm="para">sans sans préjugé</PP2></reformulation>
+<reformulation><PP1>à Orléans</PP1><MR/> <NP2 rel_lex="mero(Orléans/sud limite Olivet)" rel_pragm="prec">sud limite Olivet</NP2></reformulation>
+<reformulation><P1>on avait choisi Olivet</P1> nos enfants étaient scolarisés là <MRCONC>donc</MRCONC> <DH>euh</DH> <DMD>voilà</DMD> <P2 modif_morph="flex(avait/a)" rel_pragm="para">on a choisi de vivre à Olivet</P2></reformulation>
+<reformulation><NP1>soit chef de PM-</NP1><MR/> <NP2 modif_lex="ajout(d’entreprise)" rel_pragm="prec">soit chef d'entreprise PME</NP2></reformulation>
+<reformulation><PP1>à Paris</PP1> <DMD>enfin</DMD> <PP2 rel_lex="mero(Paris/Châtelet-Malabry)" rel_pragm="prec">sur à Châtelet-Malabry</PP2></reformulation>
+<reformulation><P1>qui a douze ans bientôt le dix avril</P1> <MRCONC>donc</MRCONC> <P2 rel_pragm="oppos">il a pas encore douze ans</P2></reformulation>
+<reformulation><NP1>le choix de d'Olivet</NP1> <DH>euh</DH> <DA>nombreuse comme ça</DA> <MR type="pres">c'est c'est</MR> <MRP>je veux dire</MRP> <MR type="pres">c'est</MR> <MRE>par exemple</MRE> <PRES2 rel_lex="inst(Olivet/ville)" rel_pragm="explic">c'est un c'est une ville ou un quartier intéressant pour euh pour la vie de tous les jours</PRES2></reformulation>
+<reformulation><NP1>un très très bon réseau d'amis</NP1> <MR/><P2 rel_lex="syno(réseau d'amis/on a des amis)" rel_pragm="explic">on a des amis depuis qui que qu'on connait depuis qu'on est arrivé ici euh avec lesquels on est parrain marraine de nos enfants respectifs maintenant</P2></reformulation>
+<reformulation><VP1>ça a été</VP1> <DI>bah</DI> <VP2 rel_pragm="para">ça a fait partie</VP2></reformulation>
+<reformulation><VP1>on finit par</VP1> <DH>euh</DH> <P2 rel_lex="syno(on/quelqu’un)" rel_pragm="prec">quelqu'un finit par venir</P2></reformulation>
+<reformulation><P1>vous faites vos courses euh sur Olivet</P1> <DH>euh</DH> <P2 rel_lex="syno(faites vos courses/allez dans les commerces) syno(sur Olivet/du coin)" rel_pragm="para">vous allez dans les commerces du coin plutôt</P2></reformulation>
+<reformulation><P1>je vais chez le boucher à Olivet   euh le boulanger</P1> <DA>je oui je</DA> <P2 rel_lex="hypo(le boucher...le boulanger/le commerce)" rel_pragm="res">je fais fonctionner un petit peu le commerce local</P2></reformulation>
+<reformulation><PRES1>y a même plusieurs bouchers, un très bon poissonnier plusieurs boulangeries alors  tout ce qui est coiffeurs agences de voyages et agences immobilières</PRES1> <MR/><P2 rel_pragm="res">nous sommes très très bien servis</P2> <MR/> <P3 rel_pragm="explic">on peut être très bien coiffé très bien logé et bien voyagé à Olivet  et beaucoup avoir aussi une très bonne banque on en a beaucoup mais il nous reste aussi quelques commerces alimentaires très appréciables</P3></reformulation>
+<reformulation><NP1>un très bon artisan</NP1> <MRCONC>voilà</MRCONC> <P2 rel_pragm="res">j'ai bien de la chance</P2></reformulation>
+<reformulation><NP1>un un bon artisan</NP1><MR/> <P2 rel_pragm="res">vous avez bien de la chance</P2></reformulation>
+<reformulation><P1>on y tient beaucoup</P1> <MRCOO>et</MRCOO> <P2 rel_pragm="para"> qu'on le lâche pas comme ça</P2></reformulation>
+<reformulation><NP1>les Hauts-de-Seine</NP1> <MR type="pres"> c'est</MR> <NP2 rel_lex="inst(Haut-de-Seine/commune)" rel_pragm="def">une petite commune</NP2> <MRDENOM>qui s'appelle</MRDENOM> <NP3 rel_pragm="denom">Bourg-La-Reine</NP3></reformulation>
+<reformulation><NP1>votre travail</NP1> <DMD>justement</DMD> <DMD>en fait</DMD> <NP2 rel_lex="syno(travail/occupation principale)" rel_pragm="para">cette occupation principale</NP2> <MR type="pres">c'est c'est</MR> <NP3 rel_lex="hypo(occupation principale/occupation)" rel_pragm="para">cette occupation</NP3></reformulation>
+<reformulation><P1>vous êtes très occupée une journée</P1> <MR/><PRES2 rel_lex="syno(occupée/rythmé)" rel_pragm="para">c’est très rythmé</PRES2></reformulation>
+<reformulation><P1>ça reste un peu long</P1> <MRP>c'est-à-dire que</MRP> <P2 rel_pragm="explic">pour rentrer   du lycée Sainte Croix notre fille Caroline peut mettre environ quarante-cinq minutes euh même pas loin d'une heure</P2></reformulation>
+<reformulation><NP1>un bon quart d'heure</NP1> <MR/><NP2 rel_lex="mero(quart d'heure/vingt minutes)" rel_pragm="prec">vingt minutes</NP2></reformulation>
+<reformulation><P1>je fais tout ce qu'on font les mamans à la maison</P1> <MRCONC>donc</MRCONC> <DH>euh</DH> <NP2 rel_pragm="exempl">le rangement le linge le ménage les courses la cuisine</NP2></reformulation>
+<reformulation><P1>j'ai quand même d'autres activités euh avec mon mari</P1> <MR/><P2 rel_lex="inst(activités/chef de groupe scouts Scouts Unitaires de France)" rel_pragm="denom">on est chef de groupe scouts Scouts Unitaires de France</P2></reformulation>
+<reformulation><VP1>on a fait</VP1> <MR/><VP2 rel_lex="mero(on/je)" rel_pragm="prec">j'ai fait</VP2></reformulation>
+<reformulation><P1>ça vous prend beaucoup de temps</P1> ? <MR/><P2 rel_lex="syno(prend beaucoup de temps/êtes très investis)" rel_pragm="para">vous vous êtes très investis</P2></reformulation>
+<reformulation><P1>notre rôle est d'accompagner les chefs les jeunes qui encadrent même les plus jeunes</P1> <MRCONC>donc</MRCONC> <P2 rel_pragm="res">notre rôle est vraiment de les accompagner</P2></reformulation>
+<reformulation><P1>ils sont quand même tous étudiants</P1> <MR/><P2 rel_pragm="justif">ils ont pas toujours le temps de faire des choses</P2></reformulation>
+<reformulation><VP1>les accompagner</VP1><MR/> <VP2 rel_lex="syno(accompagner/aider)" rel_pragm="para">les aider</VP2> <DA>de les</DA> <DH>euh</DH> <DA>de de</DA> <VP3 rel_lex="syno(aider/encadrer)" rel_pragm="para">les encadrer</VP3></reformulation>
+<reformulation><NP1>les encadrants </NP1> <MRP>si on peut dire</MRP> <DMD>voilà donc</DMD> <DH>euh</DH> <MRP>ce qui veut dire</MRP> <DH>euh</DH> <DA>p-</DA> <NP2 rel_pragm="explic">pas mal de tâches administratives</NP2></reformulation>
+<reformulation><VP1>on les aide</VP1><MR/> <P2 rel_lex="syno(aide/accompagner)" rel_pragm="prec">on on les on accompagner nos aumôniers</P2> <MR/><P3 rel_lex="syno(accompagner/aide)" rel_lex2="mero(aumôniers/dans cette voie-là)" rel_pragm="prec">on les aide dans cette voie-là</P3></reformulation>
+<reformulation><NP1>les plus jeunes</NP1> <DH>euh</DH> <MRCONC>enfin</MRCONC> <P2 rel_pragm="prec">ceux qui sont scouts dans nos unités</P2></reformulation>
+<reformulation><NP1>les aînés du mouvement</NP1> <MRP>c'est-à-dire</MRP> <NP2 rel_pragm="def">routiers pour les garçons et guides aînés pour les filles</NP2></reformulation>
+<reformulation><P1>vous avez suivi ce parcours-là</P1> ? <MR/><P2 rel_lex="inst(ce parcours-là/scout enfant)" rel_pragm="denom">vous avez été scout enfant</P2></reformulation>
+<reformulation><NP1>des chefs de troupes</NP1> <MRP>on dit</MRP> <NP2  rel_lex="hypo" rel_pragm="denom">des chefs de groupes</NP2></reformulation>
+<reformulation><NP1>un week-end</NP1> <MR type="pres">c'est</MR> <NP2 rel_lex="instance" rel_pragm="def">soit un samedi soit un dimanche</NP2></reformulation>
+<reformulation><P1>les aînés partent eux aussi de manière moins systématique</P1> <MRP>c'est-à-dire que</MRP> <P2 rel_lex="syno(moins systématique/pas forcément tous les ans)" rel_pragm="prec">les aînés partent pas forcément tous les ans mais souvent</P2></reformulation>
+<reformulation><PRES1>c'est un groupe</PRES1> <MR/><PRES2 rel_lex="mero(groupe/mouvement)" rel_pragm="para">c'est un mouvement</PRES2></reformulation>
+<reformulation><A1>chrétiens</A1> <DH>euh</DH> <A2 rel_lex="hypero(chrétiens/catholiques)" rel_pragm="prec">catholiques</A2></reformulation>
+<reformulation><N1>mouvances</N1> <DH>euh</DH> <N2 rel_lex="hypero(mouvances/religions)" rel_pragm="prec">religions</N2></reformulation>
+<reformulation><NP1>les trois principaux mouvements catholiques</NP1> <MR type="pres">sont</MR> <MRCONC>donc</MRCONC> <NP2 rel_lex="inst(mouvement catholique/les scouts de France, les scouts d'Europe,les scouts Unitaires de France)" rel_pragm="denom">les scouts de France, les scouts d'Europe et les scouts Unitaires de France</NP2></reformulation>
+<reformulation><NP1>cette notion</NP1> <MR/><NP2 rel_lex="syno" rel_pragm="para">cette communauté</NP2></reformulation>
+<reformulation><NP1>tout un tas</NP1> <MR/><NP2 rel_pragm="para" rel_lex="syno(tout un tas/toute une histoire)">toute une histoire</NP2></reformulation>
+<reformulation><P1>on pouvait plus les rapprocher des scouts d'Europe et au niveau des scouts d'Europe</P1> <MRCOR>non pardon</MRCOR> <P2 rel_lex="syno(on/vous) " rel_pragm="corr_ref">vous pouvez plus les rapprocher des scouts de France et au niveau des scouts de France</P2></reformulation>
+<reformulation><P1>le mouvement scout de France a décidé de euh diviser les tranches d'âges</P1> <MRP>c'est-à-dire</MRP> que moi je vous ai dit tout à l'heure nos nos enfants ont entre huit et douze ans et douze à dix-sept ans <P2 modif_morph="flex(diviser/divisée)" rel_synt="passif(diviser/a été divisée)" rel_pragm="prec">cette tranche douze dix-sept a été divisée en deux par les scouts U- les scouts de France en douze quinze et quinze dix-sept</P2></reformulation>
+<reformulation><P1>on veut rester</P1> <MR/><P2 rel_lex="mero(on/cette tranche) syno(veut/doit)" rel_pragm="para">cette tranche là doit rester</P2></reformulation>
+<reformulation><NP1>cette coup-</NP1> <MR/><NP2 rel_lex="syno(coup-/rupture)" rel_pragm="para">cette rupture-là</NP2></reformulation>
+<reformulation><NP1>cette pér-</NP1> <MR/><NP2 rel_lex="syno(pér-/tranche d’âge)" rel_pragm="para">cette tranche d'âge</NP2></reformulation>
+<reformulation><PP1>dans leurs fêtes</PP1><MR/> <PP2 rel_lex="syno(fêtes/soirées)" rel_pragm="para">dans leurs soirées</PP2></reformulation>
+<reformulation><PP1>au niveau scout</PP1> <MR type="pres">c'est</MR> <NP2 rel_pragm="def">vraiment un un endroit où ils peuvent vivre entre filles et entre garçons et euh et ils ne le regrettent pas</NP2></reformulation>
+<reformulation><P1>le scoutisme leur crée des liens</P1> <DMD>oui oui oui</DMD> <P2 rel_lex="mero(liens/partagent)" rel_pragm="res">ils partagent quand même des choses fortes entre eux</P2></reformulation>
+<reformulation><NP1>nos cinq enfants</NP1><MR/> <P2 rel_lex="syno(nos/on a) hypero(enfants/filles) hypero(enfants/garçons)" rel_pragm="prec">on a trois filles deux garçons</P2></reformulation>
+<reformulation><PRES1>c'est quand même pas sclérosant</PRES1> <DI>hein</DI> <P2 rel_pragm="explic">ils ne vivent pas qu'entre scouts</P2> <DH>euh</DH> <DA>ça</DA> <P3 rel_pragm="res">ils s'ouvrent sur l'extérieur</P3></reformulation>
+<reformulation><PRES1>c'est un mouvement très ouvert</PRES1> <MRCOO>et</MRCOO> <P2 rel_pragm="explic">qui se tourne précisément vers tous les jeunes</P2></reformulation>
+<reformulation><NP1>ces expériences là</NP1> <MR/><NP2 rel_lex="syno(expériences/moments très forts)" rel_pragm="para">des des des moments très forts</NP2></reformulation>
+<reformulation><P1>on fait</P1> <MR/><P2 rel_pragm="para" rel_lex="syno(fait des activités/a des activités)">on a</P2></reformulation>
+<reformulation><PRES1>c'est quand même</PRES1> <MR/><P2 rel_lex="syno(c’est/ils sont)" modif_morph="flex(est/sont)" rel_pragm="para">ils sont quand même</P2></reformulation>
+<reformulation><VP1>nous parler</VP1> <MR/><VP2 rel_lex="hypero(parler/confier)" rel_pragm="prec">nous confier des choses</VP2></reformulation>
+<reformulation><P1>ils sont quand même nettement plus jeunes que nous</P1> <DMD>c'est clair</DMD> <P2 rel_lex="mero(jeunes/enfants)" rel_pragm="para">ils sont dans l'âge d'être nos enfants</P2></reformulation>
+<reformulation><PP1>d'embau-</PP1> <DA>de</DA> <PP2 rel_pragm="prec"> d'entretiens d'embauches</PP2></reformulation>
+<reformulation><NP1>des moments comme ça</NP1> <DA>des des</DA> <DMD>je sais pas</DMD> <NP2 rel_pragm="def">des anecdotes ou des des moments disant vraiment c'est là que je vis quelque chose</NP2></reformulation>
+<reformulation><NP1>les moments forts qu'on peut avoir au scoutisme</NP1> <MR type="pres">c'est aussi</MR> <DH>euh</DH> <NP2 rel_pragm="def">les moments où on va visiter les camps scouts</NP2> <MRP>c'est-à-dire que</MRP> <DH>euh</DH> <P3 rel_lex="mero(les camps scouts/les plus jeunes) syno(visiter/aller passer une journée)" rel_pragm="para">on s'engage euh l'été à aller passer une journée avec les plus jeunes</P3></reformulation>
+<reformulation><NP1>des des moments</NP1> <DH>euh</DH> <NP2 rel_pragm="prec">des beaux moments</NP2> <MR/><NP3 rel_pragm="prec">des moments où les en- les jeunes font leurs promesses</NP3></reformulation>
+<reformulation><NP1>des grands moments</NP1> <DH>euh</DH> <MRE>type</MRE> <DH>euh</DH> <NP2 rel_lex="mero(moment/visite)" rel_pragm="exempl">visite du parc</NP2></reformulation>
+<reformulation><P1>ils ont eu un temps épouvantable les pauvres</P1> <MR/><P2 rel_lex="hypero(un temps épouventable/une pluie battante)" rel_pragm="prec">ils ont eu une pluie battante</P2></reformulation>
+<reformulation><VP1>a passé</VP1> <MR/><VP2 modif_synt="passif/actif(a passé/est passé)" rel_pragm="prec">est passée</VP2></reformulation>
+<reformulation><AP1>tous réunis</AP1><MR/><AP2 rel_lex="syno(réunis/ensemble)" rel_pragm="para"> tous ensemble</AP2></reformulation>
+<reformulation><P1>quand on est tous réunis tous ensemble</P1> <MR type="pres">c'est</MR> <MR type="pres">ce sont</MR> <NP2 rel_pragm="def">vraiment des moments très forts</NP2></reformulation>
+<reformulation><NP1>la messe</NP1> <MRDENOM>qu'on appelle</MRDENOM> <DH>euh</DH> <DA>le le</DA> <NP2 rel_pragm="denom">le premier mai</NP2></reformulation>
+<reformulation><PP1>par bateau</PP1> <MRCOO>et</MRCOO> <DMD>voilà</DMD> <MRCOO>et</MRCOO> <DH>euh</DH> <PP2 rel_lex="syno(bateau/barque)" rel_pragm="para">avec la barque</PP2></reformulation>
+<reformulation><ADV1>généralement</ADV1> <DMD>enfin</DMD> <ADV2 rel_lex="syno(généralement/en règle générale)" modif_morph="deriv(généralement/générale)" rel_pragm="para">en règle générale</ADV2></reformulation>
+<reformulation><PP1>de pas être présent sur les fêtes le huit le premier mai</PP1> <MRCOR>pardon</MRCOR> <MRCOO>et</MRCOO> <PP2 rel_pragm="prec">de ne pas être présent sur les fêtes le huit</PP2></reformulation>
+<reformulation><NP1>une activité très très particulière</NP1> <MRDENOM>qui s'appelle</MRDENOM> <NP2 rel_lex="inst(activité/la Sioule)" rel_pragm="denom">la Sioule</NP2> <MRP>c'est-à-dire</MRP> <DI>ah</DI> <DH>euh</DH> <DMD>oui ça je dois dire</DMD> tout le monde ne connaît pas <NP3 rel_lex="syno(la Sioule/un ancêtre du rugby)" rel_pragm="def">un ancêtre du rugby</NP3></reformulation>
+<reformulation><NP1>vos enfants</NP1> <DA>ils doiv-</DA> <DMD>enfin</DMD> <NP2 rel_lex="hypero" rel_pragm="exempl">vos filles</NP2> <MRE>par exemple</MRE></reformulation>
+<reformulation><PP1>avec une troupe</PP1> <DA>en généralement</DA> <PP2 rel_pragm="prec">avec la troupe de Boulogne-Billancourt</PP2></reformulation>
+<reformulation><PP1>dans le Morbihan</PP1> <DH>euh</DH> <DMD>enfin</DMD> <PP2 rel_lex="mero(le Morbihan/Bretagne)" rel_pragm="corr_ref">en Bretagne</PP2></reformulation>
+<reformulation><NP1>Jacco</NP1> <MRDENOM>comme elle s'appelle</MRDENOM> <NP2 rel_lex="syno(Jacco/Joyeuse Amicale des Comédiens Comiques de l'Orléanais)" rel_pragm="para">la Joyeuse Amicale des Comédiens Comiques de l'Orléanais</NP2></reformulation>
+<reformulation><NP1>deux critères</NP1> étaient que les associations soient plutôt locales <DMD>enfin</DMD> <NP2 rel_lex="mero(deux/trois)" rel_pragm="prec">trois critères</NP2></reformulation>
+<reformulation><N1>Orléans</N1> <MR/><PP2 rel_lex="mero" rel_pragm="prec">sur Olivet</PP2></reformulation>
+<reformulation><P1>on n'y va pas</P1> <DI>oh</DI> <DMD>non</DMD> <DA>c'est pas</DA> <P2 rel_pragm="explic">c'est pas tellement notre truc ça</P2></reformulation>
+<reformulation><VP1>nous en imposer</VP1> <MR/><VP2 rel_lex="syno(imposer/infliger)" rel_pragm="para">nous en infliger</VP2></reformulation>
+<reformulation><P1>je fais pas mal de tennis</P1> <MRCONC>donc</MRCONC> <P2 rel_lex="mero(tennis/USMO)" rel_pragm="res">je joue à l'USMO</P2></reformulation>
+<reformulation><P1>elle y est beaucoup</P1> <DMD>oui</DMD> <NP2 rel_pragm="prec">cinq heures par semaine</NP2> <MR/><P3 rel_pragm="res">elle y est beaucoup</P3></reformulation>
+<reformulation><P1>j'adore le rugby</P1> <MRCONC>donc</MRCONC> <P2 rel_lex="mero(rugby/match de rugby)" rel_pragm="res">je vais voir de temps en temps le match de rugby</P2></reformulation>
+<reformulation><P1>je suis très fan de rugby</P1> ça fait beaucoup rigoler tout le monde ici <DMD>donc</DMD> <P2> rel_lex="syno(fan/supporter)" rel_pragm="para">je suis quand même un peu supporter l'équipe</P2></reformulation>
+<reformulation><P1>on est quand même b- très actif</P1><MR/> <P2 rel_lex="mero(actif/activités)" rel_pragm="para">on a pas mal d'activités</P2></reformulation>
+<reformulation><NP1>un peu de règles</NP1> <MRP>c'est-à-dire que</MRP> <DH>euh</DH> <ADV2 modif_morph="flex(règles/règle)" rel_pragm="para">en règle générale</ADV2></reformulation>
+<reformulation><NP1>internet et comme tout le reste</NP1> <MR type="pres">c'est</MR> <NP2 rel_lex="inst(Internet/outil)" rel_pragm="def">un effectivement un outil et euh ça peut être un très bon outil parce qu'on peut avoir très bonnes choses mais euh à condition de s'en servir comme un outil quoi de pas euh le la lai- laisser cet cet outil là prendre une place inconsidérée dans la famille</NP2></reformulation>
+<reformulation><VP1>élever ses enfants</VP1> <MR type="pres">c'est</MR> <VP2 rel_pragm="def">les mettre en garde de pas mal de choses et euh et aussi leur interdire et leur permettre des choses</VP2></reformulation>
+<reformulation><VP1>leur interdire et leur permettre des choses</VP1> <DMD>donc</DMD> <DH>euh</DH> <DI>bah</DI> <P2 modif_morph="flex(interdire, permettre/interdit,permet)" rel_pragm="para">on interdit et on permet</P2></reformulation>
+<reformulation><VP1>j'aime lire</VP1> <MRCONC>donc</MRCONC> <DH>euh</DH> <VP2 modif_morph="flex(lire/lit)" rel_pragm="res">je lis beaucoup</VP2></reformulation>
+<reformulation><P1>tu devrais lire ça</P1> <MR/><P2 rel_pragm="explic">c'est pas mal</P2> <MR/><P3 rel_pragm="para">je pense que ça te plairait</P3></reformulation>
+<reformulation><NP1>quatre cinq six semaines</NP1> <MR/><NP2 rel_lex="syno(quatre cinq six semaines/cinq semaines à peu près" rel_pragm="para">cinq semaines à peu près</NP2></reformulation>
+<reformulation><P1>il me faut du temps</P1> <MR/><P2 rel_pragm="explic">faut que je le retourne dans tous les sens</P2></reformulation>
+<reformulation><P1>on a été abonné à la presse</P1> <DA>é-</DA> <P2 rel_lex="inst(la presse/le Point)" rel_pragm="denom">on a été abonné à des  au Point</P2></reformulation>
+<reformulation><AP1>pas toujours euh avérées</AP1><MR/> <AP2 rel_lex="syno(avérées/vérifiées)" rel_pragm="para">pas toujours vérifiée</AP2></reformulation>
+<reformulation><P1>je suis pas très presse non pas trop non non</P1> <DA>je</DA> <DMD>non non</DMD> <DA>je</DA> <VP2 rel_lex="mero(presse/lis)" rel_pragm="para">je lis pas</VP2></reformulation>
+<reformulation><NP1>des mots</NP1> <DH>euh</DH> <NP2 rel_lex="syno(mots/lexique)" rel_pragm="para">un lexique</NP2></reformulation>
+<reformulation><PP1>d'une région</PP1> <DH>euh</DH> <PP2 rel_pragm="prec">d'une autre région</PP2></reformulation>
+<reformulation><P1>j'ai un fils dysorthographique</P1> <MRCONC>donc</MRCONC> <P2 modif_morph="comp(dysorthographique/ orthographe)" rel_pragm="res">l'orthographe a été un un pierre d'achoppement pour lui</P2></reformulation>
+<reformulation><VP1>faire évoluer certaines choses</VP1> <DMD>pourquoi pas</DMD> <VP2 rel_lex="mero(faire évoluer certaines choses/ pas être psycho-rigide" rel_pragm="para">faut pas être non plus psycho-rigide</VP2></reformulation>
+<reformulation><PRES1>on a pas mal</PRES1> <MR/><PRES2 rel_lex="syno(on a/y a)" rel_pragm="para">y a pas mal</PRES2></reformulation>
+<reformulation><P1>je parle l'italien je parle le français j'apprend le russe  euh je parle l'anglais je baragouine un peu l'allemand</P1> <MRCONC>donc</MRCONC> <P2 rel_pragm="res">j'aime beaucoup les langues</P2></reformulation>
+<reformulation><PRES1>c'est un facteur d'intégration</PRES1> <DMD>enfin</DMD> <MRP>je veux dire</MRP> <P2 rel_pragm="justif">ça reste quand même un sujet très à la mode</P2></reformulation>
+<reformulation><PRES1>c'est un facteur d'intégration</PRES1> enfin je veux dire ça reste quand même un sujet très à la mode <DH>euh</DH> <P2 modif_morph="deriv(intégration/s’intégrer)" rel_pragm="explic" rel_lex="mero(facteur d’intégration/s’intégrer)">on on ne peut pas euh s'intégrer dans une culture si on n'en parle pas la langue</P2></reformulation>
+<reformulation><NP1>une ouverture sur les autres</NP1> <DH>euh</DH> <NP2 rel_lex="syno(ouverture/intérêt)" rel_pragm="para">un intérêt pour les autres</NP2></reformulation>
+<reformulation><NP1>une attention</NP1> <MR/><NP2 rel_lex="syno(attention/ouverture)" rel_pragm="para">une ouverture</NP2></reformulation>
+<reformulation><P1>on ne peut pas ne pas avoir un regard vers les autres</P1> <DMD>il est bien évident qu'</DMD><P2 rel_lex="syno(avoir un regarde vers les autres/être tourné vers les autres)" rel_pragm="para">on est uniquement tourné vers les autres</P2></reformulation>
+<reformulation><NP1>le même dieu</NP1> <MR/><NP2 rel_lex="syno(même/unique)" rel_pragm="para">un dieu unique</NP2>é</reformulation>
+<reformulation><P1>je crois que tout ça est est à redescendre un échelon beaucoup plus humain</P1>  <MRP>c'est-à-dire</MRP> que <PRES2 rel_lex="mero(humain/homme)" modif_morph="deriv(humain/homme)" rel_pragm="explic">c'est les les hommes qui se battent entre eux</PRES2></reformulation>
+<reformulation><NP1>le communitarisme</NP1> <MR type="pres">est</MR> <NP2 rel_pragm="def">quelque chose de de très dangeureux</NP2></reformulation>
+<reformulation><PRES1>c'est un réel danger</PRES1><MR/> <PRES2 rel_lex="mero(danger/peur)" rel_pragm="para">c'est quelque chose qui fait très peur</PRES2></reformulation>
+<reformulation><NP1>le Coran</NP1> <MR type="pres">est</MR> <NP2 rel_lex="inst(le Coran/un livre)" rel_pragm="def">un livre magnifique qui qui prône l'amour qui prône pas euh la guerre et qui prône pas la violence</NP2></reformulation>
+<reformulation><PP1>à des gens</PP1> <PP2 rel_lex="hypero(gens/hjeunes de banlieues)" rel_pragm="exempl">à des jeunes de banlieues</PP2> <MRE>par exemple</MRE></reformulation>
+<reformulation><PRES1>y a y a quarante ans quand les Anglais sont venus euh faire leur</PRES1> <DH>euh</DH> <DMD>vous savez qui qu'</DMD><PRES2 modif_morph="flex(faire/a été faite)" modif_synt="passif(faire/a été faite)" rel_pragm="para">il y a eu une une enquête qui a été faite par les Anglais y a quarante ans</PRES2></reformulation>
+<reformulation><NP1>votre propre façon de procéder</NP1> <DA>v-</DA> <NP2 rel_lex="mero(procéder/recette)" rel_pragm="para">votre propre recette de l'omelette</NP2></reformulation>
+</body>

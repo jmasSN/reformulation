@@ -1,0 +1,113 @@
+<body>
+<reformulation><P1>tout marche</P1> <MR/><P2 modif_morph="flex(marche/marcher)" rel_pragm="para">tout a l'air de marcher</P2></reformulation>
+<reformulation><P1>qu'est-ce qui vous amené à vivre à Orléans ?</P1><MR/> <P2 rel_lex="syno(amené/arrivée) inst(Orléans/ici)" rel_pragm="para">comment est-ce que vous êtes arrivée ici ?</P2></reformulation>
+<reformulation><PP1>en Normandie</PP1><MR/> <PP2 rel_lex="hypero(Normandie/Basse Normandie)" rel_pragm="prec">en Basse Normandie</PP2></reformulation>
+<reformulation><PP1>en Normandie</PP1> <MR/> <PP2 rel_lex="mero(Normandie/Basse Normandie)" rel_pragm="prec">en Basse Normandie</PP2></reformulation>
+<reformulation><PP1>en pleine campagne</PP1> <MR/><PP2 rel_lex="hypero(campagne/village)" rel_pragm="prec">dans un tout petit village</PP2></reformulation>
+<reformulation><P1>quels sont</P1><MR/> <P2 rel_pragm="para">qu'est-ce que vous voyez comme</P2></reformulation>
+<reformulation><P1>tout le monde se se connaît</P1> <DH>euh</DH> <P2 rel_lex="hypero(tout le monde/vos cliens vos voisins)" rel_pragm="exempl">vous vous promenez ben  vous retrouvez vos clients vos voisins</P2></reformulation>
+<reformulation><P1>il est joli</P1> <MR/><P2 rel_lex="syno(joli/refait)" rel_pragm="explic">il a été tout refait</P2></reformulation>
+<reformulation><NP1>des occasions qui vous amènent à sortir du quartier ?</NP1><MR/> <PP2 rel_lex="hypero(occasions/faire certaines courses)" rel_pragm="exempl">pour faire cent- certaines courses</PP2></reformulation>
+<reformulation><P1>ce soir on va au cinéma</P1> <DH>euh</DH> <P2 rel_lex="syno(ce soir/quand je ferme) syno(on/je)" rel_pragm="prec">quand je ferme je vais au cinéma</P2></reformulation>
+<reformulation><PRES1>c'était un grand changement pour elle</PRES1> <MR/><P2 rel_pragm="explic">plus de car à prendre pour aller euh au lycée le matin euh là tout était sur place plus besoin de manger à la cantine euh</P2></reformulation>
+<reformulation><ADV1>après</ADV1> <DH>euh</DH> <DMD>bon</DMD> <ADV2 rel_lex="inst(après/au bout d’un mois)" rel_pragm="prec">au bout d'un mois</ADV2></reformulation>
+<reformulation><ADVP1>complètement en ville</ADVP1><MR/> <ADVP2 rel_lex="mero(ville/voiture)" rel_pragm="res">plus besoin de prendre un voiture faire vingt kilomètres euh</ADVP2></reformulation>
+<reformulation><P1>en quoi consiste exactement votre métier ?</P1> <DMD>en fait</DMD> <DMD>ce que j'aimerais savoir</DMD> <MR type="pres">c'est</MR> <DH>euh</DH> <DI>bah</DI> <DA>quels sont t- nous on vous voit euh là dans dans votre commerce</DA> <DMD>mais</DMD> <P2 rel_lex="syno(en quoi consiste/quels sont)" rel_pragm="prec">quels sont tous les aspects en fait euh c- c- cachés ouais de  de de votre euh de votre métier</P2></reformulation>
+<reformulation><NP1>tout ce qu'on trouve pas dans les dans les alentours</NP1> <MR/><NP2 rel_lex="hypero(tout/tous les fromages)" rel_pragm="exempl">tous les fromages de montagne euh</NP2></reformulation>
+<reformulation><P1>tout est là</P1><MR/> <P2 rel_lex="mero(là/ici et en dessous)" rel_pragm="prec">tout est ici et en dessous</P2></reformulation>
+<reformulation><P1>c'est mieux de traiter directement avec les fabricants</P1> <MR/><P2 rel_pragm="explic">vous avez vous avez exactement ce que vous voulez</P2></reformulation>
+<reformulation><PRES1>c'est facile à reconnaître</PRES1><MR/> <PRES2 rel_lex="mero(reconnaître/couleurs)" rel_lex2="syno(c'est/y a)" rel_pragm="explic">y a des couleurs sur les étiquettes</PRES2></reformulation>
+<reformulation><NP1>les fermiers</NP1> <MR type="pres">c'est</MR> <NP2 rel_lex="mero(fermiers/lait)" modif_morph="deriv(fermiers/ferme)" rel_pragm="def">le lait d'une seule ferme</NP2></reformulation>
+<reformulation><P1>le laitier c'est euh le mélange de plusieurs laits</P1> <MR/><P2 modif_morph="deriv(laitier…laits/laiterie)" rel_lex="mero(laitier…laits/laiterie)" rel_pragm="explic">on dépose en laiterie et après c'est une coopérative qui fait</P2></reformulation>
+<reformulation><NP1>le fermier lui</NP1> <MR type="pres">c'est</MR> <NP2 rel_lex="mero(fermier/lait)" modif_morph="deriv(fermier/ferme)" rel_pragm="def">un seul lait d'une seule ferme</NP2></reformulation>
+<reformulation><P1>j'ai pris une employée à mi-temps</P1> <MRCONC>et voilà</MRCONC> <P2 rel_lex="mero(employée/travaille) mero(je/on)" rel_pragm="res">on travaille toutes les deux</P2></reformulation>
+<reformulation><P1>je crois qu'on se plaît tous les trois</P1> <DMD>enfin</DMD> <P2 rel_pragm="explic">j'ai jamais entendu euh un de nous trois de se dire ah il faut retourner en campagne</P2></reformulation>
+<reformulation><P1>comment bah comment se passe une journée type</P1> <DMD>en fait ?</DMD> <DA>comment s-</DA><P2 rel_lex="syno(se passe/se déroule)" rel_pragm="para">comment se déroule une euh un journée</P2></reformulation>
+<reformulation><P1>faut faire tout le nettoyage</P1> <DA>où</DA> <DH>euh</DH> <P2 modif_morph="deriv(nettoyage/nettoie)" rel_pragm="exempl">je vide toute la vitrine et je nettoie tout et je refais euh</P2></reformulation>
+<reformulation><NP1>une palette qui a été livrée</NP1><MR/> <NP2 rel_pragm="prec">une palette qui vient de Normandie</NP2> <MR/><NP3 rel_lex="mero(une palette/tous les produits) mero(de Normandie/en direct)" rel_pragm="prec">tous les produits bah genre la crème le beurre euh en direct</NP3></reformulation>
+<reformulation><NP1>tous les produits</NP1> <DI>bah</DI> <MRE>genre</MRE> <NP2 rel_lex="hypero(produit/la crème le beurre)" rel_pragm="exempl">la crème le beurre</NP2></reformulation>
+<reformulation><P1>on range tout dans la cave tout par date par catégorie</P1><MR/> <PRES2 modif_morph="deriv(range/rangées)" rel_lex="hypero(tout/chèvres…brébis)" rel_pragm="exempl">y a euh des rangées pour les chèvres des rangées pour les brebis des rangées pour euh tout ça</PRES2></reformulation>
+<reformulation><P1>on refait tout</P1><MR/> <P2 rel_lex="hypero(tout/toute la mise en place) syno(refait/prépare)" modif_morph="flex(tout/toute)" rel_pragm="exempl">on prépare toute la mise en place on remonte tout ce qu'il y a à remonter</P2> <MR/><P3 rel_pragm="res">on prépare t- toute la mise en place pour le week-end</P3></reformulation>
+<reformulation><PP1>pour éviter d'en remonter un minimum</PP1> <DH>euh</DH> <DA>pour être vraiment</DA> <DH>euh</DH> <PP2 rel_pragm="justif">pour s'occuper essentiellement du client</PP2></reformulation>
+<reformulation><P1>vous devez avoir une euh une image de d'Orléans à travers ses habitants euh constituée par votre clientèle</P1> <MR/><P2 rel_lex="syno(avoir une image/avoir comme image)" modif_morph="flex(avoir/avez)" rel_pragm="para">qu'e- qu'est-ce que vous avez comme comme image en fait de de</P2></reformulation>
+<reformulation><VP1>je sais pas</VP1> <DA>je</DA> <VP2 rel_lex="syno(sais/crois)" rel_pragm="para">je crois pas p-</VP2></reformulation>
+<reformulation><NP1>des personnages un peu particuliers</NP1> <MR/><NP2 rel_lex="syno(personnages/figures) syno(particuliers/emblématiques)" rel_pragm="para">des figures un peu emblématiques</NP2> <DA>des</DA> <DH>euh</DH> <NP3 rel_lex="syno(figures/personnages)" rel_pragm="para">des personnages comme ça qui font partie du décor</NP3></reformulation>
+<reformulation><PRES1>c'est homogène</PRES1> <DI>oh</DI> <DMD>non</DMD> <DI>oh</DI> <DA>s-</DA> <PRES2 rel_lex="anto(homogène/varié)" rel_pragm="oppos">non c'est varié quand même</PRES2> <DMD>ouais</DMD> <MR type="pres">c'est</MR> <DMD>ouais</DMD> <PRES3 rel_pragm="para">c'est très varié</PRES3></reformulation>
+<reformulation><NP1>le week-end</NP1> <DH>euh</DH> <PP2 rel_lex="hypero(week-end/vendredi…dimanche)" rel_pragm="para">du vendredi au dimanche matin</PP2></reformulation>
+<reformulation><PRES1>c'est beaucoup plus familial</PRES1> <DMD>ouais</DMD> <PRES2 rel_lex="mero(familial/enfants) syno(c’est/y a)" rel_pragm="para">y a beaucoup plus d'enfants</PRES2></reformulation>
+<reformulation><P1>je leur fais la remarque quand ils changent de place</P1> <MR/><P2 rel_lex="syno(fais la remarque/dis)" modif_morph="flex(changent/avez changé)" rel_pragm="para">je dis vous avez changé de place</P2></reformulation>
+<reformulation><VP1>vous aviez envie</VP1> <DMD>justement</DMD> <DA>parce que une une une</DA> des choses que <VP2 rel_lex="syno(aviez envie/aimiez)" rel_pragm="para">vous aimiez</VP2></reformulation>
+<reformulation><P1>ils sont froids</P1> <DH>euh</DH> <DA>pas du tout</DA> <DI>bah</DI> <DA>je</DA> <DI>bah</DI> <NP2 rel_pragm="prec">des gens un peu froids qui s'ouvrent pas aux autres</NP2></reformulation>
+<reformulation><PP1>en Normandie</PP1> <MR/><PP2 rel_lex="syno(Normandie/campagne)" rel_pragm="para">en campagne</PP2></reformulation>
+<reformulation><N1>campagne</N1> <MR type="pres">c'est</MR> <A2 rel_pragm="def">très fermé</A2></reformulation>
+<reformulation><P1>les gens sont beaucoup plus ouverts y a des tas de conversations</P1><MR/> <P2 rel_lex="mero(conversations/parler)" rel_pragm="res">vous pouvez parler de de tout avec eux</P2></reformulation>
+<reformulation><NP1>la la liberté</NP1> <DH>euh</DH> <DMD>oui</DMD> <DA>ne</DA> <VP2 rel_pragm="def">ne pas faire attention et être naturelle</VP2></reformulation>
+<reformulation><A1>très très belle</A1> <MR type="pres">c'est</MR> <A2 rel_pragm="prec">vallonné</A2></reformulation>
+<reformulation><PRES1>c'est vert ici</PRES1> <DI>ben</DI> <PRES2 rel_lex="syno(vert/pas pareil)" rel_pragm="explic">c'est pas pareil ici</PRES2> <MR/><PRES3 rel_lex="syno(pas pareil/plat)" rel_pragm="explic">c'est plat</PRES3> <MR/><A4 rel_pragm="prec">complètement plat</A4><MR/> <NP5 rel_lex="anto(plat/relief)" rel_pragm="para">aucun relief</NP5></reformulation>
+<reformulation><PRES1>c'est pas tout à fait repos</PRES1> <MR/> <PRES2 rel_lex="anto(repos/beaucoup papiers)" rel_pragm="explic">c'est beaucoup papiers</PRES2></reformulation>
+<reformulation><P1>vous vous en occupez toute seule</P1> <DI>hein</DI> <PRES2 rel_lex="syno(occupez/gérez)" rel_pragm="para">c'est c'est c'est vous qui gérez ça hm</PRES2></reformulation>
+<reformulation><NP1>mon chauffeur du jeudi matin</NP1> <MR/><NP2 rel_lex="inst(chauffeur du jeudi matin/mari)" rel_pragm="denom">mon mari</NP2></reformulation>
+<reformulation><NP1>vos loisirs</NP1> <DH>euh</DH> <NP2 rel_pragm="prec">pratiques euh de loisirs</NP2></reformulation>
+<reformulation><P1>ça va être le cinéma</P1> <MR/><VP2 rel_pragm="para">aller se faire une cinéma</VP2></reformulation>
+<reformulation><PP1>dans les rues</PP1> <DH>euh</DH> <PP2 rel_lex="mero(rues/ville)" rel_pragm="para">en ville</PP2></reformulation>
+<reformulation><PRES1>y a des salles quand même assez d- assez différentes</PRES1><MR/> <PRES2 modif_morph="flex(salles/salle)" rel_pragm="exempl">y a la la grande salle du bord de Loire les petites salles plus vers le</PRES2></reformulation>
+<reformulation><NP1>cet aspect-là</NP1> <DH>euh</DH> <DMD>enfin</DMD> <NP2 rel_lex="syno(aspect/coin)" rel_pragm="para">ce coin-là</NP2></reformulation>
+<reformulation><P1>j'ai pas vraiment vu avant</P1> <MR/><P2 rel_pragm="para">je sais pas comment c'était</P2></reformulation>
+<reformulation><PRES1>c'est une belle ville</PRES1> <MRCOO>et</MRCOO> <PRES2 rel_lex2="syno(belle/superbe)" rel_lex="mero(ville/architecture)" rel_pragm="explic">y a une architecture qui est superbe</PRES2></reformulation>
+<reformulation><P1>tout en pavés là</P1> <MR/><PRES2 rel_pragm="res">c'est beau ça glisse mais c'est beau</PRES2></reformulation>
+<reformulation><NP1>tout le centre là</NP1><MR/> <NP2 rel_lex="inst(tout le centre/place du Martroi jusqu’ici)" rel_pragm="denom">place du Martroi jusqu'ici</NP2></reformulation>
+<reformulation><PRES1>c'est bien le tram</PRES1><MR/> <PRES2 rel_lex="syno(bien/pratique)" rel_pragm="explic">c'est pratique très très pratique</PRES2></reformulation>
+<reformulation><P1>je trouve ça très bien ouais quand vous êtes dedans</P1><MR/> <P2 rel_lex="syno(bien/agréable) syno(je trouve ça/c’est) anto(dedans/extérieur)" rel_pragm="explic">c'est agréable vous voyez tout ce qu'il y a à l'extérieur</P2></reformulation>
+<reformulation><P1>est-ce que vous vous en servez</P1> <MR/><P2 rel_lex="syno(vous en servez/vous faites)" rel_pragm="para">vous faites du vélo</P2></reformulation>
+<reformulation><NP1>les parcs</NP1> <DH>euh</DH> <MRE>par exemple</MRE> <MRE>comme</MRE> <NP2 rel_lex="inst(les parcs/le parc floral, le jardin des plantes)" rel_pragm="exempl">le parc floral ou le pa- le jardin des plantes</NP2></reformulation>
+<reformulation><PP1>en face de la place là</PP1> <MR/><PP2 rel_lex="inst(la place/la place Charles de Gaulle)" rel_pragm="denom">dans la place Charles de Gaulle</PP2></reformulation>
+<reformulation><PRES1>c'est quand même joli</PRES1><MR/> <PRES2 rel_lex="syno(joli/belle)" rel_pragm="para">c'est quand même une belle fête</PRES2> <MR/><PRES3 rel_lex="syno(belle/bien)" rel_pragm="explic">c'est bien organisé</PRES3></reformulation>
+<reformulation><P1>j'ai la techno moi</P1> <DA>tous les z-</DA> <P2 rel_pragm="prec"> tous les ans j'ai la techno en bas de chez moi</P2></reformulation>
+<reformulation><PRES1>c'est pas c'est pas une corvée</PRES1> <DI>hein</DI> quand il vient on on va voir le défilé avec eux non <DA>c-</DA> <PRES2 rel_lex="anto(corvée/plaisir)" rel_pragm="para">c'est un plaisir aussi</PRES2></reformulation>
+<reformulation><P1>à ce moment-là euh notre clientèle habituelle elle s'en va</P1> <MR/><P2 rel_lex="syno(elle s’en va/on la voit plus du tout) syno(à ce moment-là/pendant toutes ces manifestations)" rel_pragm="res">on la voit plus du tout pendant toutes ces manifestations</P2> <MR/><VP3 rel_lex="syno(on la voit plus du tout/elle déserte)" rel_pragm="res">elle déserte</VP3></reformulation>
+<reformulation><V1>ronchonne</V1> <MR/><VP2 modif_morph="flex(rochonne/ronchonnent)" rel_pragm="corr_ling">ils ronchonnent</VP2></reformulation>
+<reformulation><NP1>tous les touristes</NP1> <MR/><NP2 rel_lex="mero(touristes/clientèle)" rel_pragm="para">une nouvelle clientèle qui vient</NP2></reformulation>
+<reformulation><PRES1>y a le festival de Loire</PRES1> <MR/><PRES2 rel_pragm="para">y a le festival de jazz</PRES2></reformulation>
+<reformulation><PP1>de moindre euh ampleur</PP1> <MR/><PP2 rel_lex="syno(ampleur/envergure)" rel_pragm="para">de moindre envergure</PP2></reformulation>
+<reformulation><PRES1>y a plus les euh ceux qui font les marchés</PRES1> <MR/><PRES2 modif_morph="flex(font/faisaient)" modif_morph2="flex(a/avait)" rel_lex="anto(y a plus/y avait)" rel_pragm="explic">avant y avait ceux qui faisaient les marchés qui venaient</PRES2></reformulation>
+<reformulation><PRES1>il y avait</PRES1> <PRES2 modif_morph="flex(avait/a)" rel_pragm="prec">il y a</PRES2></reformulation>
+<reformulation><PP1>en différents quartiers</PP1> <PP2 rel_lex="syno(quartiers/zones)" rel_pragm="para">en différentes zones</PP2></reformulation>
+<reformulation><P1>c'est bien quand vous voyez euh tous les parisiens qui descendent le week-end</P1> <PRES2 rel_lex="mero(parisiens descendent/Orléans)" rel_pragm="res">c'est bon pour Orléans</PRES2></reformulation>
+<reformulation><P1>vous avez commencé à à lire le journal euh local ou ou pas du tout</P1> <DMD>en fait</DMD> <P2 rel_lex="hypo(journal/presse)" modif_morph="flex(local/locale)" rel_pragm="para">est-ce que vous vous intéressez à la presse locale ou ?</P2></reformulation>
+<reformulation><NP1>les îles</NP1> <MR/><P2 rel_pragm="explic">je suis une amoureuse des îles</P2></reformulation>
+<reformulation><NP1>les les î- du dépaysement</NP1> <MR/><NP2 rel_pragm="oppos">pas forcément les îles du dépaysement</NP2></reformulation>
+<reformulation><NP1>Marrakech</NP1> <MR type="pres">c'est</MR> <NP2 rel_lex="inst(Marrakech/île)" rel_pragm="def">pas une île</NP2></reformulation>
+<reformulation><NP1>la mer</NP1> <NP2 rel_pragm="para">l'océan</NP2></reformulation>
+<reformulation><P1>j'ai besoin de voir l'eau</P1> <MR/><P2 rel_lex="mero(l'eau/patauger)" rel_pragm="explic">j'ai besoin de patauger</P2></reformulation>
+<reformulation><NP1>deux fois par an on ferme</NP1> <NP2 rel_lex="hypero(an/hiver…été)" rel_pragm="prec">une semaine en hiver et trois semaine en été</NP2></reformulation>
+<reformulation><VP1>on part on part</VP1> <VP2 rel_lex="syno(part/va)" rel_pragm="para">on va</VP2></reformulation>
+<reformulation><PP1>d'avoir</PP1> <PP2 rel_lex="syno(avoir/voir)" rel_pragm="para">de voir</PP2></reformulation>
+<reformulation><P1>il vous fait faire du rameur euh du vélo euh  ils nous emmène faire du footing</P1> <DH>euh</DH> <MRCONC>voilà</MRCONC> <P2 rel_lex="hypo(rameur…vélo…footing/sport)" rel_pragm="res">pendant une heure il vous fait faire du sport</P2></reformulation>
+<reformulation><PP1>avec euh ce qu'il faut</PP1> <DH>euh</DH> <NP2 rel_pragm="exempl">une douche euh sur place</NP2></reformulation>
+<reformulation><NP1>votre empl-</NP1> <DA>la la</DA> <NP2 rel_lex="syno(empl-/la jeune femme qui vous aide)" rel_pragm="para">la jeune femme qui vous aide</NP2></reformulation>
+<reformulation><PRES1>c'est un mi-temps</PRES1> <MRCOO>et</MRCOO> <MR type="pres">c'est</MR>  <P2 rel_lex="mero(mi-temps/heures)" rel_pragm="prec">elle vient aux heures où euh où y a le plus de monde</P2></reformulation>
+<reformulation><PRES1>y a quelque chose</PRES1> <MR/><P2 rel_pragm="para">je je remarque qu'il y a quelque chose</P2></reformulation>
+<reformulation><P1>est-ce qu'on entend des langues différentes ?</P1> <MR/><P2 rel_lex="mero(on/vous) syno(des/beaucoup de)" rel_pragm="para">est-ce que vous entendez beaucoup de langues différentes</P2></reformulation>
+<reformulation><NP1>des allemands</NP1><MR/> <PRES2 rel_pragm="prec">y a beaucoup d'allemands</PRES2></reformulation>
+<reformulation><VP1>on va partir</VP1> <MR/><VP2 rel_lex="syno(partir/déménage)" rel_pragm="para">on déménage euh</VP2></reformulation>
+<reformulation><P1>on s'accroche aux autres</P1> <DA>on se prop-</DA> <P2 rel_pragm="para">on se crée ses propres euh familles</P2></reformulation>
+<reformulation><NP1>ses propres euh familles</NP1> <MR/><NP2 rel_pragm="prec">des familles d'amis</NP2></reformulation>
+<reformulation><VP1>on parle</VP1><MR/> <P2 rel_lex="syno(parle/dit) inst(parle/dit bonjour ca va)" rel_pragm="exempl">on dit bonjour ça va euh</P2></reformulation>
+<reformulation><PRES1>c'est une des raison pour lesquelles vous avez fait ce pas euh immédiatement ouais de savoir que vous alliez être en contact euh avec les gens en permanence</PRES1><MR/> <PRES2 rel_lex="mero(une des/première)" rel_pragm="res">c'est la première raison hm</PRES2> <DMD>voilà</DMD></reformulation>
+<reformulation><VP1>faire du porte à porte</VP1> <DH>euh</DH> <VP2 rel_pragm="denom">être commercial</VP2></reformulation>
+<reformulation><N1>boucher</N1> <MR type="pres">c'est</MR> <NP2 rel_pragm="def" rel_lex="hypo(boucher/métier)">un métier hein</NP2></reformulation>
+<reformulation><P1>est-ce que on on parlait des langues que que vous entendez</P1><MR/><P2 modif_morph="flex(parlait/parlez)" rel_pragm="para"> est-ce que vous vous parlez d'autres langues</P2></reformulation>
+<reformulation><P1>j'ai été longtemps c'était la tomme de Lozère</P1><MR/> <P2 rel_pragm="res">tous les jours fallait que j'en mange</P2></reformulation>
+<reformulation><P1>il rentre dans la période où je le préfère</P1><MR/> <P2 rel_pragm="explic">là où il va être bien gonflé et très crémeux</P2></reformulation>
+<reformulation><VP1>on fait beaucoup goûter aussi</VP1><MR/> <VP2 modif_morph="deriv(goûter/dégustation)" rel_lex="syno(goûter/dégustation)" rel_pragm="para">on fait beaucoup de dégustation</VP2></reformulation>
+<reformulation><NP1>des conseils être reconnu</NP1> <DH>euh</DH> <DMD>oui</DMD> <NP2 rel_lex="hypo(conseils/choses)" rel_pragm="prec">toutes ces petites choses-là quoi</NP2></reformulation>
+<reformulation><P1>il faut pas stresser son client</P1><MR/> <P2 rel_lex="syno(stresser/énervé) anto(stresser/bien)" rel_pragm="explic">il faut qu'il qu'il reparte bien faut pas qu'il reparte énervé</P2></reformulation>
+<reformulation><P1>il faut qu'il qu'il reparte bien</P1><MR/> <P2 rel_lex="anto(bien/énervé)" rel_pragm="para">faut pas qu'il reparte énervé</P2></reformulation>
+<reformulation><P1>le voir arriver le vendredi vendredi souvent les gens sont stressés c'est la fin c'est la fin de la semaine on fait vite les courses euh  on a du monde tout le week-end machin ouais on se pose on choisit tranquillement et quand ils repartent euh ah bon bah ça va mieux</P1> <DI>ah</DI> <P2 rel_pragm="res">ça j'adore</P2></reformulation>
+<reformulation><PRES1>c'est la fin de la semaine</PRES1> <MR/><P2 rel_pragm="res">ils sont épuisés par leur semaine</P2></reformulation>
+<reformulation><P1>ça lui plaisait pas du tout pas le droit</P1> <MRCOO>mais</MRCOO> <P2 rel_lex="hypero(ça/la fac) mero(le droit/la fac)" rel_pragm="para">la fac lui plaisait pas du tout</P2></reformulation>
+<reformulation><VP1>vous n'aimez pas</VP1> <MRCOO>et</MRCOO> <VP2 rel_lex="syno(aimez/plaisez)" rel_pragm="para">vous ne vous plaisez pas</VP2></reformulation>
+<reformulation><NP1>une occasion</NP1><MR/> <NP2 rel_lex="syno(occasion/hasard)" rel_pragm="para">le hasard</NP2></reformulation>
+<reformulation><NP1>les occasions</NP1><MR/> <NP2 rel_lex="syno(occasions/hasard)" rel_pragm="para">le hasard</NP2> <MR/><NP3 rel_lex="mero(hasard/rencontres)" rel_pragm="prec">les rencontres</NP3></reformulation>
+<reformulation><PRES1>y a y a du mouvement</PRES1> <MR/><P2 rel_pragm="res">les lumières se sont se sont rallumées</P2></reformulation>
+</body>
