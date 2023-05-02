@@ -7,14 +7,14 @@ import matplotlib.pyplot as plt
 tree = ET.parse('corpus_final.xml')
 root = tree.getroot()
 
-# Nombres d'exemplifications total
+"""# Nombres d'exemplifications total
 exempl,reste=0,0
 for child in root:
     for segment in child:
         if "rel_pragm" in segment.attrib and segment.attrib["rel_pragm"] == 'exempl':
             exempl+=1
-            text = ''.join(child.itertext())
-            print(text)
+            #text = ''.join(child.itertext())
+            #print(text)
     reste+=1
 reste=reste-exempl
 
@@ -37,19 +37,26 @@ for child in root:
         for segment in child:
             if "rel_pragm" in segment.attrib and segment.attrib["rel_pragm"] == 'exempl':
                 ecrit+=1
-    if child.attrib['mod']=='oral':
+    else:
         for segment in child:
             if "rel_pragm" in segment.attrib and segment.attrib["rel_pragm"] == 'exempl':
-                oral+=1
+                oral+=1"""
 
+# MR d'exemplification (absent ou présents disfluences...) et repartition et nature
 
-refo=[]
+nb_ecrit_MRE,nb_ecrit_sans_MRE=0,0
+nb_oral_MRE,nb_oral_sans_MRE=0,0
+for reformulation in root.findall('reformulation'):
+    mre_elem = reformulation.find('MRE')
+    if mre_elem is not None and mre_elem.text is not None:
+        if reformulation.attrib['mod']=="ecrit":
+            mre = mre_elem.text
+            print(mre)
+            nb_ecrit_MRE+=1
+        else:
+            nb_oral_MRE+=1
+    else:
+        print("MRE element not found or has no text content")
 
-print(f"Il y a {ecrit} exemplifications dans les corpus écrit contre {oral} reformulation à l'oral.")
+print(nb_oral_MRE,nb_ecrit_MRE)
 
-refo.append(ecrit)
-refo.append(oral)
-mylabel = ["Ecrit", "Oral"]
-
-plt.pie(y, labels = mylabel, autopct = '%1.1f%%')
-plt.show() 
