@@ -779,7 +779,7 @@
 <reformulation mod="ecrit" corpus="patient"><P1>Je suis grand</P1><MR type="punct_c">,</MR><P2 rel_pragm="prec">je fais 6 pied</P2></reformulation>
 <reformulation mod="ecrit" corpus="patient"><PP1>sur le coté externe de la hanche</PP1> , <PP2 rel_pragm="prec">au niveau du pli de lh ' aine et sur la face avant de la cuisse et ca me descend jusqu ' a l ' arrière du mollet</PP2></reformulation>
 <reformulation mod="ecrit" corpus="patient"><PP1>a ton médecin</PP1><MRCONC>voire mieux</MRCONC><PP2 rel_lex="hypero(médecin/rhumato)" rel_pragm="prec">a ton rhumato</PP2></reformulation>
-<reformulation mod="ecrit" corpus="patient"><PP1>de vivre normalement</PP1>MR/><PP2 rel_pragm="exempl">de faire son menage comme tout le monde rien que de faire la vaisselle</PP2></reformulation>
+<reformulation mod="ecrit" corpus="patient"><PP1>de vivre normalement</PP1><MR/><PP2 rel_pragm="exempl">de faire son menage comme tout le monde rien que de faire la vaisselle</PP2></reformulation>
 <reformulation mod="ecrit" corpus="patient"><P1>je marche avec des cannes mes jambes me lachent et je me retrouve sur le sol</P1><MR/><P2 rel_pragm="res">ça ne peux plus duré</P2></reformulation>
 <reformulation mod="ecrit" corpus="patient"><P1>la douleur me fait comme une pointe</P1><MR/><P2 rel_lex="mero(une point/m'appuie)" rel_pragm="para">sa m ' appuie</P2></reformulation>
 <reformulation mod="ecrit" corpus="patient"><P1>sa me le fait pas tout le temps</P1><MR/><P2 rel_pragm="prec">cette apres midi sa etait mais en fin de journée sa ma repris</P2></reformulation>

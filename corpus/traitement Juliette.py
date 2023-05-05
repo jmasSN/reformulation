@@ -48,8 +48,16 @@ for child in root:
 e_with_mre_count = 0
 MRE_ecrit, MRE_oral = 0,0
 e_without_mre_count = 0
+e_without_mre_oral = 0
+e_without_mre_ecrit = 0
+
+e_oral=0
+e_ecrit=0
+
 liste_mre_ecrit=[]
-liste_oral=[]
+liste_mre_oral=[]
+
+element_counts={}
 for r in root.findall('reformulation'):
     for segment in r:
             # On sélectionne les reformulations qui sont des exmplifications
@@ -60,23 +68,56 @@ for r in root.findall('reformulation'):
                     mre_elem = r.find('MRE')
                     # Si c'est à l'écrit, on incrémente le compteur et la liste
                     if r.attrib['mod']=="ecrit":
+                        e_ecrit+=1
                         MRE_ecrit+=1
                         if mre_elem.text.strip() not in liste_mre_ecrit:
                             liste_mre_ecrit.append(mre_elem.text.strip())
                     # Si c'est à l'oral, on incrémente le compteur et la liste
                     else:
+                        e_oral+=1
                         MRE_oral+=1
-                        if mre_elem.text.strip() not in liste_oral:
-                            liste_oral.append(mre_elem.text.strip())
+                        if mre_elem.text.strip() not in liste_mre_oral:
+                            liste_mre_oral.append(mre_elem.text.strip())
+                #Sinon, on sélectionne les exemplifications sans MRE
                 else:
                     e_without_mre_count += 1
+                    
+                    # Si c'est à l'écrit, on incrémente le compteur
+                    if r.attrib['mod']=="ecrit":
+                        e_ecrit+=1
+                        e_without_mre_ecrit += 1
+                        #for element in r:
+                            #if element.tag in ('MR', 'MRP','MRCONC','MRCOR','MRCOR','MRDENOM','MRDESIGN','DA','DH','DI','DMD'):
+                                #print(element.tag,element.text)
+                    # Si c'est à l'oral, on incrémente le compteur
+                    else:
+                        e_oral+=1
+                        e_without_mre_oral +=1
+                        #EN COURS
+                        for element in r:
+                            if element.tag in ('MR', 'MRP','MRCONC','MRCOR','MRCOR','MRDENOM','MRDESIGN','DA','DH','DI','DMD'):
+                                if element.tag not in element_counts:
+                                    element_counts[element.tag] = 1
+                                else:
+                                    element_counts[element.tag] += 1
+                                                
 
+print(element_counts)
 print(liste_mre_ecrit)
-print(liste_oral)
+print(liste_mre_oral)
+print("\nNombre total d'exemplifications : ",e_without_mre_count+e_with_mre_count)
+print("________________________________________________")
+print(f"Nombre d'exemplification à l'oral: {e_oral}")
+print(f"Nombre d'exemplification à l'écrit: {e_ecrit}")
+print("________________________________________________")
 print(f"Nombre d'exemplification avec <MRE>: {e_with_mre_count}")
 print(f"Nombre d'exemplification sans <MRE>: {e_without_mre_count}")
-print(f"Nombre de <MRE> à l'oral: {MRE_oral}")
-print(f"Nombre de <MRE> à l'écrit: {MRE_ecrit}")
+print("________________________________________________")
+print(f"Nombre d'exemplification avec <MRE> à l'oral: {MRE_oral}")
+print(f"Nombre d'exemplification avec <MRE> à l'écrit: {MRE_ecrit}")
+print("________________________________________________")
+print(f"Nombre d'exemplification sans <MRE> à l'oral: {e_without_mre_oral}")
+print(f"Nombre d'exemplification sans <MRE> à l'écrit: {e_without_mre_ecrit}")
 
 
 
@@ -89,5 +130,4 @@ HYPOTHESE 2 : Regarder aussi si les marqueurs d’exemplifications (MRE) apparai
 Les exemplifications peuvent aussi être élargies aux dénominations, définitions et paraphrases (les erreurs d’annotations ?) à vérifier
 Toutes les remarques et les observations sont importantes.
 Pour élargir les données ; on peut annoter le forum (ou une partie du forum) : forum-hta (problèmes cardiaques)"""
-
 
