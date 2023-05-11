@@ -114,11 +114,17 @@ for r in root.findall('reformulation'):
                                     element_counts[element.tag] = 1
                                 else:
                                     element_counts[element.tag] += 1
-                                                
+
+
+#######Couleurs pie chart
+# 
+#colors = ["#003f5c","#2f4b7c","#665191",'#a05195',"#d45087", "#f95d6a","#ff7c43","#ffa600"]      
+colors = ["#F66D44","#FEAE65","#E6F69D",'#AADEA7',"#64C2A6", "#2D87BB","#ff7c43","#ffa600"]      
+
 print(rel_lex_ens_ecrit,rel_lex_ens_oral)
 rel_nom_list_oral = list(rel_lex_ens_oral.values())
 rel_nb_list_oral = list(rel_lex_ens_oral.keys())
-plt.pie(rel_nom_list_oral, labels=rel_nb_list_oral, autopct='%1.1f%%')
+plt.pie(rel_nom_list_oral, labels=rel_nb_list_oral, colors = colors,autopct='%1.1f%%')
 
 # Add a title
 plt.title('Distribution des relations lexicales à l\'oral')
@@ -130,7 +136,7 @@ plt.show()
 
 rel_nom_list_ecrit = list(rel_lex_ens_ecrit.values())
 rel_nb_list_ecrit = list(rel_lex_ens_ecrit.keys())
-plt.pie(rel_nom_list_ecrit, labels=rel_nb_list_ecrit, autopct='%1.1f%%')
+plt.pie(rel_nom_list_ecrit, labels=rel_nb_list_ecrit,colors = colors, autopct='%1.1f%%')
 # Add a title
 plt.title('Distribution des relations lexicales à l\'écrit')
 
@@ -140,7 +146,7 @@ plt.show()
 
 rel_lex_nb = [pas_rel_lex,rel_lex]
 rel_lex_nb_nom = ['Sans rel_lex','Avec rel_lex']
-plt.pie(rel_lex_nb, labels=rel_lex_nb_nom, autopct='%1.1f%%')
+plt.pie(rel_lex_nb, labels=rel_lex_nb_nom,colors = colors, autopct='%1.1f%%')
 # Add a title
 plt.title('Distribution des relations lexicales')
 
@@ -152,7 +158,7 @@ plt.show()
 
 modif_morph_nb = [pas_modif_morph,modif_morph]
 modif_morph_nom = ['Sans modif morph','Avec modif_morph']
-plt.pie(modif_morph_nb, labels=modif_morph_nom, autopct='%1.1f%%')
+plt.pie(modif_morph_nb, labels=modif_morph_nom,colors = colors, autopct='%1.1f%%')
 # Add a title
 plt.title('Distribution des modifications lexicales')
 
