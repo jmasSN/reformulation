@@ -4,6 +4,7 @@
 import xml.etree.ElementTree as ET
 import matplotlib.pyplot as plt
 import re
+import numpy as np
 
 tree = ET.parse('corpus_final.xml')
 root = tree.getroot()
@@ -25,7 +26,8 @@ e_ecrit=0
 liste_mre_ecrit=[]
 liste_mre_oral=[]
 
-element_counts={}
+element_counts_oral={}
+element_counts_ecrit={}
 
 rel_lex_ens_ecrit={}
 rel_lex_ens_oral={}
@@ -60,7 +62,7 @@ for r in root.findall('reformulation'):
                     rel_lex+=1
                 else :
                     pas_rel_lex+=1
-                ###
+                ###On regarde les modif_morph
                 if "modif_morph" in segment.attrib:
                     value_without_parentheses = re.sub(r'\([^()]+\)?','', segment.attrib["modif_morph"])
                     if r.attrib['mod']=="ecrit":
@@ -100,9 +102,12 @@ for r in root.findall('reformulation'):
                     if r.attrib['mod']=="ecrit":
                         e_ecrit+=1
                         e_without_mre_ecrit += 1
-                        #for element in r:
-                            #if element.tag in ('MR', 'MRP','MRCONC','MRCOR','MRCOR','MRDENOM','MRDESIGN','DA','DH','DI','DMD'):
-                                #print(element.tag,element.text)
+                        for element in r:
+                            if element.tag in ('MR', 'MRP','MRCONC','MRCOR','MRCOR','MRDENOM','MRDESIGN','DA','DH','DI','DMD'):
+                                if element.tag not in element_counts_ecrit:
+                                    element_counts_ecrit[element.tag] = 1
+                                else:
+                                    element_counts_ecrit[element.tag] += 1
                     # Si c'est à l'oral, on incrémente le compteur
                     else:
                         e_oral+=1
@@ -110,15 +115,62 @@ for r in root.findall('reformulation'):
                         #EN COURS
                         for element in r:
                             if element.tag in ('MR', 'MRP','MRCONC','MRCOR','MRCOR','MRDENOM','MRDESIGN','DA','DH','DI','DMD'):
-                                if element.tag not in element_counts:
-                                    element_counts[element.tag] = 1
+                                if element.tag not in element_counts_oral:
+                                    element_counts_oral[element.tag] = 1
                                 else:
-                                    element_counts[element.tag] += 1
+                                    element_counts_oral[element.tag] += 1
+
+print(element_counts_ecrit,element_counts_oral)
+      
+      
+      
+#______________________________________________________________________________________
+def create_double_bar_graph(dict1, dict2,y,x,titre):
+    # Get the unique keys from both dictionaries
+    all_keys = set(list(dict1.keys()) + list(dict2.keys()))
+
+    # Initialize the values for both dictionaries
+    values1 = []
+    values2 = []
+
+    # Populate the values lists, setting missing values to zero
+    for key in all_keys:
+        values1.append(dict1.get(key, 0))
+        values2.append(dict2.get(key, 0))
+
+    # Set the positions of the bars on the x-axis
+    positions = np.arange(len(all_keys))
+
+    # Create the figure and axis objects
+    fig, ax = plt.subplots()
+    bar_width = 0.4
+    # Plot the bars
+    ax.bar(positions - bar_width/2, [dict1.get(key, 0) for key in all_keys], width=bar_width, label='Corpus oral')
+    # Plot the bars for dict2
+    ax.bar(positions + bar_width/2, [dict2.get(key, 0) for key in all_keys], width=bar_width, label='Corpus écrit', alpha=0.5)
+
+    # Set the labels and title
+    ax.set_xlabel(titre)
+    ax.set_ylabel(y)
+    ax.set_title(x)
+
+    # Set the x-axis tick labels
+    ax.set_xticks(positions)
+    ax.set_xticklabels(all_keys)
+
+    # Add a legend
+    ax.legend()
+
+    # Show the plot
+    plt.show()
+
+#create_double_bar_graph(element_counts_oral, element_counts_ecrit)
+create_double_bar_graph(rel_lex_ens_oral, rel_lex_ens_ecrit,"Y","Z","Relations lex")
 
 
-#######Couleurs pie chart
-# 
-#colors = ["#003f5c","#2f4b7c","#665191",'#a05195',"#d45087", "#f95d6a","#ff7c43","#ffa600"]      
+#______________________________________________________________________________________)
+
+#######Couleurs pie chart   
 colors = ["#F66D44","#FEAE65","#E6F69D",'#AADEA7',"#64C2A6", "#2D87BB","#ff7c43","#ffa600"]      
 
 print(rel_lex_ens_ecrit,rel_lex_ens_oral)
@@ -165,17 +217,32 @@ plt.title('Distribution des modifications lexicales')
 # Display the chart
 plt.show()
 
-print(element_counts)
-print(liste_mre_ecrit)
-print(liste_mre_oral)
 print("\nNombre total d'exemplifications : ",e_without_mre_count+e_with_mre_count)
 print("________________________________________________")
+# Pie chart pour toutes exempl.
+#exempl = [e_oral,e_ecrit]
+#exempl_nom = ["Exemplifications corpus oral","Exemplifications corpus écrit"]
+#plt.pie(exempl, labels=exempl_nom,colors = colors, autopct='%1.1f%%')
+#plt.title("Pourcentages d'exemplifications dans le corpus")
+#plt.show()
 print(f"Nombre d'exemplification à l'oral: {e_oral}")
 print(f"Nombre d'exemplification à l'écrit: {e_ecrit}")
 print("________________________________________________")
+# Pie chart pour exempl avec/sans MRE.
+#exempl_mre = [e_without_mre_count,e_with_mre_count]
+#exempl_mre_nom = ["Exemplifications sans MRE","Exemplifications avec MRE"]
+#plt.pie(exempl_mre, labels=exempl_mre_nom,colors = colors, autopct='%1.1f%%')
+#plt.title("Pourcentages d'exemplifications avec et sans MRE dans le corpus")
+#plt.show()
 print(f"Nombre d'exemplification avec <MRE>: {e_with_mre_count}")
 print(f"Nombre d'exemplification sans <MRE>: {e_without_mre_count}")
 print("________________________________________________")
+# Pie chart pour exempl avec MRE oral/ecrit.
+#exempl_mre_corpus = [MRE_oral,MRE_ecrit]
+#exempl_mre_corpus_nom = ["Exemplifications avec MRE à l'oral","Exemplifications avec MRE à l'écrit"]
+#plt.pie(exempl_mre_corpus, labels=exempl_mre_corpus_nom,colors = colors, autopct='%1.1f%%')
+#plt.title("Pourcentages d'exemplifications avec MRE dans le corpus")
+#plt.show()
 print(f"Nombre d'exemplification avec <MRE> à l'oral: {MRE_oral}")
 print(f"Nombre d'exemplification avec <MRE> à l'écrit: {MRE_ecrit}")
 print("________________________________________________")
