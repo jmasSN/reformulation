@@ -10,7 +10,6 @@
 # **************************************************************************** #
 
 import argparse
-import xml.etree.ElementTree as ET
 import re
 
 
