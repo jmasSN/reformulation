@@ -12,61 +12,32 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-import re
-import matplotlib.pyplot as plt
+# proportion de exempl dans 3 corpus
 
-with open('corpus_final.txt','r') as t:
-    text = t.read()
 
-# Trouver ce qui est dans les balises MRE
-mre_regex = r'<MRE>(.*?)</MRE>'
-resultats = re.findall(mre_regex, text)
 
-# Compter le nombre d'apparitions de chaque contenu MRE
-mre_comptes = {}
-for resultat in resultats:
-    if resultat in mre_comptes:
-        mre_comptes[resultat] += 1
-    else:
-        mre_comptes[resultat] = 1
+n1,n2,n3=0,0,0
+with open('corpus_final.txt', 'r') as t:
 
-# Créer un pie chart de proportion basé sur les valeurs du dictionnaire
-labels = mre_comptes.keys()
-valeurs = mre_comptes.values()
+    for line in t:
+        if 'rel_pragm="exempl"' in line:
+            if 'corpus="masante' in line:
+                n1+=1
+            elif 'corpus="patient"' in line:
+                n2+=1
+            elif 'mod="oral"' in line:
+                n3+=1
+print(n1,n2,n3)
+labels = ['masante','patient','oral']
+valeurs = [n1,n2,n3]
 
 plt.pie(valeurs, labels=labels, autopct='%1.1f%%')
-plt.title("Proportion des contenus <MRE> dans le corpus")
+plt.title("Proportion d'exemplifications dans 3 corpus")
 plt.show()
-print(len(mre_comptes.keys()),"types de <MRE> :",mre_comptes,"\n")
+
 
 #######################################################################################
-## trouver les exemplification avec et sans <MRE>
-with open("corpus_final.txt",'r') as f :
-    i,j=0,0
-    # créer une liste dont chaque élé est une ligne
-    lines=f.readlines()
-    for line in lines:
-        # chercher les lignes d'exemplification
-        if 'rel_pragm="exempl"' in line:
-            # mettre les cas avec <MRE> dans le compteur i
-            if '<MRE>' in line:
-                i+=1
-            # mettre les cas inverse dans le compteur j
-            else:
-                j+=1
 
-    # créer une liste de labels et une liste de données pour label
-    labels = ['Exempl avec <MRE>', 'Exempl sans <MRE>']
-    sizes = [i,j]
-    plt.pie(sizes, labels=labels, autopct='%1.1f%%')
-
-    plt.title("Proportion d'exemplifications avec ou sans <MRE>")
-    plt.show()
-    print(f"Nb d'exemplifications avec <MRE> : {i} \n"
-          f"Nb d'exemplifications sans <MRE> : {j}\n")
-
-
-########################################################################################
 ## trouver le nb de MRE pour 3 cats
 ## une fonction qui traite 3 parties de corpus (masante, patient, 3oral)
 import re
@@ -116,9 +87,256 @@ plt.show()
 print(f"Proportion de <MRE> relative : \nmasante : {nb1[1]}\n"
       f"patient : {nb2[1]}\n3 corpus oraux : {nb3[1]}\n")
 
-#########################################################################
+#############################################################################################
+# détecter les contenus de MRE et leur fréquence dans 3 corpus
+import xml.etree.ElementTree as ET
+import matplotlib.pyplot as plt
+import numpy as np
 
-## chercher les cas avec <MRE> mais qui n'ont pas de relation exempl
+# Charger le fichier XML
+tree = ET.parse('corpus_final.xml')
+root = tree.getroot()
+
+# Compter le nombre d'apparitions de chaque contenu MRE pour chaque corpus
+mre_comptes_oral = {}
+mre_comptes_masante = {}
+mre_comptes_patient = {}
+
+# Parcourir toutes les balises <reformulation>
+for reformulation in root.iter('reformulation'):
+    # Vérifier le corpus et le mod de chaque balise <reformulation>
+    corpus = reformulation.attrib.get('corpus')
+    mod = reformulation.attrib.get('mod')
+
+    # Parcourir toutes les balises <MRE> à l'intérieur de la balise <reformulation>
+    for mre_element in reformulation.iter('MRE'):
+        mre = mre_element.text.strip()
+
+        # Ajouter le contenu MRE à l'approprié dictionnaire de comptage
+        if mod == 'oral':
+            if mre in mre_comptes_oral:
+                mre_comptes_oral[mre] += 1
+            else:
+                mre_comptes_oral[mre] = 1
+        elif corpus == 'masante':
+            if mre in mre_comptes_masante:
+                mre_comptes_masante[mre] += 1
+            else:
+                mre_comptes_masante[mre] = 1
+        elif corpus == 'patient':
+            if mre in mre_comptes_patient:
+                mre_comptes_patient[mre] += 1
+            else:
+                mre_comptes_patient[mre] = 1
+
+print(mre_comptes_oral)
+print(mre_comptes_masante)
+print(mre_comptes_patient)
+
+
+def create_double_bar_graph(dict1, dict2, dict3, y, x, titre):
+    # Get the unique keys from all dictionaries
+    all_keys = set(list(dict1.keys()) + list(dict2.keys()) + list(dict3.keys()))
+
+    # Initialize the values for all dictionaries
+    values1 = []
+    values2 = []
+    values3 = []
+
+    # Populate the values lists, setting missing values to zero
+    for key in all_keys:
+        values1.append(dict1.get(key, 0))
+        values2.append(dict2.get(key, 0))
+        values3.append(dict3.get(key, 0))
+
+    # Set the positions of the bars on the x-axis
+    positions = np.arange(len(all_keys))
+
+    # Create the figure and axis objects
+    fig, ax = plt.subplots()
+    bar_width = 0.2
+
+    # Plot the bars
+    ax.bar(positions - bar_width, values1, width=bar_width, label='Corpus oral')
+    ax.bar(positions + bar_width * 0, values2, width=bar_width, label='Corpus masante', alpha=0.5)
+    ax.bar(positions + bar_width * 1, values3, width=bar_width, label='Corpus patient', alpha=0.5)
+
+    # Set the labels and title
+    ax.set_xlabel(x)
+    ax.set_ylabel(y)
+    ax.set_title(titre)
+
+    # Set the x-axis tick labels
+    ax.set_xticks(positions)
+    ax.set_xticklabels(all_keys)
+    # Add a legend
+    ax.legend()
+
+    # Show the plot
+    plt.show()
+print(create_double_bar_graph(mre_comptes_oral,mre_comptes_masante,mre_comptes_patient,"nombre de MRE","MRE","Distribution de MRE dans 3 corpus"))
+
+#######################################################################################
+# détecter et compter les non MRE dans exemplification
+# trouver leur MR (sans MRE) et leur relation lexicale
+e_with_mre_count = 0
+MRE_masante, MRE_patient, MRE_oral = 0, 0,0
+e_without_mre_count = 0
+e_without_mre_oral = 0
+e_without_mre_masnate = 0
+e_without_mre_patient = 0
+
+e_oral = 0
+e_masante = 0
+e_patient=0
+
+liste_mre_masante = []
+liste_mre_oral = []
+liste_mre_patient = []
+
+element_counts_oral = {}
+element_counts_masante = {}
+element_counts_patient = {}
+
+rel_lex_ens_masante = {}
+rel_lex_ens_oral = {}
+rel_lex_ens_patient = {}
+
+pas_rel_lex = 0
+rel_lex = 0
+
+modif_morph_ens_oral = {}
+modif_morph_ens_masante = {}
+modif_morph_ens_patient = {}
+modif_morph = 0
+pas_modif_morph = 0
+
+# ______________________________________________________________________
+
+for r in root.findall('reformulation'):
+    for segment in r:
+        # On sélectionne les reformulations qui sont des exmplifications
+        if "rel_pragm" in segment.attrib and segment.attrib["rel_pragm"] == 'exempl':
+            # On regarde les rel_lex :
+            if "rel_lex" in segment.attrib:
+                value_without_parentheses = re.sub(r'\([^()]+\)?', '', segment.attrib["rel_lex"])
+                if r.attrib['corpus'] == "masante":
+                    if value_without_parentheses.strip() not in rel_lex_ens_masante:
+                        rel_lex_ens_masante[value_without_parentheses.strip()] = 1
+                    else:
+                        rel_lex_ens_masante[value_without_parentheses.strip()] += 1
+                elif r.attrib['corpus'] == "patient":
+                    if value_without_parentheses.strip() not in rel_lex_ens_patient:
+                        rel_lex_ens_patient[value_without_parentheses.strip()] = 1
+                    else:
+                        rel_lex_ens_patient[value_without_parentheses.strip()] += 1
+                else:
+                    if value_without_parentheses.strip() not in rel_lex_ens_oral:
+                        rel_lex_ens_oral[value_without_parentheses.strip()] = 1
+                    else:
+                        rel_lex_ens_oral[value_without_parentheses.strip()] += 1
+                rel_lex += 1
+            else:
+                pas_rel_lex += 1
+
+            ###On regarde les modif_morph
+            if "modif_morph" in segment.attrib:
+                value_without_parentheses = re.sub(r'\([^()]+\)?', '', segment.attrib["modif_morph"])
+                if r.attrib['corpus'] == "masante":
+                    if value_without_parentheses not in modif_morph_ens_masante:
+                        modif_morph_ens_masante[value_without_parentheses] = 1
+                    else:
+                        modif_morph_ens_masante[value_without_parentheses] += 1
+                elif r.attrib['corpus'] == "patient":
+                    if value_without_parentheses not in modif_morph_ens_masante:
+                        modif_morph_ens_patient[value_without_parentheses] = 1
+                    else:
+                        modif_morph_ens_patient[value_without_parentheses] += 1
+                else:
+                    if value_without_parentheses not in modif_morph_ens_oral:
+                        modif_morph_ens_oral[value_without_parentheses] = 1
+                    else:
+                        modif_morph_ens_oral[value_without_parentheses] += 1
+                modif_morph += 1
+            else:
+                pas_modif_morph += 1
+            # On regarde s'il y a un marqueur d'exemplification
+            if r.find('MRE') is not None:
+                e_with_mre_count += 1
+                mre_elem = r.find('MRE')
+                # Si c'est à l'écrit, on incrémente le compteur et la liste
+                if r.attrib['corpus'] == "masante":
+                    e_masante += 1
+                    MRE_masante += 1
+                    if mre_elem.text.strip() not in liste_mre_masante:
+                        liste_mre_masante.append(mre_elem.text.strip())
+                elif r.attrib['corpus'] == "patient":
+                    e_patient += 1
+                    MRE_patient += 1
+                    if mre_elem.text.strip() not in liste_mre_patient:
+                        liste_mre_patient.append(mre_elem.text.strip())
+                # Si c'est à l'oral, on incrémente le compteur et la liste
+                else:
+                    e_oral += 1
+                    MRE_oral += 1
+                    if mre_elem.text.strip() not in liste_mre_oral:
+                        liste_mre_oral.append(mre_elem.text.strip())
+            # Sinon, on sélectionne les exemplifications sans MRE
+            else:
+                e_without_mre_count += 1
+
+                # Si c'est à l'écrit, on incrémente le compteur
+                if r.attrib['corpus'] == "masante":
+                    e_masante += 1
+                    e_without_mre_masnate += 1
+                    for element in r:
+                        mot = element.tag
+                        mot.strip()
+                        if mot in (
+                        'MR', 'MRP', 'MRCONC', 'MRCOR', 'MRCOR', 'MRDENOM', 'MRDESIGN', 'DA', 'DH', 'DI', 'DMD'):
+                            if mot not in element_counts_masante:
+
+                                element_counts_masante[mot] = 1
+                            else:
+                                mot = element.tag
+                                mot.strip()
+                                element_counts_masante[mot] += 1
+                elif r.attrib['corpus'] == "patient":
+                    e_patient += 1
+                    e_without_mre_patient += 1
+                    for element in r:
+                        mot = element.tag
+                        mot.strip()
+                        if mot in (
+                        'MR', 'MRP', 'MRCONC', 'MRCOR', 'MRCOR', 'MRDENOM', 'MRDESIGN', 'DA', 'DH', 'DI', 'DMD'):
+                            if mot not in element_counts_patient:
+
+                                element_counts_patient[mot] = 1
+
+                            else:
+                                element_counts_patient[mot] += 1
+
+                # Si c'est à l'oral, on incrémente le compteur
+                else:
+                    e_oral += 1
+                    e_without_mre_oral += 1
+                    # EN COURS
+                    for element in r:
+                        mot = element.tag
+                        mot.strip()
+                        if mot in ('MR', 'MRP', 'MRCONC', 'MRCOR', 'MRCOR', 'MRDENOM', 'MRDESIGN', 'DA', 'DH', 'DI', 'DMD'):
+                            if mot not in element_counts_oral:
+
+                                element_counts_oral[mot] = 1
+                            else:
+                                element_counts_oral[mot] += 1
+
+print(element_counts_masante, element_counts_oral,element_counts_patient)
+print(create_double_bar_graph(element_counts_oral,element_counts_masante,element_counts_patient,"nombre de marqueurs","Marqueurs","Distribution de non MRE dans les exemplifications"))
+print(create_double_bar_graph(rel_lex_ens_oral, rel_lex_ens_masante, rel_lex_ens_patient,"Nb de rel lex", "Relations lex", "Distribution de rel lex dans 3 corpus"))
+
+#############################################################################################################
+# trouver les autres rel_pragms qui contiennent MRE
 def MRE_pragm_autre(type):
     with open('corpus_final.txt','r') as c :
         n = 0
@@ -170,4 +388,6 @@ plt.xticks(x, labels)
 plt.ylabel('Nb de non exemplifications avec <MRE>')
 plt.legend()
 plt.show()
+
+######################################################################################
 
