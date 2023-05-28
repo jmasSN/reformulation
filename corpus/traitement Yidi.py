@@ -390,4 +390,41 @@ plt.legend()
 plt.show()
 
 ######################################################################################
+## la proportion relative d'exemplification dans 2, 3 corpus
+def nb_relative_exempl():
+	n1,n2,n3,n4=0,0,0,0
+	with open('corpus_final.txt', 'r') as t:
+
+	    for line in t:
+
+		if 'rel_pragm="exempl"' in line:
+		    if 'mod="ecrit"' in line:
+		        n1+=1
+		    elif 'mod="oral"' in line:
+		        n2+=1
+		if 'mod="ecrit"' in line:
+		    n3+=1
+		elif 'mod="oral"' in line:
+		    n4+=1
+	print(n1/n3,n2/n4)
+
+	n5,n6,n7,n8,n9,n10=0,0,0,0,0,0
+	with open('corpus_final.txt', 'r') as t:
+
+	    for line in t:
+
+		if 'rel_pragm="exempl"' in line:
+		    if 'corpus="masante"' in line:
+		        n5+=1
+		    elif 'corpus="patient"' in line:
+		        n6+=1
+		    elif 'mod="oral"' in line:
+		        n7+=1
+		if 'corpus="masante"' in line:
+		    n8+=1
+		elif 'corpus="patient"' in line:
+		    n9+=1
+		elif 'mod="oral"' in line:
+		    n10+=1
+	print(n5/n8,n6/n9,n7/n10)
 
